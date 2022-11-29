@@ -1,0 +1,487 @@
+Array
+(
+    [className] => Skill
+    [classId] => http://data.europa.eu/esco/model#Skill
+    [uri] => http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f
+    [title] => verschließbare Vorrichtungen instand setzen
+    [referenceLanguage] => Array
+        (
+            [0] => en
+        )
+
+    [preferredLabel] => Array
+        (
+            [no] => reparere låsbare enheter
+            [de] => verschließbare Vorrichtungen instand setzen
+            [en-us] => repair lockable devices
+            [fi] => korjata lukituslaitteita
+            [pt] => reparar dispositivos de fecho
+            [bg] => ремонтиране на заключващи устройства
+            [lt] => taisyti rakinamus prietaisus
+            [hr] => popravljati uređaje koji se mogu zaključati
+            [lv] => salabot slēdzamās iekārtas
+            [fr] => réparer des dispositifs verrouillables
+            [hu] => zárható eszközöket javít
+            [sk] => opravovať uzamykateľné zariadenia
+            [sl] => popravljati naprave, ki jih je mogoče zakleniti
+            [ga] => gléasanna inghlasáilte a dheisiú
+            [sv] => reparera låsbara anordningar
+            [mt] => tiswija tal-apparati li jissakkru
+            [el] => επισκευή συσκευών που κλειδώνουν
+            [en] => repair lockable devices
+            [is] => gerir við tæki til opnunar
+            [it] => riparare i dispositivi dotati di serrature
+            [es] => reparar dispositivos bloqueables
+            [et] => lukustussüsteeme parandama
+            [cs] => opravovat uzamykatelná zařízení
+            [ar] => اصلاح الأدوات القابلة للفتح والغلق
+            [pl] => naprawiać zamykane urządzenia
+            [da] => reparere aflåselige enheder
+            [ro] => repară dispozitive care pot fi încuiate
+            [nl] => afsluitbare apparatuur repareren
+        )
+
+    [alternativeLabel] => Array
+        (
+            [fi] => Array
+                (
+                    [0] => huoltaa lukituslaitteita
+                )
+
+            [en] => Array
+                (
+                    [0] => fix locks
+                    [1] => repair lockable device
+                    [2] => repair latches
+                    [3] => fix latches
+                    [4] => repairing lockable devices
+                    [5] => repair padlocks
+                    [6] => fix padlocks
+                    [7] => fix lockable devices
+                    [8] => repair locks
+                    [9] => repair  devices which are lockable
+                )
+
+            [es] => Array
+                (
+                    [0] => arreglar cerraduras
+                )
+
+            [nl] => Array
+                (
+                    [0] => afsluitbare apparatuur herstellen
+                    [1] => afsluitbare toestellen herstellen
+                    [2] => afsluitbare toestellen repareren
+                )
+
+        )
+
+    [description] => Array
+        (
+            [no] => Array
+                (
+                    [literal] => Levere reparasjons- og feilsøkingstjenester for automatiske dører, dørlukkeinnretninger og andre tilgangskontrollsystemer i samsvar med spesifikasjonene.
+                    [mimetype] => plain/text
+                )
+
+            [de] => Array
+                (
+                    [literal] => Reparatur- und Störungsbehebungsdienste für automatische Türöffner, Türschließvorrichtungen und andere Zugangskontrollsysteme gemäß den Spezifikationen bereitstellen.
+                    [mimetype] => plain/text
+                )
+
+            [en-us] => Array
+                (
+                    [literal] => Provide repairing and troubleshooting services for automatic door openers, door closing devices and other access control systems, in compliance with specifications.
+                    [mimetype] => plain/text
+                )
+
+            [fi] => Array
+                (
+                    [literal] => Korjaus- ja vianetsintäpalvelut automaattisille ovenavaajille, ovien sulkemislaitteille ja muille kulunvalvontajärjestelmille niiden eritelmien mukaisesti.
+                    [mimetype] => plain/text
+                )
+
+            [pt] => Array
+                (
+                    [literal] => Fornecer serviços de reparação e de resolução de avarias para sistemas de abertura automática de portas, dispositivos de fecho de portas e outros sistemas de controlo de acesso, em conformidade com as especificações.
+                    [mimetype] => plain/text
+                )
+
+            [bg] => Array
+                (
+                    [literal] => Предоставя услуги за ремонт и отстраняване на повреди на системи за автоматично отваряне на врати, устройства за затваряне на врати и други системи за контрол на достъпа, в съответствие със спецификациите.
+                    [mimetype] => plain/text
+                )
+
+            [lt] => Array
+                (
+                    [literal] => Laikantis specifikacijų teikti automatiniams durų atidarymo įtaisams, durų uždarymo įtaisams ir kitoms prieigos kontrolės sistemoms skirtą taisymą ir gedimų šalinimo paslaugas.
+                    [mimetype] => plain/text
+                )
+
+            [lv] => Array
+                (
+                    [literal] => Atbilstoši tehniskajām prasībām nodrošināt remonta un traucējumu novēršanas pakalpojumus, kas attiecas uz automātisko durvju atvēršanas ierīcēm, durvju aizvēršanas ierīcēm un citām piekļuves kontroles sistēmām.
+                    [mimetype] => plain/text
+                )
+
+            [hr] => Array
+                (
+                    [literal] => Pružati usluge popravka i otklanjanja kvarova za automatske otvarače vrata, naprave za zatvaranje vrata i druge sustave za kontrolu pristupa, u skladu sa specifikacijama.
+                    [mimetype] => plain/text
+                )
+
+            [fr] => Array
+                (
+                    [literal] => Fournir des services de réparation et de dépannage pour les dispositifs d’ouverture automatique de portes, les dispositifs de fermeture des portes et d’autres systèmes de contrôle d’accès, conformément aux spécifications.
+                    [mimetype] => plain/text
+                )
+
+            [hu] => Array
+                (
+                    [literal] => Automatikus ajtónyitó és záró berendezések, illetve más hozzáférés-szabályozó rendszerek javítása és hibaelhárítása az előírásoknak megfelelően.
+                    [mimetype] => plain/text
+                )
+
+            [sk] => Array
+                (
+                    [literal] => Poskytovať služby opravy a riešenia problémov pre automatické otvárače dverí, zariadenia na zatváranie dverí a iné systémy kontroly prístupu v súlade so špecifikáciami.
+                    [mimetype] => plain/text
+                )
+
+            [sl] => Array
+                (
+                    [literal] => Zagotoviti popravila in odpravljanje napak pri napravah za avtomatsko odpiranje vrat, napravah za zapiranje vrat in drugih sistemih za nadzor dostopa v skladu s specifikacijami.
+                    [mimetype] => plain/text
+                )
+
+            [ga] => Array
+                (
+                    [literal] => Seirbhísí deisithe agus fabhtcheartaithe a sholáthar le haghaidh baill foirne uathoibríocha dorais, gléasanna dúnta doirse agus córais rialaithe rochtana eile, i gcomhréir leis na sonraíochtaí.
+                    [mimetype] => plain/text
+                )
+
+            [sv] => Array
+                (
+                    [literal] => Erbjuda reparation och felsökning av automatiska dörröppnare, dörrlåsningsanordningar och andra åtkomstkontrollsystem i enlighet med specifikationer.
+                    [mimetype] => plain/text
+                )
+
+            [el] => Array
+                (
+                    [literal] => Παροχή υπηρεσιών επισκευής και αποκατάστασης βλαβών συστήματος αυτόματου ανοίγματος πόρτας, συσκευών κλεισίματος θυρών και άλλων συστημάτων ελέγχου πρόσβασης σύμφωνα με τις προδιαγραφές.
+                    [mimetype] => plain/text
+                )
+
+            [mt] => Array
+                (
+                    [literal] => Ipprovdi servizzi ta’ tiswija u ta’ individwazzjoni ta’ soluzzjonijiet għal openers awtomatiċi tal-bibien, apparati li jagħlqu l-bibien u sistemi oħra ta’ kontroll tal-aċċess, f’konformità mal-ispeċifikazzjonijiet.
+                    [mimetype] => plain/text
+                )
+
+            [en] => Array
+                (
+                    [literal] => Provide repairing and troubleshooting services for automatic door openers, door closing devices and other access control systems, in compliance with specifications.
+                    [mimetype] => plain/text
+                )
+
+            [is] => Array
+                (
+                    [literal] => Veitir viðgerðar- og bilanaleitarþjónustu fyrir sjálfvirka dyraopnara, hurðalokunarbúnað og annan aðgangsstýrikerfisbúnað í samræmi við forskriftir.
+                    [mimetype] => plain/text
+                )
+
+            [it] => Array
+                (
+                    [literal] => Fornire servizi di riparazione e risoluzione di problemi per dispositivi per l’apertura automatica delle porte, dispositivi di chiusura delle porte e altri sistemi di controllo dell’accesso, conformemente alle specifiche.
+                    [mimetype] => plain/text
+                )
+
+            [es] => Array
+                (
+                    [literal] => Prestar servicios de reparación y resolución de problemas para los mandos automáticos de puertas, los dispositivos de cierre de puertas y otros sistemas de control de acceso, en cumplimiento de las especificaciones.
+                    [mimetype] => plain/text
+                )
+
+            [et] => Array
+                (
+                    [literal] => Automaatsete ukseavamis- ja uksesulgeseadmete ning muude juurdepääsukontrolli süsteemide remondi- ja tõrkeotsinguteenuste osutamine.
+                    [mimetype] => plain/text
+                )
+
+            [cs] => Array
+                (
+                    [literal] => Zajišťovat opravy a řešení problémů v případě zařízení pro automatické otevírání dveří, zařízení pro zavírání dveří a jiných systémů kontroly vstupu, a to v souladu se specifikacemi.
+                    [mimetype] => plain/text
+                )
+
+            [ar] => Array
+                (
+                    [literal] => تقديم خدمات التصليح واستكشاف المشكلات وحلها للأجهزة الأوتوماتيكية لفتح الأبواب وإغلاقها وأنظمة التحكم في الدخول الأخرى، وهذا على نحو يمتثل للمواصفات.
+                    [mimetype] => plain/text
+                )
+
+            [pl] => Array
+                (
+                    [literal] => Świadczyć usługi naprawcze i rozwiązywać problemy w automatycznych urządzeniach do otwierania drzwi, urządzeniach zamykających drzwi i innych systemach kontroli dostępu, zgodnie ze specyfikacjami.
+                    [mimetype] => plain/text
+                )
+
+            [da] => Array
+                (
+                    [literal] => Levere reparations- og fejlfindingtjenester til automatiske døråbnere, dørlukkeanordninger og andre adgangskontrolsystemer i overensstemmelse med specifikationer.
+                    [mimetype] => plain/text
+                )
+
+            [ro] => Array
+                (
+                    [literal] => Oferă servicii de reparare și depanare a dispozitivelor pentru deschiderea automată a ușilor, a dispozitivelor pentru închiderea ușilor și a altor sisteme de control al accesului, în conformitate cu specificațiile.
+                    [mimetype] => plain/text
+                )
+
+            [nl] => Array
+                (
+                    [literal] => Reparatie- en probleemoplossingsdiensten bieden voor automatische deuropeners, deurafsluiters en andere toegangscontrolesystemen, in overeenstemming met de specificaties.
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [status] => released
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f&language=de
+                    [uri] => http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f
+                    [title] => verschließbare Vorrichtungen instand setzen
+                )
+
+            [isInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/member-skills
+                            [title] => Fähigkeiten auf der ESCO-Ebene
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills
+                            [title] => ESCO-Fähigkeiten
+                        )
+
+                )
+
+            [hasSkillType] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=de
+                            [uri] => http://data.europa.eu/esco/skill-type/skill
+                            [title] => Fähigkeit
+                        )
+
+                )
+
+            [hasReuseLevel] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/occupation-specific&language=de
+                            [uri] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                            [title] => berufsspezifische Fähigkeiten und Kompetenzen
+                            [code] => Level 4
+                        )
+
+                )
+
+            [broaderHierarchyConcept] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S8.8.1&language=de
+                            [uri] => http://data.europa.eu/esco/skill/S8.8.1
+                            [title] => Installation und Reparatur von elektrischen, elektronischen und Präzisionsgeräten
+                            [code] => S8.8.1
+                        )
+
+                )
+
+            [broaderSkill] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4&language=de
+                            [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                            [title] => schadhafte Geräte ersetzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                )
+
+            [isEssentialForOccupation] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aaa485d0-6787-45c0-8596-b266c0b687fd&language=de
+                            [uri] => http://data.europa.eu/esco/occupation/aaa485d0-6787-45c0-8596-b266c0b687fd
+                            [title] => Schloss- und Schlüsselmacher/Schloss- und Schlüsselmacherin
+                        )
+
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [ancestors] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => verschließbare Vorrichtungen instand setzen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                                    [1] => http://data.europa.eu/esco/skill/S8.8.1
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => schadhafte Geräte ersetzen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8.1
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => Installation und Reparatur von elektrischen, elektronischen und Präzisionsgeräten
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.8.1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8.8.1
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => Installation, Wartung und Reparatur von elektrischen, elektronischen und Präzisionsausrüstungen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.8&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8.8
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => Arbeiten mit Maschinen und Spezialausrüstungen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [title] => Fähigkeiten
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [title] => Installation und Reparatur von elektrischen, elektronischen und Präzisionsgeräten
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.8.1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8.8.1
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

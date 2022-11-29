@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<!--[if !IE]><!--><html lang="de"><!--<![endif]-->
+<!--[if gte IE 9]><html class="ie ie9up" lang="de"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ie-old" lang="de"><![endif]-->
+<!--[if lte IE 7]><html class="ie ie7down ie-old" lang="de"><![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tpl</title>
+<link rel="shortcut icon" type="image/ico" href="core10/favicon_sh.ico" />
+<link rel="stylesheet" type="text/css" href="/core.css?ver=2022-02-22_05-33-19" />
+<link rel="stylesheet" type="text/css" href="/core.responsive.css?ver=2022-02-22_05-33-19" />
+<link rel="stylesheet" type="text/css" href="core51/lib/jquery/jquery-ui-1.12.1.custom.min.css?ver=2022-02-22_05-33-20" />
+<link rel="stylesheet" type="text/css" href="core51/lib/zebra-datepicker/zebra_datepicker.min.css?ver=2022-02-22_05-33-20" />
+<link rel="stylesheet" type="text/css" href="core51/lib/cookieconsent/cookieconsent.min.css?ver=2022-02-22_05-33-20" />
+<link rel="stylesheet" type="text/css" href="/portal.css?ver=2022-03-07_03-59-13" />
+<link rel="stylesheet" type="text/css" href="/files/sh/responsiv/responsiv.css" />
+<script src="core51/lib/jquery/jquery-1.12.4.min.js?ver=2022-02-22_05-33-20" ></script>
+<script src="core51/lib/jquery/jquery-ui-1.12.1.custom.min.js?ver=2022-02-22_05-33-20" ></script>
+<script src="jquery.wisy.simplified.js?ver=2022-02-22_05-33-19" ></script>
+<script src="//f1-eu.readspeaker.com/script/10065/webReader/webReader.js?pids=wr" integrity="sha256-nnFRjlvCY23QlxslQtg35y/d9bIyNOYVxp9dW3RLegw=" crossorigin="anonymous" fromcache="true"></script>
+<script src="/files/sh/js/portal.js" ></script>
+<script src="core51/lib/zebra-datepicker/zebra_datepicker.min.js?ver=2022-02-22_05-33-20"  defer></script>
+<script src="core51/lib/cookieconsent/cookieconsent.min.js?ver=2022-02-22_05-33-20"  defer></script>
+<script>
+window.search_minchars = 4;</script>
+<script>
+window.cookiebanner = {};
+window.cookiebanner.optoutCookies = ",fav,fav_init_hint";
+window.cookiebanner.optedOut = false;
+window.cookiebanner.favOptoutMessage = "Ihr Favorit konnte auf diesem Computer nicht gespeichert werden, da Sie die Speicherung von Cookies abgelehnt haben. Sie koennen Ihre Cookie-Einstellungen in den Datenschutzhinweisen anpassen.";
+window.cookiebanner.piwik = "9";
+window.cookiebanner.uacct = "";
+window.addEventListener("load",function(){window.cookieconsent.initialise({
+    "type": "opt-out",
+    "revokeBtn": "<div style=\"display:none;\"></div>",
+    "position": "bottom-left",
+    "law": {
+        "countryCode": "DE"
+    },
+    "cookie": {
+        "expiryDays": 7
+    },
+    "content": {
+        "message": "<strong>Wir nutzen auf dieser Webseite Cookies.</strong><br>Einige sind technisch notwendig, w&auml;hrend andere uns helfen, die Webseite und Ihre Nutzungserfahrung zu verbessern. <a href=\"/g11791\">Mehr erfahren</a> <ul class=\"cc-consent-details\"><li class='einstellungen disabled'>\r\n                                    <input type='checkbox' name='cconsent_einstellungen' checked='checked'disabled> <div class='consent_option_infos'>Erforderlich<span class='importance'><span class=\"consent_option_importance\"><br>(technisch notwendig)</span><span class='cookies_techdetails inactive'><br>Speicherdauer:7 Tage, um diese Einstellungen zu speichern, wichtige Besucher-Hinweise anzuzeigen und die Onlinepflege zu erm&ouml;glichen</span></span></div></li><li class='merkliste '>\r\n                                    <input type='checkbox' name='cconsent_merkliste' checked='checked'> <div class='consent_option_infos'>Komfort<span class='importance'><span class=\"consent_option_importance\"><br><b>(optional - aktiv zugestimmt)</b></span><span class='cookies_techdetails inactive'><br>Speicherdauer:7 Tage, um eine Kurs-Merkliste zur Verf&uuml;gung zu stellen</span></span></div></li><li class='analytics '>\r\n                                    <input type='checkbox' name='cconsent_analytics' checked='checked'> <div class='consent_option_infos'>Statistik<span class='importance'><span class=\"consent_option_importance\"><br><b>(optional - aktiv zugestimmt)</b></span><span class='cookies_techdetails inactive'><br>Speicherdauer:7 Tage, um die Zugriffe auf unsere Webseite pseudonymisiert (lokal mittels Matomo) zu analysieren, Name: _pk_ref (Speicherdauer: 6 Monate), Name: _pk_cvar (Speicherdauer: 30min.), Name: _pk_id (Speicherdauer: 13 Monate), Name: _pk_ses (Speicherdauer: 30min.)</span></span></div></li></ul><br><a href='javascript:toggle_cookiedetails();' class='toggle_cookiedetails inactive'>Cookie-Details</a><br><br>",
+        "zustimmung_einstellungen": "Erforderlich",
+        "zustimmung_popuptext": false,
+        "zustimmung_merkliste": "Komfort",
+        "zustimmung_onlinepflege": false,
+        "zustimmung_translate": false,
+        "zustimmung_analytics": "Statistik",
+        "allow": "Auswahl speichern",
+        "allowall": "Alle annehmen",
+        "deny": "Ablehnen",
+        "link": "Mehr erfahren...",
+        "href": ""
+    },
+    "palette": {
+        "popup": {
+            "background": "#f5f5f5",
+            "text": "#000",
+            "link": "#3E7AB8"
+        },
+        "button": {
+            "background": "#0083C4",
+            "text": "#FFF"
+        },
+        "highlight": {
+            "background": "#FFF",
+            "text": "#000"
+        }
+    }
+,onInitialise: function(status) {
+						var didConsent = this.hasConsented();
+						if(!didConsent) {
+							window.cookiebanner.optedOut = true;
+							updateCookieSettings();
+						}
+                        callCookieDependantFunctions();
+					},
+					onStatusChange: function(status) {
+						var didConsent = this.hasConsented();
+						if(!didConsent) {
+							window.cookiebanner.optedOut = true;
+							updateCookieSettings();
+						}
+                        callCookieDependantFunctions();
+					}},
+					function(popup){
+						popup.toggleRevokeButton(false);
+						window.cookieconsent.popup = popup;
+						$("#wisy_cookieconsent_settings").on("click", function() {
+							window.cookieconsent.popup.open();
+							window.cookiebanner.optedOut = false;
+							updateCookieSettings();
+							return false;
+						});
+					});
+			    
+			/* save detailed cookie consent status */
+
+                jQuery(".cc-btn.cc-allow-all").click(function(){ 
+				 jQuery(".cc-consent-details input[type=checkbox]").each(function(){ jQuery(this).attr("checked", "checked") });
+				 jQuery(".cc-btn.cc-allow").trigger("click");
+ 				});
+
+				jQuery(".cc-btn.cc-allow").click(function(){
+					jQuery(".cc-consent-details input[type=checkbox]").each(function(){
+						var cname = jQuery(this).attr("name");
+						$.removeCookie(cname, { path: "/" });if( jQuery(this).is(":checked") && jQuery(".cc-consent-details .einstellungen input[type=checkbox]").is(":checked") ) {
+								setCookieSafely(cname, "allow", { expires:7});
+										if(cname == "cconsent_analytics") {
+											/* Calling analystics url by calling script in script-tag. Calling via ajax() would not execute script withou eval. */
+							        
+											if( jQuery("#ga_script").length )
+												eval(jQuery("#ga_script").text());
+							        
+											if( jQuery("#matomo_script").length )
+												embedMatomoTracking();
+							        
+										}
+						}if( jQuery(".cc-consent-details .einstellungen input[type=checkbox]").is(":checked") == false)
+													setTimeout(function(){ jQuery.cookie("cookieconsent_status", null, { path: "/", sameSite: "Strict" }); } , 500);});
+				});
+				
+			});
+			
+		    
+			window.cookiebanner_zustimmung_popuptext_legacy = 1;
+			
+			window.cookiebanner_zustimmung_onlinepflege_legacy = 1;
+			window.cookiebanner_zustimmung_translate_legacy = 1;
+			
+            jQuery(document).ready(function(){
+			 /* Hide translation optically until approved */
+				if(jQuery("#google_translate_element").length) { jQuery("#google_translate_element").closest("li").hide(); };
+			});
+
+			</script>
+<script>
+var homepage = '/'</script>
+<meta name="description" content="Datenbank f&uuml;r Fort- und Weiterbildung. &#10003; &Uuml;bersichtlich &#10003; Informativ &#10003; transparent.">
+<link rel="alternate" hreflang="de" href="//localhost/">
+<meta property="og:title" content="Tpl">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://localhost/">
+<meta property="og:description" content="Datenbank f&uuml;r Fort- und Weiterbildung. &amp;#10003; &Uuml;bersichtlich &amp;#10003; Informativ &amp;#10003; transparent.">
+<meta property="og:locale" content="de_DE">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://localhost/">
+<meta name="twitter:title" content="Tpl">
+<meta name="twitter:description" content="Datenbank f&uuml;r Fort- und Weiterbildung. &amp;#10003; &Uuml;bersichtlich &amp;#10003; Informativ &amp;#10003; transparent.">
+</head>
+<body  class="wisyp_search wisyp_homepage nojs" >
+<script>document.body.className = document.body.className.replace("nojs","yesjs");</script>
+<div class="acclink"><a href="#wisy_contentareaAnchor">Zum Inhalt</a></div><div id="topscroll"></div>
+<div id="page">
+	<header id="sh-header">
+		<div class="header-wrapper">
+			<a href="/"><div id="portal-info"><h1>Kursportal Schleswig-Holstein</h1>
+			<h5>Heute finden Sie 0 Kurse von 0 Anbietern<br /></h5><div class="laden" style="display: none;">Durchsuche Datens&auml;tze <span class="ppp1">.</span><span class="ppp2">.</span><span class="ppp3">.</span> Bitte warten <span class="ppp1">.</span><span class="ppp2">.</span><span class="ppp3">.</span>
+</div></div></a>
+		<div id="sh-logo"><a href="https://www.schleswig-holstein.de/DE/Landesregierung/VII/vii_node.html" target="_blank"><!--  itemprop="url" --><img src="/files/sh/responsiv/img/sh-logo.png" alt="Das Kursportal Schleswig-Holstein - gefördert vom Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und Tourismus"/><!--  itemprop="logo" --></a><!-- <meta content="Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und Tourismus" itemprop="name"> -->
+</div>
+
+		</div><div class="submenue"><!-- dropdown creation time: 0.001 s --><ul class="dropdown dropdown-horizontal"><li class="dir "><a href="g11811"  class="trenn" >Beratung</a><ul><li><a href="g11811"  class="no-desk" >Beratung - Übersicht</a></li><li><a href="https://weiterbilden-sh.de/standorte-und-kontakte/"  target="_blank" >Weiterbildungsberatung für Bürgerinnen und Bürger</a></li><li><a href="https://www.der-weiterbildungsratgeber.de"  target="_blank" >Bundesweite telefonische Weiterbildungsberatung</a></li><li><a href="https://www.arbeitsagentur.de/vor-ort/hamburg/berufsberatung-erwerbsleben"  target="_blank" >Bundesagentur für Arbeit – Berufsberatung im Erwerbsleben</a></li><li><a href="https://www.vhs-sh.de/thema/grundbildung/"  target="_blank" >Alphabetisierung - Informations- und Beratungsstellen in Schleswig-Holstein</a></li><li><a href="https://www.frau-und-beruf-sh.de/unser-angebot-fuer-sie/"  target="_blank" >Beratungsstellen FRAU & BERUF - berufliche  Beratung für Frauen</a></li><li><a href="g14261">Informationen zum Fachkräfteeinwanderungsgesetz</a></li><li><a href="https://kofw-sh.de/fachkraeftesicherung/beratungsnetz"  target="_blank" >Beratungsnetzwerk Fachkräftesicherung für kleine und mittlere Unternehmen</a></li></ul></li><li class="dir "><a href="g11821"  class="trenn" >Service</a><ul><li><a href="g4165">Über das Kursportal Schleswig-Holstein</a></li><li><a href="g13721">Anleitung zur Suche im Kursportal</a></li><li><a href="g2990">Servicetelefon</a></li><li><a href="g14041">Infoflyer Kursportal</a></li><li><a href="g11561">Checklisten + Tools</a></li><li><a href="g14061">Arbeitsmarktentwicklung</a></li><li><a href="g4155">Qualitätsurteil: GUT (1,6)</a></li><li><a href="g7891">Presse</a></li><li><a href="g7831">AGB</a></li><li><a href="g2208">Impressum</a></li><li><a href="g11791">Datenschutz</a></li></ul></li><li class="dir "><a href="g11831"  class="trenn" >Fördermöglichkeiten</a><ul><li><a href="g11831"  class="no-desk" >Fördermöglichkeiten - Übersicht</a></li><li><a href="https://www.der-weiterbildungsratgeber.de"  target="_blank" >Infotelefon zur Finanzierung von Weiterbildung</a></li><li><a href="g2224">Aufstiegsfortbildungsförderungsgesetz (Aufstiegs-BAföG)</a></li><li><a href="g2230">BAföG für Schüler/innen</a></li><li><a href="g2232">Begabtenförderung</a></li><li><a href="g2255">Bildungsgutschein (Arbeitsagentur)</a></li><li><a href="g2257">Bildungsfreistellung (Bildungsurlaub)</a></li><li><a href="g3777">Förderdatenbank</a></li><li><a href="g3341">Förderprogramm für den Bereich Güterkraftverkehr</a></li><li><a href="g13501">Qualifizierungsoffensive WEITER.BILDUNG!</a></li><li><a href="g3337">Weiterbildungsbonus Pro</a></li></ul></li><li class="dir "><a href="g13551?q=Zeige%3AAnbieter"  class="trenn" >Anbieter</a><ul><li><a href="/search?q=%2C+Zeige%3AAnbieter">Anbieterverzeichnis</a></li><li><a href="g13551?q=Zeige%3AAnbieter"  class="no-desk" >Informationen für Anbieter</a></li><li><a href="g2707?q=Zeige%3AAnbieter">Neuaufnahme von Anbietern</a></li><li><a href="g7821?q=Zeige%3AAnbieter">Anbieter-Login</a></li><li><a href="g2731?q=Zeige%3AAnbieter">Anzeigenschaltung/Verlinkung</a></li><li><a href="g11681?q=Zeige%3AAnbieter">Datenübermittlung</a></li></ul></li><li class="dir "><a href="g11841"  class="trenn" >Regionen</a><ul><li><a href="https://dithmarschen-steinburg.kursportal.info/">Dithmarschen-Steinburg</a></li><li><a href="https://flensburg.kursportal.info/">Flensburg-Schleswig</a></li><li><a href="https://kiel.kursportal.info/">Kiel</a></li><li><a href="https://luebeck.kursportal.info/">Lübeck</a></li><li><a href="https://neumuenster.kursportal.info/">Neumünster</a></li><li><a href="https://nordfriesland.kursportal.info/">Kreis Nordfriesland</a></li><li><a href="https://ohp.kursportal.info/">Ostholstein-Plön</a></li><li><a href="https://pinneberg.kursportal.info/">Kreis Pinneberg</a></li><li><a href="https://rendsburg.kursportal.info/">Kreis Rendsburg-Eckernförde</a></li><li><a href="https://segeberg.kursportal.info/">Kreis Segeberg</a></li><li><a href="https://stormarn.kursportal.info/">Stormarn-Herzogtum Lauenburg</a></li></ul></li><li class="dir "><a href="g11851"  class="trenn" >Andere Portale</a><ul><li><a href="https://hamburg.kursportal.info"  target="_blank" >Hamburg</a></li><li><a href="https://www.weiterbildung-mv.de/"  target="_blank" >Mecklenburg-Vorpommern</a></li><li><a href="https://deutsch-sh.kursportal.info"  target="_blank" >Deutsch-Sprachkurse Schleswig-Holstein</a></li><li><a href="https://www.schleswig-holstein.de/DE/Fachinhalte/W/weiterbildung/Datenbank/bfqg_datenbank.html"  target="_blank" >Bildungsurlaub in Schleswig-Holstein</a></li><li><a href="https://fernunterricht.kursportal.info"  target="_blank" >Fernunterricht</a></li><li><a href="https://www.engagiert-in-sh.de/index.php?id=264"  target="_blank" >Bürgerakademie</a></li><li><a href="https://iwwb.de/metasuche"  target="_blank" >Kurssuche bundesweit (IWWB)</a></li></ul></li><li><a href="g13251"  class="endtrenn" >Hilfe</a></li></ul></div>
+	<div id="nav-link"><span>Men&uuml; &ouml;ffnen</span></div>
+	</header>
+	
+	<div id="navbar">
+		<div class="inner maxwidth clearfix">
+			<nav id="themenmenue" class="noprint"><!-- dropdown creation time: 0.068 s --><ul class="dropdown dropdown-horizontal"><li class="dir "><a href="search?q=Wirtschaft+B%FCro+Management"><span class="hnavi1st"><b>Wirtschaft</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Wirtschaft%29">ABSCHLÜSSE (Wirtschaft)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Wirtschaft%29">Ausbildung  Umschulung  (Wirtschaft)</a></li><li><a href="search?q=Aufstieg+Studium+%28Wirtschaft%29">Aufstieg  Studium  (Wirtschaft)</a></li></ul></li><li><a href="search?q=Grundwissen+Wirtschaft+%28BWL+VWL%29">Grundwissen Wirtschaft (BWL, VWL)</a></li><li><a href="search?q=B%FCro+Sekretariat+Korrespondenz">Büro, Sekretariat, Korrespondenz</a></li><li><a href="search?q=Einkauf+Verkauf+Au%DFenhandel">Einkauf, Verkauf, Außenhandel</a></li><li><a href="search?q=Buchf%FChrung+Finanzen+Controlling+Steuern">Buchführung, Finanzen, Controlling, Steuern</a></li><li><a href="search?q=Versicherung+Recht">Versicherung, Recht</a></li><li><a href="search?q=Immobilienwirtschaft+Facility+Management">Immobilienwirtschaft, Facility Management</a></li><li><a href="search?q=Marketing+Vertrieb+E-Commerce+Eventmanagement">Marketing, Vertrieb, E-Commerce, Eventmanagement</a></li><li><a href="search?q=Personalwesen+Arbeitsrecht">Personalwesen, Arbeitsrecht</a></li><li><a href="search?q=Existenzgr%FCndung+Unternehmensf%FChrung">Existenzgründung, Unternehmensführung</a></li><li><a href="search?q=Projekt-+und+Qualit%E4tsmanagement">Projekt- und Qualitätsmanagement</a></li><li><a href="search?q=SAP-Anwendungen">SAP-Anwendungen</a></li></ul></li><li class="dir "><a href="search?q=Computer"><span class="hnavi1st"><b>Computer</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Computer%29">ABSCHLÜSSE (Computer)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Computer%29">Ausbildung  Umschulung (Computer)</a></li><li><a href="search?q=Aufstieg+Studium+%28Computer%29">Aufstieg  Studium (Computer)</a></li></ul></li><li><a href="search?q=Grundwissen+EDV+Internet">Grundwissen EDV, Internet</a></li><li><a href="search?q=Office">Office-Paket</a></li><li><a href="search?q=Textverarbeitung">Textverarbeitung</a></li><li><a href="search?q=Tabellenkalkulation">Tabellenkalkulation</a></li><li><a href="search?q=Datenbankanwendung">Datenbankanwendung</a></li><li><a href="search?q=Multimedia+Grafik+Druck">Multimedia, Grafik, Druck</a></li><li><a href="search?q=SAP-Anwendungen">SAP-Anwendungen</a></li><li><a href="search?q=Computer%2C+ZERTIFIKATE">Computer: Zertifikate</a></li><li><a href="search?q=Computer-Administration+IT+Programmierung"><b>Administration & <br>Programmierung</b></a></li><li><a href="search?q=Server+Netzwerke+Administration">Server, Netzwerke, Administration</a></li><li><a href="search?q=Softwareentwicklung+Programmierung">Softwareentwicklung, Programmierung</a></li></ul></li><li class="dir "><a href="search?q=Technik+Logistik+Umwelt+Naturwissenschaften"><span class="hnavi1st"><b>Technik</b> </span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Technik%29">ABSCHLÜSSE (Technik)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Technik%29">Ausbildung  Umschulung (Technik)</a></li><li><a href="search?q=Aufstieg+Studium+%28Technik%29">Aufstieg  Studium (Technik)</a></li></ul></li><li><a href="search?q=Grundwissen+Technik+Naturwissenschaft">Grundwissen Technik, Naturwissenschaft</a></li><li><a href="search?q=Elektro-+Steuerungs-+Messtechnik">Elektro-, Steuerungs-, Messtechnik</a></li><li><a href="search?q=CAD+Techn.+Zeichnen+Geo-Systeme">CAD, Technisches Zeichnen, Geo-Systeme</a></li><li><a href="search?q=Metall+Maschinenbau+Schwei%DFen+Kfz-Technik">Metall, Maschinenbau, Schweißen, Kfz-Technik</a></li><li><a href="search?q=Lager+Logistik+Transport+Verkehr">Lager, Logistik, Transport, Verkehr</a></li><li><a href="search?q=Chemie+Farbe+Kunststoff+Verpackung">Chemie, Farbe, Kunststoff, Verpackung</a></li><li><a href="search?q=Bau-+Geb%E4udetechnik+Holz+Heimwerken+Veranstaltungstechnik">Bau-, Gebäudetechnik, Holz, Heimwerken, Veranstaltungstechnik</a></li><li><a href="search?q=Werk-+Arbeitsschutz+Sicherheit+Datenschutz">Werk-, Arbeitsschutz, Sicherheit, Datenschutz</a></li><li><a href="search?q=Umwelt+Natur+Biologie+Zoologie+Land-+Forstwirtschaft+Garten+Gartenbau">Umwelt, Natur, Biologie, Zoologie, Land-, Forstwirtschaft, Gartenbau</a></li></ul></li><li class="dir "><a href="search?q=Kultur+Kunst+Medien+Mode"><span class="hnavi1st"><b>Kultur</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Kultur%29">ABSCHLÜSSE (Kultur)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Kultur%29">Ausbildung  Umschulung (Kultur)</a></li><li><a href="search?q=Aufstieg+Studium+%28Kultur%29">Aufstieg  Studium (Kultur)</a></li></ul></li><li><a href="search?q=Journalismus+kreatives+Schreiben+%D6ffentlichkeitsarbeit">Journalismus, kreatives Schreiben, Öffentlichkeitsarbeit</a></li><li><a href="search?q=Multimedia+Grafik+Druck">Multimedia, Grafik, Druck</a></li><li><a href="search?q=Bibliothek+Technikdokumentation+%DCbersetzung">Bibliothek, Technikdokumentation, Übersetzung</a></li><li><a href="search?q=Film+Foto+Funk+TV+Video">Film, Foto, Funk, TV, Video</a></li><li><a href="search?q=Bildbearbeitung">Bildbearbeitung</a></li><li><a href="search?q=Textil+Mode+Bekleidung">Textil, Mode, Bekleidung</a></li><li><a href="search?q=Musik+Theater+Literatur">Musik, Theater, Literatur</a></li><li><a href="search?q=Malen+Zeichnen+Drucken">Malen, Zeichnen, Drucken</a></li><li><a href="search?q=K%FCnstlerisches+Gestalten+Kunst-+und+Baugeschichte">Künstlerisches Gestalten, Kunst- und Baugeschichte</a></li></ul></li><li class="dir "><a href="/search?q=Sozialwesen"><span class="hnavi1st"><b>Soziales</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Sozialwesen%29">ABSCHLÜSSE (Sozialwesen)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Sozialwesen%29">Ausbildung  Umschulung (Sozialwesen)</a></li><li><a href="search?q=Aufstieg+Studium+%28Sozialwesen%29">Aufstieg  Studium (Sozialwesen)</a></li></ul></li><li><a href="search?q=Erziehung">Erziehung</a></li><li><a href="search?q=P%E4dagogik+Soziale+Arbeit">Pädagogik, Soziale Arbeit</a></li><li><a href="search?q=Psychologie">Psychologie</a></li></ul></li><li class="dir "><a href="/search?q=Gesundheitswesen"><span class="hnavi1st"><b>Gesundheit</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Gesundheitswesen%29">ABSCHLÜSSE (Gesundheitswesen)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Gesundheitswesen%29">Ausbildung  Umschulung (Gesundheitswesen)</a></li><li><a href="search?q=Aufstieg+Studium+%28Gesundheitswesen%29">Aufstieg  Studium (Gesundheitswesen)</a></li></ul></li><li><a href="search?q=Pflege">Pflege</a></li><li><a href="search?q=Gesundheit+Medizin">Gesundheit, Medizin</a></li><li><a href="search?q=Entspannung+Wellness+Kosmetik">Entspannung, Wellness, Kosmetik</a></li><li><a href="search?q=Sport+Tanz+Spiel">Sport, Tanz, Spiel</a></li></ul></li><li class="dir "><a href="search?q=Touristik+Gastronomie+Hauswirtschaft"><span class="hnavi1st"><b>Touristik</b></span></a><ul><li class="dir "><a href="search?q=ABSCHL%DCSSE+%28Touristik%29">ABSCHLÜSSE (Touristik)</a><ul><li><a href="search?q=Ausbildung+Umschulung+%28Touristik%29">Ausbildung  Umschulung (Touristik)</a></li><li><a href="search?q=Aufstieg+Studium+%28Touristik%29">Aufstieg  Studium (Touristik)</a></li></ul></li><li><a href="search?q=Touristik+Hotel-+u.+Gastst%E4ttenbetrieb">Touristik, Hotel- u. Gaststättenbetrieb</a></li><li><a href="search?q=Ern%E4hrung+Kochen+Hauswirtschaft">Ernährung, Kochen, Hauswirtschaft</a></li></ul></li><li class="dir "><a href="search?q=Sprachen"><span class="hnavi1st"><b>Sprachen</b></span></a><ul><li><a href="search?q=ABSCHL%DCSSE+%28Sprachen%29">ABSCHLÜSSE (Sprachen)</a></li><li><a href="search?q=Alphabetisierung">Alphabetisierung</a></li><li class="dir "><a href="search?q=Deutsch+als+Fremdsprache">Deutsch<br> als Fremdsprache</a><ul><li><a href="search?q=Deutsch+als+Fremdsprache+-+Elementare+Sprachverwendung+%28A1%29">Deutsch als Fremdsprache (A1)<br>Elementare Sprachverwendung</a></li><li><a href="search?q=Deutsch+als+Fremdsprache+-+Elementare+Sprachverwendung+%28A2%29">Deutsch als Fremdsprache  (A2)<br>Elementare Sprachverwendung</a></li><li><a href="search?q=Deutsch+als+Fremdsprache+-+Selbst%E4ndige+Sprachverwendung+%28B1+B2%29">Deutsch als Fremdsprache (B1, B2) <br>Selbständige Sprachverwendung</a></li><li><a href="search?q=Deutsch+als+Fremdsprache+-+Kompetente+Sprachverwendung+%28C1+C2%29">Deutsch als Fremdsprache (C1,C2)<br>Kompetente Sprachverwendung</a></li><li><a href="search?q=Deutsch+als+Fremdsprache+-+Fachsprachliche+Spezialanwendung">Deutsch als Fremdsprache im Beruf <br>Fachsprachliche Anwendung</a></li><li><a href="search?q=Integrationskurs+%28allgemein%29">Integrationskurse<br> Bundesamt für Migration und Flüchtlinge</a></li><li><a href="search?q=Erstorientierungskurs">Erstorientierungskurse für Flüchtlinge <br> Bundesamt für Migration und Flüchtlinge</a></li><li><a href="search?q=STAFF">STAFF.SH <br> Starterpaket für Flüchtlinge</a></li><li><a href="search?q=DeuF%F6V">Berufsbezogene Sprachförderung (DeuFöV)<br> Bundesamt für Migration und Flüchtlinge</a></li></ul></li><li><a href="search?q=Deutsch+als+Muttersprache">Deutsch<br> als Muttersprache</a></li><li class="dir "><a href="search?q=Englisch">Englisch</a><ul><li><a href="search?q=Englisch+-+Elementare+Sprachverwendung+%28A1%29">Englisch (A1) <br>Elementare Sprachverwendung</a></li><li><a href="search?q=Englisch+-+Elementare+Sprachverwendung+%28A2%29">Englisch (A2) <br>Elementare Sprachverwendung</a></li><li><a href="search?q=Englisch+-+Selbstst%E4ndige+Sprachverwendung+%28B1+B2%29">Englisch (B1, B2) <br>Selbstständige Sprachverwendung</a></li><li><a href="search?q=Englisch+-+Kompetente+Sprachverwendung+%28C1+C2%29">Englisch (C1,C2) <br>Kompetente Sprachverwendung</a></li><li><a href="search?q=Englisch+-+Fachsprachliche+Spezialanwendung">Englisch im Beruf <br>Fachsprachliche Anwendung</a></li></ul></li><li><a href="search?q=Arabisch">Arabisch</a></li><li><a href="search?q=Chinesisch">Chinesisch</a></li><li><a href="search?q=D%E4nisch">Dänisch</a></li><li><a href="search?q=Franz%F6sisch">Französisch</a></li><li><a href="search?q=Geb%E4rdensprache">Gebärdensprache</a></li><li><a href="search?q=Griechisch">Griechisch</a></li><li><a href="search?q=Italienisch">Italienisch</a></li><li><a href="search?q=Japanisch">Japanisch</a></li><li><a href="search?q=Norwegisch">Norwegisch</a></li><li><a href="search?q=Polnisch">Polnisch</a></li><li><a href="search?q=Plattdeutsch+und+deutsche+Dialekte">Plattdeutsch</a></li><li><a href="search?q=Portugiesisch">Portugiesisch</a></li><li><a href="search?q=Russisch">Russisch</a></li><li><a href="search?q=Schwedisch">Schwedisch</a></li><li><a href="search?q=Spanisch">Spanisch</a></li><li><a href="search?q=T%FCrkisch">Türkisch</a></li><li><a href="search?q=andere+Sprachen">andere Sprachen</a></li></ul></li><li class="dir "><a href="search?q=Schulabschl%FCsse+Studienvorbereitung"><span class="hnavi1st"><b>Schule</b></span></a><ul><li><a href="search?q=Alphabetisierung">Alphabetisierung, Grundbildung</a></li><li><a href="search?q=Hauptschulabschluss">Erster allgemeinbildender Schulabschluss (Hauptschulabschluss)</a></li><li><a href="search?q=Realschulabschluss">Mittlerer Schulabschluss (Realschulabschluss)</a></li><li><a href="search?q=Fachhochschulreife">Fachhochschulreife</a></li><li><a href="search?q=Hochschulreife+Abitur">Hochschulreife, Abitur</a></li><li><a href="search?q=Studienvorbereitung">Studienvorbereitung</a></li></ul></li><li class="dir "><a href="search?q=Soft+Skills"><span class="hnavi1st"><b>Soft Skills</b></span></a><ul><li><a href="search?q=Arbeitstechnik+Zeitmanagement">Arbeitstechnik, Zeitmanagement</a></li><li><a href="search?q=Rhetorik+Moderation+Pr%E4sentation+Verkaufs-+Telefontraining">Rhetorik, Moderation, Präsentation, Verkaufs-, Telefontraining</a></li><li><a href="search?q=Teamarbeit+Konfliktmanagement">Teamarbeit, Konfliktmanagement</a></li><li><a href="search?q=Bewerbung%2F+Wiedereinstieg+Berufsorientierung%2F-vorbereitung">Bewerbung, Wiedereinstieg, Berufsorientierung</a></li><li><a href="search?q=Pers%F6nliche+Lebensfragen">persönliche Lebensfragen</a></li></ul></li><li class="dir "><a href="search?q=Gesellschaft+Politik+Studienreisen"><span class="hnavi1stlast"><b>Gesellschaft</b></span></a><ul><li><a href="search?q=ABSCHL%DCSSE+%28Gesellschaft%29+Studium">ABSCHLÜSSE (Gesellschaft) Studium</a></li><li><a href="search?q=Politik+Gesellschaft+Geschichte">Politik, Gesellschaft, Geschichte</a></li><li><a href="search?q=Wirtschaft+Umwelt+Medien">Wirtschaft, Umwelt, Medien</a></li><li><a href="search?q=Philosophie+Religion">Philosophie, Religion</a></li><li><a href="search?q=Regionaler+Lebensraum+L%E4nderkunde">Regionaler Lebensraum, Länderkunde</a></li><li><a href="search?q=Studienreisen">Studienreisen</a></li></ul></li></ul>
+				
+				<div class="submenue"><!-- dropdown read from cache --><!-- dropdown creation time: 0.001 s --><ul class="dropdown dropdown-horizontal"><li class="dir "><a href="g11811"  class="trenn" >Beratung</a><ul><li><a href="g11811"  class="no-desk" >Beratung - Übersicht</a></li><li><a href="https://weiterbilden-sh.de/standorte-und-kontakte/"  target="_blank" >Weiterbildungsberatung für Bürgerinnen und Bürger</a></li><li><a href="https://www.der-weiterbildungsratgeber.de"  target="_blank" >Bundesweite telefonische Weiterbildungsberatung</a></li><li><a href="https://www.arbeitsagentur.de/vor-ort/hamburg/berufsberatung-erwerbsleben"  target="_blank" >Bundesagentur für Arbeit – Berufsberatung im Erwerbsleben</a></li><li><a href="https://www.vhs-sh.de/thema/grundbildung/"  target="_blank" >Alphabetisierung - Informations- und Beratungsstellen in Schleswig-Holstein</a></li><li><a href="https://www.frau-und-beruf-sh.de/unser-angebot-fuer-sie/"  target="_blank" >Beratungsstellen FRAU & BERUF - berufliche  Beratung für Frauen</a></li><li><a href="g14261">Informationen zum Fachkräfteeinwanderungsgesetz</a></li><li><a href="https://kofw-sh.de/fachkraeftesicherung/beratungsnetz"  target="_blank" >Beratungsnetzwerk Fachkräftesicherung für kleine und mittlere Unternehmen</a></li></ul></li><li class="dir "><a href="g11821"  class="trenn" >Service</a><ul><li><a href="g4165">Über das Kursportal Schleswig-Holstein</a></li><li><a href="g13721">Anleitung zur Suche im Kursportal</a></li><li><a href="g2990">Servicetelefon</a></li><li><a href="g14041">Infoflyer Kursportal</a></li><li><a href="g11561">Checklisten + Tools</a></li><li><a href="g14061">Arbeitsmarktentwicklung</a></li><li><a href="g4155">Qualitätsurteil: GUT (1,6)</a></li><li><a href="g7891">Presse</a></li><li><a href="g7831">AGB</a></li><li><a href="g2208">Impressum</a></li><li><a href="g11791">Datenschutz</a></li></ul></li><li class="dir "><a href="g11831"  class="trenn" >Fördermöglichkeiten</a><ul><li><a href="g11831"  class="no-desk" >Fördermöglichkeiten - Übersicht</a></li><li><a href="https://www.der-weiterbildungsratgeber.de"  target="_blank" >Infotelefon zur Finanzierung von Weiterbildung</a></li><li><a href="g2224">Aufstiegsfortbildungsförderungsgesetz (Aufstiegs-BAföG)</a></li><li><a href="g2230">BAföG für Schüler/innen</a></li><li><a href="g2232">Begabtenförderung</a></li><li><a href="g2255">Bildungsgutschein (Arbeitsagentur)</a></li><li><a href="g2257">Bildungsfreistellung (Bildungsurlaub)</a></li><li><a href="g3777">Förderdatenbank</a></li><li><a href="g3341">Förderprogramm für den Bereich Güterkraftverkehr</a></li><li><a href="g13501">Qualifizierungsoffensive WEITER.BILDUNG!</a></li><li><a href="g3337">Weiterbildungsbonus Pro</a></li></ul></li><li class="dir "><a href="g13551?q=Zeige%3AAnbieter"  class="trenn" >Anbieter</a><ul><li><a href="/search?q=%2C+Zeige%3AAnbieter">Anbieterverzeichnis</a></li><li><a href="g13551?q=Zeige%3AAnbieter"  class="no-desk" >Informationen für Anbieter</a></li><li><a href="g2707?q=Zeige%3AAnbieter">Neuaufnahme von Anbietern</a></li><li><a href="g7821?q=Zeige%3AAnbieter">Anbieter-Login</a></li><li><a href="g2731?q=Zeige%3AAnbieter">Anzeigenschaltung/Verlinkung</a></li><li><a href="g11681?q=Zeige%3AAnbieter">Datenübermittlung</a></li></ul></li><li class="dir "><a href="g11841"  class="trenn" >Regionen</a><ul><li><a href="https://dithmarschen-steinburg.kursportal.info/">Dithmarschen-Steinburg</a></li><li><a href="https://flensburg.kursportal.info/">Flensburg-Schleswig</a></li><li><a href="https://kiel.kursportal.info/">Kiel</a></li><li><a href="https://luebeck.kursportal.info/">Lübeck</a></li><li><a href="https://neumuenster.kursportal.info/">Neumünster</a></li><li><a href="https://nordfriesland.kursportal.info/">Kreis Nordfriesland</a></li><li><a href="https://ohp.kursportal.info/">Ostholstein-Plön</a></li><li><a href="https://pinneberg.kursportal.info/">Kreis Pinneberg</a></li><li><a href="https://rendsburg.kursportal.info/">Kreis Rendsburg-Eckernförde</a></li><li><a href="https://segeberg.kursportal.info/">Kreis Segeberg</a></li><li><a href="https://stormarn.kursportal.info/">Stormarn-Herzogtum Lauenburg</a></li></ul></li><li class="dir "><a href="g11851"  class="trenn" >Andere Portale</a><ul><li><a href="https://hamburg.kursportal.info"  target="_blank" >Hamburg</a></li><li><a href="https://www.weiterbildung-mv.de/"  target="_blank" >Mecklenburg-Vorpommern</a></li><li><a href="https://deutsch-sh.kursportal.info"  target="_blank" >Deutsch-Sprachkurse Schleswig-Holstein</a></li><li><a href="https://www.schleswig-holstein.de/DE/Fachinhalte/W/weiterbildung/Datenbank/bfqg_datenbank.html"  target="_blank" >Bildungsurlaub in Schleswig-Holstein</a></li><li><a href="https://fernunterricht.kursportal.info"  target="_blank" >Fernunterricht</a></li><li><a href="https://www.engagiert-in-sh.de/index.php?id=264"  target="_blank" >Bürgerakademie</a></li><li><a href="https://iwwb.de/metasuche"  target="_blank" >Kurssuche bundesweit (IWWB)</a></li></ul></li><li><a href="g13251"  class="endtrenn" >Hilfe</a></li></ul></div>
+			</nav>
+		</div>
+	</div>
+	<div id="metafunctions"><span id="favlistlink" data-favlink="mailto:?subject=Kursliste%20von%20localhost&amp;body=Das%20ist%20meine%20Kursliste%20zum%20Ausdrucken%20von%20localhost%3A%0A%0Ahttps%3A%2F%2Flocalhost%2F"></span></div>
+<!-- BEGINN KONTAKT-KONTENT -->
+<div id="mailwindow" class="clearfix maxwidth"><a href="" onclick="javascript:show('divText'); return false">
+Kontakt</a>
+<div style="display: none" id="divText">
+<!-- E-Mail-Formular Beginn -->
+<form name="mailformular" method="post" action="/files/sh/php_shformail.php">
+<a href="" class="close" onclick="javascript:show('divText'); return false"><img src="/files/sh/responsiv/img/close.png" width="30" height="30" border="0" alt="" /></a>
+<p style="text-align: left; font-size: 1.2em;">Sie benötigen Hilfe bei der Kurssuche?<br>Sie sind
+Weiterbildungsanbieter und haben eine Frage?<br>Das Kursportal Schleswig-Holstein freut sich auf Ihre Nachricht!</p><br>
+<p style="text-align: left;font-size: 0.95em; line-height: 150%; color: #3080c2">Wenn Sie einen Anbieter kontaktieren möchten, entnehmen Sie dessen Kontaktdaten bitte der jeweiligen Anbieter- oder Angebotsbeschreibung.</p><br>
+<br> <p style="text-align: left; font-size: 1.2em;"<p>* erforderlich</p>
+<select class="feedback-input" id="anrede" name="anrede">
+	<option value="Anrede" />Anrede</option>
+	<option value="Frau" />Frau</option>
+	<option value="Herr" />Herr</option>&uuml;&uuml;
+</select>
+<input name="name" type="text" required class="feedback-input" placeholder="Name*" />
+<input name="anbieter" type="text" class="feedback-input" placeholder="Anbieter" />
+<input name="email" type="text" required class="feedback-input" placeholder="E-Mail*" />    
+<input name="betreff" type="text"  class="feedback-input" placeholder="Betreff" />
+<textarea name="text" required class="feedback-input" placeholder="Mitteilung*"></textarea>
+<p style="text-align: left; margin-bottom: 20px;"><label for="horns">Hinweis*</label><input type="checkbox" required id="hinweis" name="hinweis">
+  Ich bin einverstanden, dass die von mir eingetragenen Daten bis zum Ende der Bearbeitung gespeichert werden und die Antwort unverschlüsselt an mich versandt wird. Danach werden alle Daten gelöscht.</p>
+<input type="submit" value="Senden"/>
+<input type="hidden" name="portal" value="Kontaktformular SH-Kursportal">
+
+</form> <!-- E-Mail-Formular Ende -->
+</div></div>
+<!-- ENDE KONTAKT-KONTENT -->
+	
+	<div id="printlink" class="clearfix maxwidth"><a  href="javascript:window.print();">Drucken</a></div>
+<div id="readspeaker-bereich1"><div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Seite vorlesen" href="https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10065&amp;lang=de_de&amp;readid=wisy_resultarea">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Vorlesen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a></div>
+	</div>
+
+
+
+<!-- content area -->
+<a id="wisy_contentareaAnchor"></a><div id="wisy_contentarea">
+
+<div itemscope itemtype="https://schema.org/WebSite"><meta itemprop="name" content="KURSPORTAL SCHLESWIG-HOLSTEIN">
+<meta itemprop="url" content="https://sh.kursportal.info/">
+
+<div id="wisy_searcharea" class="activefilters_cnt0">
+<div class="inner">
+<form action="search" method="get" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+<meta itemprop="target" content="https://localhost/search?qs={qs}"/><div class="formrow wisyr_searchinput"><label for="wisy_searchinput">Wählen Sie einen Suchbegriff aus!</label><input itemprop="query-input"  type="text" id="wisy_searchinput" class="ac_keyword" name="qs" value="" placeholder="Wählen Sie einen Suchbegriff aus!" data-onemptyvalue=""/>
+<input type="hidden" id="wisy_searchinput_q" name="q" value="" />
+<input type="hidden" id="wisy_searchinput_qf" name="qf" value="" />
+<div class="wisy_searchhints"><h2>Kurssuche</h2><span class="add-searchhints">Suchbegriffe kombinierbar durch Komma - z.B. Englisch, A2,&#8230;</span></div>
+</div><input type="submit" id="wisy_searchbtn" value="Kurse finden" />
+
+<div class="searchnavi"><br></div><div id="sogehts"><h2><a href="/g13721">So geht's&#8230;</a></h2><p><a href="/g13721">In 5 Schritten zum besten Suchergebnis!</a></p></div>
+</form>
+
+</div><!-- /.inner -->
+</div><!-- /#wisy_searcharea -->
+
+</div> <!-- / itemscope itemtype Website -->
+
+
+<div class="printonly search_title" style="display: none;">, - TPLlocalhost</div>
+
+</div>
+<!-- /content area -->
+
+<!-- after content -->
+
+
+
+
+        <div id="readspeaker-bereich2"><div id="readspeaker_button2" class="rs_skip rsbtn rs_preserve">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Seite vorlesen" href="https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10065&amp;lang=de_de&amp;readid=erstezeile">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Vorlesen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a></div>
+	</div>
+	<section id="erstezeile" class="noprint clearfix maxwidth">
+
+
+                     <span class="rs_message"> <!--Dies ist das Kursportal Schleswig-Holstein. Das Ziel dieser Datenbank ist, die Weiterbildungsangebote für Schleswig-Holstein umfassend und übersichtlich darzustellen. Wie geht das? Sie können im Suchfenster Ihren Suchbegriff eingeben. Dann klicken Sie auf das Feld „Suche starten“. Sie erhalten eine Liste mit Suchergebnissen. Im nächsten Schritt wählen Sie das für Sie passende Angebot aus. Haben Sie Fragen? Dann rufen Sie uns gerne an. Telefon 04101 80890. Wir helfen Ihnen gerne weiter. Viel Spaß.--> </span> 
+
+		<article class="column3 c1">
+			<!-- hier bitte text eingeben -->
+			<a href="g13761">
+			<h2> E-Learning</h2>
+			<p> Bilden Sie sich ortsunabhängig weiter. 
+                        <br>Hier finden Sie Infos zu entsprechenden Online-Kursen.</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href=" g13761"><strong>Mehr</strong></a>
+		</article>
+		<article class="column3 c2">
+			<!-- hier bitte text eingeben -->
+			<a href="g11821">
+			<h2>Service</h2>
+			<p>Servicetelefon, Checklisten, AGB: Hier finden Sie alles über das Kursportal Schleswig-Holstein.</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href="g11821"><strong>Mehr</strong></a>
+		</article>
+		<article class="column3 c3">
+			<a href="g11811">
+			<h2>Beratung</h2>
+			<p>Sie möchten sich beruflich verändern und haben Fragen zur beruflichen Weiterbildung?</p>
+			<p>Hier finden Sie Beratungsangebote, kostenlos, neutral und kundenorientiert.</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href="g11811"><strong>Mehr</strong></a>
+		</article>
+	</section>
+	
+	<section id="zweitezeile" class="noprint clearfix maxwidth">
+		<article class="column3 c1">
+			<!-- hier bitte text eingeben -->
+			<a href="g11831">
+			<h2>Förderung</h2>
+			<p>Weiterbildung ist förderbar. Links zu den geläufigsten Förderprogrammen des Bundes und des Landes  Schleswig- 
+                        Holstein finden Sie hier.</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href="g11831"><strong>Mehr</strong></a>
+		</article>
+		<article class="column3 c2">
+			<!-- hier bitte text eingeben -->
+			<a href="g13251">
+			<h2>Hilfe</h2>
+			<p>Tipps und Tricks bei der Suche im Kursportal.</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href="g13251"><strong>Mehr</strong></a>
+		</article>
+		<article class="column3 c3">
+			<!-- hier bitte text eingeben -->
+			<a href="g14341">
+			<h2>Aktuelles Thema: Digitalisierung</h2>
+			<p>Ein Thema, das unser Leben verändert. Sie interessieren sich für entsprechende Kursangebote?</p>
+			</a>
+			<!-- ende der texteingabe -->
+			<a class="morelink" href="g14341"><strong>Mehr</strong></a>
+		</article>
+
+	</section>
+
+	
+	<footer id="mainfooter">
+		<div class="inner clearfix maxwidth">
+			<div id="logo-sh-mobil"><a href="https://www.schleswig-holstein.de/DE/Landesregierung/VII/vii_node.html"><img src="/files/sh/responsiv/img/sh-logo-grau.png"           alt="Schleswig-Holstein - Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und Tourismus" /></a></div>
+			<div class="column2 c1">
+				<p>&copy; <a href="/">Kursportal Schleswig-Holstein</a>
+<span class="f-logo">
+<a href="https://www.facebook.com/Kursportal/?ref=tn_tnmn" title="Externer Link:&nbsp;Der Facebook-Auftritt vom Kursportal Schleswig-Holstein"  target="_blank"><img src="/files/sh/responsiv/img/f_logo_RGB-Blue_58.png" alt="Facebook-Symbol: Zu unserem Facebook-Kanal wechseln" class='fb_img' /></a> &ensp; <a href="https://www.youtube.com/channel/UCzHWzDl9k5q4avpqeBXlGjA" title="Externer Link:&nbsp;Der YouTube-Videokanal vom Kursportal Schleswig-Holstein" target="_blank"><img src="/files/sh/responsiv/img/youtube_dark.png" alt="Youtube-Symbol: Zu unserem Youtube-Kanal wechseln" class='youtube_img' /></a></span></p>
+			</div>
+			<div class="column2 c2">
+				<nav id="metanav"><a href="/">Startseite</a> | <a href="/g11871">Kontakt</a> | <a href="/g2208">Impressum</a> | <a href="/g7831">AGB</a> | <a href="/g11791">Datenschutz</a> | <a href="#" id="wisy_cookieconsent_settings">Cookie-Einstellungen</a></nav>
+			</div>
+		</div>
+	</footer>
+<a href="#topscroll" class="scrollicon" title="zum Seitenanfang"><div>&#8673;</div></a>
+</div> <!--  ende page -->
+<script>
+/* Sanftes scrollen: inline f. Performanceverbesserung */
+$(window).scroll(function(){
+        if ($(this).scrollTop() > 120) {
+            $('.scrollicon').fadeIn();
+        } else {
+            $('.scrollicon').fadeOut();
+        }
+    });
+
+    $('.scrollicon').click(function(){
+        $("html, body").animate({ scrollTop: 0 }, 1200);
+        return false;
+    });
+
+$('a[href^="#"]').click(function() {
+ if($(this.hash).offset()) {
+     $('html,body').animate({ scrollTop: $(this.hash).offset().top}, 500);
+     return false;
+     e.preventDefault();
+ }
+});
+</script>
+<script>
+function show(id) {
+    if(document.getElementById) {
+        var mydiv = document.getElementById(id);
+        mydiv.style.display = (mydiv.style.display=='block'?'none':'block');
+    }
+}
+</script>
+<script src="/files/sh/responsiv/js/karte.js" defer></script>
+
+<script>
+/* nur temporärer Test : Feb 2021 */
+function afterPopupCreated() {
+$(".cc-btn.cc-allow").before( $(".cc-btn.cc-allow-all")); 
+$(".cc-btn.cc-allow-all").css("margin-bottom", "10px") 
+}
+</script>
+<!-- /after content -->
+
+
+
+				<!-- Matomo -->
+				<!-- analytics.piwik -->
+				<script type="text/javascript" id="matomo_script">
+						var _paq = window._paq || [];
+						_paq.push(['trackPageView']);
+						_paq.push(['enableLinkTracking']);
+			    
+						function embedMatomoTracking() {
+								var u="//statistik.kursportal.info/";
+								_paq.push(['setTrackerUrl', u+'matomo.php']);
+								_paq.push(['setSiteId', 9]);
+								var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+								g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+						};
+								    
+						/* console.log(''); */
+				</script>
+				<!-- /analytics.piwik -->
+				<!-- End Matomo Code -->
+				
+				<!-- Execute Matomo Tracking-->
+				<script type="text/javascript">
+					setTimeout(function () {
+							embedMatomoTracking();
+					}, 5);
+				</script>
+				</body>
+</html>

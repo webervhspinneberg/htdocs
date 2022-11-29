@@ -1,0 +1,1607 @@
+Array
+(
+    [total] => 106
+    [offset] => 0
+    [limit] => 20
+    [text] => Zeichnen
+    [language] => de
+    [type] => Array
+        (
+            [0] => skill
+        )
+
+    [isInScheme] => 
+    [facet] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Zeichnen&type=skill&limit=20&offset=0&full=false&viewObsolete=false&language=de
+                )
+
+            [next] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Zeichnen&type=skill&limit=20&offset=1&full=false&viewObsolete=false&language=de
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [results] => Array
+                (
+                    [0] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/17363757-35c3-4b1e-84be-4aa53fb5b8d3
+                            [searchHit] => Bühnenentwürfe zeichnen
+                            [title] => Bühnenentwürfe zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bühnenentwürfe zeichnen
+                                    [no] => tegne sceneoppsett
+                                    [fi] => piirtää näyttämösuunnitelmia
+                                    [en-us] => draw stage layouts
+                                    [pt] => desenhar cenários de palco
+                                    [bg] => рисуване на модели за оформление на сцена
+                                    [lt] => braižyti scenos ir jos įrangos išdėstymo schemas
+                                    [hr] => crtati tlocrte pozornice
+                                    [lv] => zīmēt skatuves plānus
+                                    [fr] => dessiner l’agencement d’une scène
+                                    [hu] => színpadi alaprajzokat készít
+                                    [sk] => nakresliť javiskový plán
+                                    [sl] => risati geografijo odra
+                                    [ga] => leagan amach stáitse a tharraingt
+                                    [sv] => rita scenbilder
+                                    [el] => σχεδίαση του πλάνου της σκηνής
+                                    [mt] => tpinġija tat-tqassim tal-palk
+                                    [en] => draw stage layouts
+                                    [is] => teiknar sviðsfyrirkomulag
+                                    [it] => disegnare le disposizioni delle scene
+                                    [es] => diseñar planos de escenarios
+                                    [et] => lavapaigutust joonistama
+                                    [cs] => vytvářet skici rozvržení jeviště
+                                    [ar] => تحديد مخططات المرحلة
+                                    [pl] => sporządzać szkice układu scenicznego
+                                    [da] => tegne scenelayout
+                                    [ro] => desenează amenajarea scenei
+                                    [nl] => podiumindelingen tekenen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.4
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/17363757-35c3-4b1e-84be-4aa53fb5b8d3&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/17363757-35c3-4b1e-84be-4aa53fb5b8d3
+                                            [title] => Bühnenentwürfe zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea
+                            [searchHit] => Bühnenausstattung digital zeichnen
+                            [title] => Bühnenausstattung digital zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bühnenausstattung digital zeichnen
+                                    [no] => tegne sceneoppsett digitalt
+                                    [fi] => piirtää näyttämösuunnitelmia digitaalisesti
+                                    [en-us] => draw up stage layouts digitally
+                                    [pt] => desenhar digitalmente cenários de palco
+                                    [bg] => изготвяне чрез цифрови технологии на оформленията на сцената
+                                    [lt] => rengti skaitmenines scenos ir jos įrangos išdėstymo schemas
+                                    [hr] => digitalno izrađivati izgled pozornice
+                                    [lv] => sagatavot digitālus skatuves plānus
+                                    [fr] => établir l'agencement d'une scène par voie numérique
+                                    [hu] => digitálisan elkészíti a színpad alaprajzát
+                                    [sk] => digitálne nakresliť plán javiska
+                                    [sl] => pripraviti digitalno geografijo odra
+                                    [ga] => leagan amach stáitse a ullmhú go digiteach
+                                    [sv] => upprätta scenlayouter digitalt
+                                    [el] => ψηφιακή σχεδίαση πλάνου σκηνής
+                                    [mt] => tfassil diġitali tat-tqassim tal-palk
+                                    [en] => draw up stage layouts digitally
+                                    [is] => teiknar stafrænt sviðsfyrirkomulag
+                                    [it] => disegnare digitalmente le disposizioni delle scene
+                                    [es] => realizar el diseño digital de los planos de un escenario
+                                    [et] => lavapaigutusi digitaalselt koostama
+                                    [cs] => vytvářet rozvržení jeviště v digitální podobě
+                                    [ar] => تحديد مخططات المرحلة رقميًا
+                                    [pl] => sporządzać koncepcję układu scenicznego w formie cyfrowej
+                                    [da] => tegne scenelayout digitalt
+                                    [ro] => desenează amenajarea scenică cu ajutorul tehnicilor digitale
+                                    [nl] => podiumindelingen digitaal uittekenen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.4
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea
+                                            [title] => Bühnenausstattung digital zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/d0f22e58-e16d-4eac-8d6a-0d954c8d806b
+                            [searchHit] => Bühnenbildentwürfe zeichnen
+                            [title] => Bühnenbildentwürfe zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bühnenbildentwürfe zeichnen
+                                    [no] => skissere settbilder
+                                    [fi] => luonnostella lavastekuvia
+                                    [en-us] => sketch set images
+                                    [pt] => esboçar imagens para cenários
+                                    [bg] => скициране на изображения за декори
+                                    [lt] => piešti scenovaizdžio eskizus
+                                    [hr] => izrađivati skice scena
+                                    [lv] => skicēt dekorāciju attēlus
+                                    [fr] => dessiner des images de décor
+                                    [hu] => a díszletekről képeket rajzol
+                                    [sk] => načrtnúť dekorácie
+                                    [sl] => skicirati scensko podobo
+                                    [ga] => íomhánna seit a sceitseáil
+                                    [sv] => skissa dekorbilder
+                                    [el] => σχεδίαση εικόνων σκηνικών
+                                    [mt] => tpinġija ta’ skeċċijiet tal-immaġnijiet tax-xenarji
+                                    [en] => sketch set images
+                                    [is] => skissar myndasyrpu
+                                    [it] => disegnare bozzetti di immagini di set
+                                    [es] => hacer bocetos de imágenes de decorados
+                                    [et] => esinemispaiga visandeid looma
+                                    [cs] => vytvářet skici obrazů scény
+                                    [ar] => رسم صور المجموعات
+                                    [pl] => szkicować koncepcje scenograficzne
+                                    [da] => skitsere scenebilleder
+                                    [ro] => schițează imagini pentru decoruri
+                                    [nl] => decorbeelden schetsen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d0f22e58-e16d-4eac-8d6a-0d954c8d806b&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/d0f22e58-e16d-4eac-8d6a-0d954c8d806b
+                                            [title] => Bühnenbildentwürfe zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/e842ed4c-23c1-4c29-b1b1-b490889db735
+                            [searchHit] => Navigationsrouten zeichnen
+                            [title] => Navigationsrouten zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Navigationsrouten zeichnen
+                                    [no] => plotte fraktnavigasjonsruter
+                                    [fi] => suunnitella meriliikennereittejä
+                                    [en-us] => plot shipping navigation routes
+                                    [pt] => traçar rotas de navegação marítima
+                                    [bg] => чертане на корабни маршрути за плаване
+                                    [lt] => sudaryti laivybos maršrutus
+                                    [hr] => planirati putove plovidbe
+                                    [lv] => sastādīt kuģošanas maršrutus
+                                    [fr] => parcourir des itinéraires de navigation
+                                    [hu] => kijelöli a hajózási útvonalakat
+                                    [sk] => naplánovať plavebnú trasu
+                                    [sl] => zarisovati pomorske plovne poti
+                                    [ga] => bealaí loingseoireachta a bhreacadh
+                                    [sv] => planera rutter för fartyg
+                                    [el] => χάραξη θαλάσσιων διαδρομών πλοήγησης
+                                    [mt] => ippjanar tar-rotot tan-navigazzjoni tat-trasport marittimu
+                                    [en] => plot shipping navigation routes
+                                    [is] => velur flutningssiglingaleiðir
+                                    [it] => tracciare le rotte di navigazione delle spedizioni
+                                    [es] => trazar rutas de navegación de buques
+                                    [et] => laevade navigatsiooniteed kaardistama
+                                    [cs] => připravovat navigační trasy pro plavidlo
+                                    [ar] => تخطيط طرق ملاحة
+                                    [pl] => wytyczać szlaki żeglugowe
+                                    [da] => plotte skibsfartsruter
+                                    [ro] => trasează rutele de navigație pentru transport
+                                    [nl] => scheepsnavigatieroutes plannen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/e46186e4-c784-4122-9828-4881c01bfae0
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.3.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e842ed4c-23c1-4c29-b1b1-b490889db735&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/e842ed4c-23c1-4c29-b1b1-b490889db735
+                                            [title] => Navigationsrouten zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/7ab8b57d-72f5-4a89-950a-c98a284cbc61
+                            [searchHit] => Skizzen für die Entwicklung von Textilien zeichnen
+                            [title] => Skizzen für die Entwicklung von Textilien zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Skizzen für die Entwicklung von Textilien zeichnen
+                                    [no] => tegneprogram for å vise et bilde av tekstilprodukt før veving
+                                    [fi] => piirtää luonnoksia tekstiilituotteiden kehittämiseksi
+                                    [en-us] => draw sketches to develop textile articles
+                                    [pt] => desenhar artigos têxteis para fabrico
+                                    [bg] => рисуване на скици за изработка на текстилни изделия
+                                    [lt] => braižyti tekstilės gaminių brėžinius
+                                    [hr] => crtati crteže za proizvodnju tekstilnih predmeta
+                                    [lv] => veidot skices tekstilizstrādājumu izgatavošanai
+                                    [fr] => dessiner des croquis pour réaliser des articles textiles
+                                    [hu] => textiláruk kialakítása céljából vázlatokat készít
+                                    [sk] => kresliť návrhy na výrobu textilných výrobkov
+                                    [sl] => risati skice za izdelavo tekstilnih izdelkov
+                                    [ga] => sceitsí a tharraingt chun earraí teicstíle a fhorbairt
+                                    [sv] => göra skisser för utveckling av textilartiklar
+                                    [el] => σχεδίαση σκίτσων για τη δημιουργία κλωστοϋφαντουργικών ειδών
+                                    [mt] => tpinġija tal-iskeċċijiet għall-iżvilupp tal-oġġetti tat-tessuti
+                                    [en] => draw sketches to develop textile articles
+                                    [is] => teiknar skissur til að þróa textílvörur
+                                    [it] => disegnare schizzi per sviluppare articoli tessili
+                                    [es] => hacer bosquejos de artículos textiles
+                                    [et] => tekstiiltoodete väljatöötamise visandeid joonistama
+                                    [cs] => kreslit skici pro vývoj textilních výrobků
+                                    [ar] => وضع رسومات لتطوير المنسوجات
+                                    [pl] => sporządzać szkice wyrobów włókienniczych
+                                    [da] => tegne skitser for at udvikle tekstilartikler
+                                    [ro] => desenează schițe pentru dezvoltarea articolelor textile
+                                    [nl] => schetsen maken voor de ontwikkeling van textielartikelen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/d65e43ec-236d-4774-9ee6-f7f88e715bc4
+                                    [1] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ab8b57d-72f5-4a89-950a-c98a284cbc61&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/7ab8b57d-72f5-4a89-950a-c98a284cbc61
+                                            [title] => Skizzen für die Entwicklung von Textilien zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30
+                            [searchHit] => Entwürfe auf Werkstücke zeichnen
+                            [title] => Entwürfe auf Werkstücke zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Entwürfe auf Werkstücke zeichnen
+                                    [no] => skissere design på arbeidsstykker
+                                    [fi] => luonnostella työkappaleiden suunnitelmia
+                                    [en-us] => sketch designs on workpieces
+                                    [pt] => esboçar designs em peças de trabalho
+                                    [bg] => скициране на модели върху обработвани детайли
+                                    [lt] => ant dirbinių piešti kompozicijų eskizus
+                                    [hr] => skicirati dizajn na predmetima za obradu
+                                    [lv] => skicēt noformējumus uz sagatavēm
+                                    [fr] => esquisser des dessins sur des pièces
+                                    [hu] => a munkadarabokon mintákat vázol fel
+                                    [sk] => načrtnúť vzory na obrábané predmety
+                                    [sl] => skicirati vzorce na obdelovance
+                                    [ga] => dearaí a sceitseáil ar shaotharphíosaí
+                                    [sv] => skissa mönster på arbetsstycken
+                                    [el] => δημιουργία σχεδίων σε αντικείμενα
+                                    [mt] => tpinġija ta’ skeċċijiet ta’ disinni fuq it-tagħmir
+                                    [en] => sketch designs on workpieces
+                                    [is] => skissar mynstur á verkstykki
+                                    [it] => disegnare bozzetti di disegni e modelli su pezzi da lavorare
+                                    [es] => hacer bocetos de diseños en piezas de trabajo
+                                    [et] => töödetailide kujundusi visandama
+                                    [cs] => naznačit na zpracovávané kusy vzorek
+                                    [ar] => رسم تصاميم للأدوات المستخدمة في العمل
+                                    [pl] => nanosić szkice na przedmioty obrabiane
+                                    [da] => skitsere design på arbejdsemner
+                                    [ro] => schițează modele pe piesele de lucru
+                                    [nl] => ontwerpen op werkstukken schetsen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30
+                                            [title] => Entwürfe auf Werkstücke zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8
+                            [searchHit] => Designskizzen zeichnen
+                            [title] => Designskizzen zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Designskizzen zeichnen
+                                    [no] => tegne designskisser
+                                    [fi] => piirtää luonnoksia
+                                    [en-us] => draw design sketches
+                                    [pt] => desenhar esboços
+                                    [bg] => чертаене на проектни скици
+                                    [lt] => braižyti dizaino eskizus
+                                    [hr] => sastaviti nacrte dizajna
+                                    [lv] => dizaina skiču sagatavošana
+                                    [fr] => réaliser des ébauches
+                                    [hu] => dizájntervet készít
+                                    [sk] => načrtnúť skice dizajnu
+                                    [sl] => risati oblikovne skice
+                                    [ga] => sceitsí deartha a tharraingt
+                                    [sv] => rita designskisser
+                                    [el] => σχεδίαση προκαταρκτικών σχεδίων
+                                    [mt] => tpinġi skeċċis tad-disinn
+                                    [en] => draw design sketches
+                                    [is] => teikna hönnunaruppdrætti
+                                    [it] => disegnare bozze del design
+                                    [es] => elaborar bocetos
+                                    [et] => disainivisandeid joonistama
+                                    [cs] => načrtávat nákresy návrhů
+                                    [ar] => رسم رسومات التصميم
+                                    [pl] => tworzyć szkice projektowe
+                                    [da] => lave designudkast
+                                    [ro] => realizează schițe de proiectare
+                                    [nl] => ontwerpschetsen tekenen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8
+                                            [title] => Designskizzen zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/d18e9776-5259-496a-bc29-5ed7ab5e1936
+                            [searchHit] => Zeichnen von Bühnenbildmodellen und Bestimmen des Materials für das Bühnenbild und der Aufbaumethoden.
+                            [title] => Bühnenbildmodelle entwerfen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bühnenbildmodelle entwerfen
+                                    [no] => designe miniatyrsett
+                                    [fi] => suunnitella lavastuspienoismalleja
+                                    [en-us] => design miniature sets
+                                    [pt] => desenhar cenários em miniatura
+                                    [bg] => проектиране на макети на декори
+                                    [lt] => kurti dekoracijas
+                                    [hr] => projektirati minijaturne scene
+                                    [lv] => izstrādāt miniatūras dekorācijas
+                                    [fr] => concevoir des décors miniatures
+                                    [hu] => miniatűr díszleteket tervez
+                                    [sk] => navrhovať miniatúrne kulisy
+                                    [sl] => oblikovati miniaturne scene
+                                    [ga] => mionseiteanna a dhearadh
+                                    [sv] => formge miniatyrdekor
+                                    [el] => σχεδιασμός μινιατούρων σκηνικών
+                                    [mt] => disinn tax-xenarji f’minjatura
+                                    [en] => design miniature sets
+                                    [is] => hannar smækkaðar sviðsmyndir
+                                    [it] => progettare set in miniatura
+                                    [es] => diseñar maquetas de decorados
+                                    [et] => esinemispaiga makette kujundama
+                                    [cs] => vytvořit design miniaturních kulis
+                                    [ar] => تصميم مجموعات مصغرة
+                                    [pl] => projektować miniaturowe scenografie
+                                    [da] => designe miniaturekulisser
+                                    [ro] => concepe decoruri miniaturale
+                                    [nl] => miniatuursets ontwerpen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.5
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d18e9776-5259-496a-bc29-5ed7ab5e1936&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/d18e9776-5259-496a-bc29-5ed7ab5e1936
+                                            [title] => Bühnenbildmodelle entwerfen
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/33773667-4dec-4fb2-9b4c-0f08bbc25872
+                            [searchHit] => Zeichnen von Skizzen für Kulissen sowie Festlegen von Material von Requisiten und Aufbaumethoden.
+                            [title] => Requisiten entwerfen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Requisiten entwerfen
+                                    [no] => designe rekvisitter
+                                    [fi] => suunnitella rekvisiittaa
+                                    [en-us] => design props
+                                    [pt] => desenhar adereços
+                                    [bg] => проектиране на реквизит
+                                    [lt] => projektuoti rekvizito, butaforijos reikmenis
+                                    [hr] => dizajnirati rekvizite
+                                    [lv] => radīt rekvizītu dizainu
+                                    [fr] => concevoir des accessoires
+                                    [hu] => megtervezi a kellékeket
+                                    [sk] => navrhnúť rekvizity
+                                    [sl] => oblikovati rekvizite
+                                    [ga] => fearais stáitse a dhearadh
+                                    [sv] => formge rekvisita
+                                    [el] => σχεδιασμός σκηνικών αντικειμένων
+                                    [mt] => disinn ta’ props
+                                    [en] => design props
+                                    [is] => hannar leikmuni
+                                    [it] => ideare oggetti di scena
+                                    [es] => diseñar atrezzos
+                                    [et] => rekvisiite kujundama
+                                    [cs] => vytvářet design rekvizit
+                                    [ar] => تصميم الدعائم
+                                    [pl] => projektować rekwizyty
+                                    [da] => designe rekvisitter
+                                    [ro] => concepe obiecte de recuzită
+                                    [nl] => rekwisieten ontwerpen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/4b82975f-6d38-4bc2-b928-2117060fb5ec
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/33773667-4dec-4fb2-9b4c-0f08bbc25872&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/33773667-4dec-4fb2-9b4c-0f08bbc25872
+                                            [title] => Requisiten entwerfen
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/0c452783-8873-4b04-ac18-ea353bc55b1d
+                            [searchHit] => Skizzen für Kulissen zeichnen
+                            [title] => Skizzen für Kulissen zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Skizzen für Kulissen zeichnen
+                                    [no] => tegne rekvisittskisser
+                                    [fi] => piirtää rekvisiittaluonnoksia
+                                    [en-us] => draw prop sketches
+                                    [pt] => desenhar esboços de adereços
+                                    [bg] => рисуване на скици за реквизит
+                                    [lt] => piešti rekvizito, butaforijos reikmenų eskizus
+                                    [hr] => crtati nacrte rekvizita
+                                    [lv] => zīmēt rekvizītu priekšmetu skices
+                                    [fr] => dessiner des esquisses d’accessoires
+                                    [hu] => kellékterveket készít
+                                    [sk] => nakresliť skice rekvizít
+                                    [sl] => izdelovati skice rekvizitov
+                                    [ga] => sceitsí fearas stáitse a tharraingt
+                                    [sv] => göra rekvisitaskisser
+                                    [el] => σχεδίαση σκίτσων σκηνικών αντικειμένων
+                                    [mt] => tpinġija ta’ skeċċijiet tal-props
+                                    [en] => draw prop sketches
+                                    [is] => teiknar leikmunaskissur
+                                    [it] => disegnare bozzetti degli oggetti di scena
+                                    [es] => diseñar bocetos de utilería
+                                    [et] => rekvisiitide visandeid joonistama
+                                    [cs] => vytvářet skici rekvizit
+                                    [ar] => وضع رسومات الدعائم
+                                    [pl] => sporządzać szkice rekwizytów
+                                    [da] => tegne skitser af rekvisitter
+                                    [ro] => desenează schițe ale obiectelor de recuzită
+                                    [nl] => rekwisieten schetsen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/a8e69f0f-aa0b-4fd7-8dbf-10353d3f5c31
+                                    [1] => http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8
+                                    [2] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0c452783-8873-4b04-ac18-ea353bc55b1d&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/0c452783-8873-4b04-ac18-ea353bc55b1d
+                                            [title] => Skizzen für Kulissen zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f
+                            [searchHit] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                            [title] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                                    [no] => bruke programvare til å tegne skisser av tekstilprodukter
+                                    [fi] => piirtää luonnoksia tekstiilituotteiden kehittämiseksi ohjelmistoja käyttämällä
+                                    [en-us] => draw sketches to develop textile articles using softwares
+                                    [pt] => desenhar artigos têxteis com a ajuda de software
+                                    [bg] => рисуване със софтуерни приложения на скици за изработка на текстилни изделия
+                                    [lt] => naudojantis programine įranga braižyti tekstilės gaminių brėžinius
+                                    [hr] => crtati crteže za proizvodnju tekstilnih predmeta uporabom softvera
+                                    [lv] => ar programmatūru palīdzību veidot skices tekstilizstrādājumu izgatavošanai
+                                    [fr] => dessiner des croquis pour réaliser des articles textiles à l’aide de logiciels
+                                    [hu] => textiláruk kialakítása céljából szoftver segítségével vázlatokat készít
+                                    [sk] => kresliť návrhy na výrobu textilných výrobkov pomocou softvéru
+                                    [sl] => risati skice za proizvodnjo tekstilnih izdelkov z uporabo programske opreme
+                                    [ga] => sceitsí a tharraingt chun earraí teicstíle a fhorbairt trí bhogearraí a úsáid
+                                    [sv] => göra datorskisser för utveckling av textilartiklar
+                                    [el] => σχεδίαση σκίτσων για τη δημιουργία υφαντουργικών ειδών με τη βοήθεια λογισμικών
+                                    [mt] => tpinġija tal-iskeċċijiet bl-użu ta’ softwers għall-iżvilupp tal-oġġetti tat-tessuti
+                                    [en] => draw sketches to develop textile articles using softwares
+                                    [is] => teiknar skissur með hugbúnaði til að þróa textílvörur
+                                    [it] => disegnare schizzi per sviluppare articoli tessili tramite software
+                                    [es] => hacer bocetos de artículos textiles con programas de ordenador
+                                    [et] => tekstiiltoodete väljatöötamise visandeid tarkvara abil joonistama
+                                    [cs] => kreslit skici pro vývoj textilních výrobků pomocí softwaru
+                                    [ar] => رسم رسومات لتطوير المواد النسيجية باستخدام البرمجيات
+                                    [pl] => sporządzać szkice wyrobów włókienniczych przy użyciu oprogramowania
+                                    [da] => tegne skitser for at udvikle tekstilartikler ved hjælp af software
+                                    [ro] => desenează schițe pentru dezvoltarea articolelor textile utilizând software
+                                    [nl] => schetsen maken voor de ontwikkeling van textielartikelen met behulp van software
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                    [1] => http://data.europa.eu/esco/skill/d65e43ec-236d-4774-9ee6-f7f88e715bc4
+                                    [2] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f
+                                            [title] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [11] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72
+                            [searchHit] => Zeichnen von Skizzen für Textildesigns von Hand oder mit dem Computer mithilfe spezieller CAD-Software.
+                            [title] => Textildesigns erstellen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Textildesigns erstellen
+                                    [no] => produsere tekstildesign
+                                    [fi] => tehdä tekstiilisuunnitelmia
+                                    [en-us] => produce textile designs
+                                    [pt] => produzir «designs» têxteis
+                                    [bg] => изготвяне на текстилни дизайни
+                                    [lt] => kurti tekstilės dizaino projektus
+                                    [hr] => dizajnirati tekstil
+                                    [lv] => radīt tekstilizstrādājumu dizainu
+                                    [fr] => produire des modèles textiles
+                                    [hu] => textilrajzolatokat hoz létre
+                                    [sk] => vypracovať textilné návrhy
+                                    [sl] => izdelovati tekstilne modele
+                                    [ga] => dearaí teicstíle a tháirgeadh
+                                    [sv] => utforma design för textilier
+                                    [el] => παραγωγή σχεδίων υφασμάτων
+                                    [mt] => produzzjoni tad-disinni tat-tessuti
+                                    [en] => produce textile designs
+                                    [is] => framleiðir textílmynstur
+                                    [it] => produrre disegni tessili
+                                    [es] => producir diseños textiles
+                                    [et] => tekstiilikujundusi koostama
+                                    [cs] => vytvářet design textilií
+                                    [ar] => وضع تصاميم للأنسجة
+                                    [pl] => opracowywać wzory włókiennicze
+                                    [da] => producere tekstildesigns
+                                    [ro] => produce tipare de croitorie
+                                    [nl] => textielontwerpen maken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72
+                                            [title] => Textildesigns erstellen
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                            [searchHit] => Software für technisches Zeichnen verwenden
+                            [title] => Software für technisches Zeichnen verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Software für technisches Zeichnen verwenden
+                                    [no] => bruke teknisk tegneprogramvare
+                                    [fi] => käyttää teknisen piirtämisen ohjelmistoja
+                                    [en-us] => use technical drawing software
+                                    [pt] => utilizar «software» de desenho técnico
+                                    [bg] => използване на софтуер за техническо чертане
+                                    [lt] => naudoti techninių brėžinių programinę įrangą
+                                    [hr] => upotrebljavati softver za tehničko crtanje
+                                    [lv] => lietot tehniskās rasēšanas programmatūras
+                                    [fr] => utiliser un logiciel de dessin technique
+                                    [hu] => műszaki rajzoló szoftvert használ
+                                    [sk] => používať softvér na tvorbu technických nákresov
+                                    [sl] => uporabljati programsko opremo za tehnično risanje
+                                    [ga] => bogearraí líníochta teicniúla a úsáid
+                                    [sv] => använda programvara för tekniska ritningar
+                                    [el] => χρήση λογισμικού για τη δημιουργία τεχνικών σχεδίων
+                                    [mt] => użu tas-softwer tat-tpinġijiet tekniċi
+                                    [en] => use technical drawing software
+                                    [is] => notar tækniteiknunarhugbúnað
+                                    [it] => utilizzare software per il disegno tecnico
+                                    [es] => utilizar software de dibujo técnico
+                                    [et] => tehnilise joonestamise tarkvara kasutama
+                                    [cs] => používat software na technické kreslení
+                                    [ar] => استخدام برامج الرسم التقنية
+                                    [pl] => korzystać z oprogramowania do rysunków technicznych
+                                    [da] => bruge teknisk tegnesoftware
+                                    [ro] => utilizează software de desen tehnic
+                                    [nl] => software voor technisch tekenen gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                            [title] => Software für technisches Zeichnen verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [13] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/9f8ace7a-46e0-4c00-a51c-a0ba9babe9de
+                            [searchHit] => Make-Up-Skizzen zeichnen
+                            [title] => Make-Up-Skizzen zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Make-Up-Skizzen zeichnen
+                                    [no] => tegne make-up-skisser
+                                    [fi] => piirtää maskeerausluonnoksia
+                                    [en-us] => draw make-up sketches
+                                    [pt] => desenhar esboços de maquilhagem
+                                    [bg] => рисуване на скици за грим
+                                    [lt] => piešti grimo eskizus
+                                    [hr] => crtati nacrte modela
+                                    [lv] => zīmēt grima skices
+                                    [fr] => dessiner des esquisses de maquillage
+                                    [hu] => sminkterveket készít
+                                    [sk] => nakresliť maskérske skice
+                                    [sl] => izdelovati skice mask
+                                    [ga] => sceitsí smididh a tharraingt
+                                    [sv] => göra makeupskisser
+                                    [el] => σχεδίαση σκίτσων μακιγιάζ
+                                    [mt] => tpinġija ta’ skeċċijiet tal-makeup
+                                    [en] => draw make-up sketches
+                                    [is] => teiknar förðunarskissur
+                                    [it] => disegnare i bozzetti del trucco
+                                    [es] => diseñar bocetos de maquillaje
+                                    [et] => grimmivisandeid joonistama
+                                    [cs] => vytvářet skici navrhovaných forem líčení
+                                    [ar] => رسم رسومات مستحضرات التجميل
+                                    [pl] => sporządzać szkice koncepcji charakteryzacyjnych
+                                    [da] => udarbejde makeupskitser
+                                    [ro] => elaborează schițe pentru machiaj
+                                    [nl] => make-upontwerpen schetsen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/f5eed756-2883-46fe-8990-729100cc3e4b
+                                    [1] => http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8
+                                    [2] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9f8ace7a-46e0-4c00-a51c-a0ba9babe9de&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/9f8ace7a-46e0-4c00-a51c-a0ba9babe9de
+                                            [title] => Make-Up-Skizzen zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/8f95b889-fdad-4b59-8959-953ac181f388
+                            [searchHit] => Gestalten der Bildwelten für die Kreation durch Malen, Zeichnen, Beleuchten, Projizieren oder andere visuelle Mittel.
+                            [title] => die Bildwelten Ihrer Schöpfung bestimmen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => die Bildwelten Ihrer Schöpfung bestimmen
+                                    [no] => definere det visuelle universet for ditt skaperverk
+                                    [fi] => määritellä teoksen visuaalinen maailma
+                                    [en-us] => define the visual universe of your creation
+                                    [pt] => definir o universo visual da própria criação
+                                    [bg] => определяне на визуалната среда за вашето произведение
+                                    [lt] => apibrėžti savo kūrinio vaizdinės raiškos visumą
+                                    [hr] => određivati vizualno okruženje za svoje djelo
+                                    [lv] => noteikt sava mākslas darba vizuālo vidi
+                                    [fr] => définir l'univers visuel de sa création
+                                    [hu] => meghatározza az alkotás képi világát
+                                    [sk] => definovať vizuálne prostredie vlastnej tvorby
+                                    [sl] => opredeliti vizualni svet svoje stvaritve
+                                    [ga] => timpeallacht fhísiúil do shaothair a shainiú
+                                    [sv] => fastställa kreationens visuella universum
+                                    [el] => καθορισμός του οπτικού σύμπαντος της δημιουργίας σας
+                                    [mt] => definizzjoni tal-univers viżiv tal-ħolqien proprju
+                                    [en] => define the visual universe of your creation
+                                    [is] => skilgreinir sýnilegan heim þinnar sköpunar
+                                    [it] => definire l’universo visivo della propria creazione
+                                    [es] => definir el universo visual de la propia creación
+                                    [et] => oma teose visuaalset tervikut määratlema
+                                    [cs] => vymezit vizuální svět své tvorby
+                                    [ar] => تحديد الفضاء المرئي للإبداع
+                                    [pl] => opracowywać oprawę wizualną danego dzieła
+                                    [da] => definere værkets visuelle univers
+                                    [ro] => definește universul vizual al propriului produs artistic
+                                    [nl] => visuele wereld van de creatie definiëren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8f95b889-fdad-4b59-8959-953ac181f388&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/8f95b889-fdad-4b59-8959-953ac181f388
+                                            [title] => die Bildwelten Ihrer Schöpfung bestimmen
+                                        )
+
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf
+                            [searchHit] => Entwurf und Entwicklung von Prototypen für optische Produkte und Bauteile unter Verwendung von Software für technisches Zeichnen.
+                            [title] => optische Prototypen entwickeln
+                            [preferredLabel] => Array
+                                (
+                                    [de] => optische Prototypen entwickeln
+                                    [no] => utforme optiske prototyper
+                                    [fi] => suunnitella optisia prototyyppejä
+                                    [en-us] => design optical prototypes
+                                    [pt] => desenhar protótipos óticos
+                                    [bg] => проектиране на оптични прототипи
+                                    [lt] => projektuoti optinės įrangos prototipus
+                                    [hr] => projektirati optičke prototipove
+                                    [lv] => izstrādāt optiskos prototipus
+                                    [fr] => concevoir des prototypes optiques
+                                    [hu] => optikai prototípusokat tervez
+                                    [sk] => navrhovať optické prototypy
+                                    [sl] => razvijati optične prototipe
+                                    [ga] => fréamhshamhlacha optúla a dhearadh
+                                    [sv] => designa optiska prototyper
+                                    [el] => σχεδιασμός οπτικών πρωτοτύπων
+                                    [mt] => disinn tal-prototipi ottiċi
+                                    [en] => design optical prototypes
+                                    [is] => hannar ljósfræðilegar frumgerðir
+                                    [it] => progettare prototipi ottici
+                                    [es] => diseñar prototipos de productos ópticos
+                                    [et] => optilisi prototüüpe projekteerima
+                                    [cs] => navrhovat optické prototypy
+                                    [ar] => تصميم النماذج البصرية
+                                    [pl] => projektować prototypy wyrobów optycznych
+                                    [da] => designe optiske prototyper
+                                    [ro] => proiectează prototipuri de produse optice
+                                    [nl] => optische prototypes ontwerpen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/bacbfc27-4b5d-47de-8bfd-af5fa27562a2
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.5
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf
+                                            [title] => optische Prototypen entwickeln
+                                        )
+
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e
+                            [searchHit] => Verwendung von Software für computergestütztes Zeichnen und Entwerfen, um detaillierte Zeichnungen und technische Pläne zu erstellen.
+                            [title] => CADD-Software verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => CADD-Software verwenden
+                                    [no] => bruke CADD-programvare
+                                    [fi] => käyttää tietokoneavusteisia suunnittelu- ja piirtämisohjelmistoja
+                                    [en-us] => use CADD software
+                                    [pt] => utilizar «software» CADD
+                                    [bg] => използване на CADD софтуер
+                                    [lt] => naudoti kompiuterizuoto projektavimo ir brėžinių braižymo (CADD) programinę įrangą
+                                    [hr] => upotrebljavati softver za računalno potpomognuto dizajniranje i crtanje
+                                    [lv] => lietot CADD programmatūras
+                                    [fr] => utiliser un logiciel de CAO-DAO
+                                    [hu] => CADD-szoftvert használ
+                                    [sk] => používať softvér CADD
+                                    [sl] => uporabljati programsko opremo CADD
+                                    [ga] => bogearraí CADD a úsáid
+                                    [sv] => använda CADD-programvara
+                                    [el] => χρήση λογισμικού για τον σχεδιασμό και την επεξεργασία σχεδίων με τη βοήθεια υπολογιστή
+                                    [mt] => użu tas-softwer tad-disinn u tal-abbozzar bil-kompjuter (CADD)
+                                    [en] => use CADD software
+                                    [is] => notar CADD-hugbúnað
+                                    [it] => usare il software CADD
+                                    [es] => utilizar software CADD
+                                    [et] => CADD tarkvara kasutama
+                                    [cs] => používat CADD software
+                                    [ar] => استخدام برنامج التصميم والتخطيط بمساعدة الحاسوب (CADD)
+                                    [pl] => korzystać z oprogramowania CADD
+                                    [da] => bruge CADD-software
+                                    [ro] => utilizează software CADD
+                                    [nl] => CADD-software gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                    [1] => http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e
+                                            [title] => CADD-Software verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/4fbe3e87-6f12-4764-b6ea-dce1adf4547f
+                            [searchHit] => Künstlerbedarf zum Zeichnen einsetzen
+                            [title] => Künstlerbedarf zum Zeichnen einsetzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Künstlerbedarf zum Zeichnen einsetzen
+                                    [no] => bruke kunstneriske materialer for tegning
+                                    [fi] => käyttää taiteellisia materiaaleja piirtämiseen
+                                    [en-us] => use artistic materials for drawing
+                                    [pt] => utilizar materiais artísticos para desenho
+                                    [bg] => използване на художествени материали за рисуване
+                                    [lt] => naudoti piešimui dailės medžiagas
+                                    [hr] => upotrebljavati umjetničke materijale za crtanje
+                                    [lv] => izmantot mākslas materiālus zīmēšanai
+                                    [fr] => utiliser du matériel artistique pour dessiner
+                                    [hu] => rajzoláshoz művészeti anyagokat használ
+                                    [sk] => používať umelecké materiály pri kreslení
+                                    [sl] => uporabljati umetniški material za risanje
+                                    [ga] => ábhair ealaíne a úsáid le haghaidh líníochta
+                                    [sv] => använda konstnärsmaterial för teckning
+                                    [el] => χρήση καλλιτεχνικών υλικών για σχεδίαση
+                                    [mt] => użu ta’ materjali artistiċi għat-tpinġija
+                                    [en] => use artistic materials for drawing
+                                    [is] => notar listrænt efni til teikninga
+                                    [it] => utilizzare i materiali artistici per disegnare
+                                    [es] => emplear materiales artísticos para dibujo
+                                    [et] => kunstilisi materjale joonistamiseks kasutama
+                                    [cs] => používat umělecké materiály k výtvarné činnosti
+                                    [ar] => استخدام المواد الفنية للرسم
+                                    [pl] => posługiwać się materiałami artystycznymi do malowania
+                                    [da] => bruge kunstneriske materialer til tegning
+                                    [ro] => utilizează material artistic pentru desen
+                                    [nl] => artistieke materialen om te tekenen gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4fbe3e87-6f12-4764-b6ea-dce1adf4547f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/4fbe3e87-6f12-4764-b6ea-dce1adf4547f
+                                            [title] => Künstlerbedarf zum Zeichnen einsetzen
+                                        )
+
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6d51cc74-8def-4653-8a62-03db98462cb0
+                            [searchHit] => Koordinierung und Anleitung von Kostümschneidern beim Zeichnen, Zuschneiden und Nähen von Kostümen und Mustern.
+                            [title] => Kostümschneider/Kostümschneiderinnen überwachen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Kostümschneider/Kostümschneiderinnen überwachen
+                                    [no] => overvåke kostymearbeidere
+                                    [fi] => valvoa puvustustyöntekijöitä
+                                    [en-us] => supervise costume workers
+                                    [pt] => supervisionar o pessoal responsável pelo guarda-roupa
+                                    [bg] => надзор над работещите по костюми
+                                    [lt] => prižiūrėti kostiumininkus
+                                    [hr] => nadzirati kostimografe
+                                    [lv] => uzraudzīt kostīmu veidotājus
+                                    [fr] => superviser des costumiers
+                                    [hu] => felügyeli a jelmeztervezőket
+                                    [sk] => vykonávať dohľad nad kostymérmi
+                                    [sl] => nadzirati izdelovalce kostumov
+                                    [ga] => maoirseacht a dhéanamh ar oibrithe feisteas
+                                    [sv] => leda kostympersonal
+                                    [el] => επιτήρηση των κατασκευαστών των θεατρικών κοστουμιών
+                                    [mt] => superviżjoni tal-ħaddiema tal-kostumi
+                                    [en] => supervise costume workers
+                                    [is] => hefur umsjón með búningagerðarfólki
+                                    [it] => supervisionare i costumisti
+                                    [es] => coordinar a encargados de confección de vestuario
+                                    [et] => kostüümide valmistajaid juhendama
+                                    [cs] => dohlížet na kostyméry
+                                    [ar] => الإشراف على تهيئة الزي الخاص بالعمال
+                                    [pl] => nadzorować pracowników zajmujących się kostiumami
+                                    [da] => supervisere kostumemedarbejdere
+                                    [ro] => supervizează costumierii și personalul adiacent
+                                    [nl] => toezien op kostuummakers
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/c7d328f4-87a7-4091-8eb5-122f471bd954
+                                    [1] => http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S4.8.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6d51cc74-8def-4653-8a62-03db98462cb0&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6d51cc74-8def-4653-8a62-03db98462cb0
+                                            [title] => Kostümschneider/Kostümschneiderinnen überwachen
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/2409b33a-5776-4b13-bfb6-2c8485248b2a
+                            [searchHit] => Skizzen von Kostümen und Kleidungsaccessoires zeichnen; Spezifikationen, wie zum Beispiel Größe, Material und Farbschema, notieren.
+                            [title] => Kostümzeichnungen entwerfen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Kostümzeichnungen entwerfen
+                                    [no] => tegne kostymeskisser
+                                    [fi] => laatia puvustusluonnoksia
+                                    [en-us] => draw up costume sketches
+                                    [pt] => elaborar esboços do guarda-roupa
+                                    [bg] => изготвяне на скици за костюми
+                                    [lt] => parengti kostiumų eskizus
+                                    [hr] => izrađivati skice kostima
+                                    [lv] => zīmēt kostīmu skices
+                                    [fr] => dessiner des esquisses de costumes
+                                    [hu] => jelmezvázlatokat készít
+                                    [sk] => vytvoriť skice kostýmov
+                                    [sl] => izdelovati skice kostumov
+                                    [ga] => sceitsí feisteas a líniú
+                                    [sv] => skissa scenkläder
+                                    [el] => σχεδίαση σκίτσων κοστουμιών
+                                    [mt] => tfassil tal-iskeċċijiet tal-kostumi
+                                    [en] => draw up costume sketches
+                                    [is] => teiknar upp búningaskissur
+                                    [it] => disegnare i bozzetti dei costumi
+                                    [es] => diseñar bocetos de vestuario
+                                    [et] => kostüümivisandeid koostama
+                                    [cs] => vytvářet skici kostýmů
+                                    [ar] => وضع رسومات الأزياء
+                                    [pl] => sporządzać szkice kostiumów
+                                    [da] => tegne skitser af kostumer
+                                    [ro] => creează schițe ale costumelor
+                                    [nl] => kostuumontwerpen tekenen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8
+                                    [1] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.5
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2409b33a-5776-4b13-bfb6-2c8485248b2a&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/2409b33a-5776-4b13-bfb6-2c8485248b2a
+                                            [title] => Kostümzeichnungen entwerfen
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

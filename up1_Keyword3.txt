@@ -1,0 +1,315 @@
+Array
+(
+    [className] => Concept
+    [classId] => http://www.w3.org/2004/02/skos/core#Concept
+    [uri] => http://data.europa.eu/esco/skill/S5.6.3
+    [title] => Nutzung computergestützter Tools zum Konstruieren und Zeichnen
+    [preferredLabel] => Array
+        (
+            [no] => bruke dataassisterte design- og tegneverktøy
+            [de] => Nutzung computergestützter Tools zum Konstruieren und Zeichnen
+            [fi] => käyttää tietokoneavusteisia suunnittelu- ja piirustustyökaluja
+            [pt] => utilizar ferramentas de conceção e desenho assistidas por computador
+            [bg] => използване на инструменти за компютърно проектиране и рисуване
+            [lt] => naudoti kompiuterines projektavimo ir piešimo priemones
+            [lv] => datorizētu projektēšanas un rasēšanas instrumentu izmantošana
+            [hr] => upotreba alata za računalno potpomognuto projektiranje i crtanje
+            [fr] => utiliser des outils de conception et de dessin assistés par ordinateur
+            [hu] => számítógéppel támogatott tervező és rajzoló eszközöket használ
+            [sk] => používať počítačové nástroje na dizajn a kreslenie
+            [sl] => uporabljati orodja za računalniško podprto oblikovanje in risanje
+            [ga] => úsáid a bhaint as uirlisí deartha agus líníochta ríomhchuidithe
+            [sv] => använda datorstödd konstruktion och ritverktyg
+            [mt] => l-użu ta’ għodod għal disinjar u tpinġija permezz tal-kompjuter
+            [el] => χρήση εργαλείων σχεδιασμού και σχεδίασης με τη βοήθεια ηλεκτρονικού υπολογιστή
+            [en] => using computer aided design and drawing tools
+            [is] => notkun tölvustuddra hönnunar- og teikniverkfæra
+            [it] => utilizzare strumenti di progettazione assistita da elaboratore e di disegno
+            [es] => utilizar herramientas de dibujo y diseño asistido por ordenador
+            [et] => raalprojekteerimise ja arvutipõhiste joonestusvahendite kasutamine
+            [cs] => používat nástroje pro projektování pomocí počítače (cad) a počítačové rýsovací nástroje
+            [ar] => استخدام أدوات التصميم والرسم بمساعدة الحاسوب
+            [pl] => stosowanie projektowania wspomaganego komputerowo i narzędzi kreślarskich
+            [da] => anvende computerstøttet design- og tegneredskaber
+            [ro] => utilizează instrumente pentru proiectarea asistată de calculator și pentru desen
+            [nl] => gebruikmaken van computerondersteunde ontwerp- en tekenhulpmiddelen
+        )
+
+    [code] => S5.6.3
+    [codes] => Array
+        (
+            [0] => Array
+                (
+                    [datatype] => 
+                    [value] => S5.6.3
+                )
+
+        )
+
+    [description] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Using ICT software and hardware to collaborate and communicate with others, creating and editing new content (from word processing to images and video) and solving conceptual, technical and practical problems.
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [scopeNote] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Excludes:
+- Computer programming
+- Resolving computer problems
+
+Examples:
+- Use CAD software
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.6.3&language=de
+                    [uri] => http://data.europa.eu/esco/skill/S5.6.3
+                    [title] => Nutzung computergestützter Tools zum Konstruieren und Zeichnen
+                )
+
+            [isInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills-hierarchy&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+                            [title] => ESCO skills hierarchy
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills
+                            [title] => ESCO-Fähigkeiten
+                        )
+
+                )
+
+            [broaderConcept] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.6&language=de
+                            [uri] => http://data.europa.eu/esco/skill/S5.6
+                            [title] => Nutzung digitaler Tools für die Zusammenarbeit, Inhaltserstellung und Problemlösung
+                            [code] => S5.6
+                        )
+
+                )
+
+            [narrowerSkill] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/55cc1f3f-69fc-46ec-b24a-9708f6bd92b4&language=de
+                            [uri] => http://data.europa.eu/esco/skill/55cc1f3f-69fc-46ec-b24a-9708f6bd92b4
+                            [title] => Softwareinstrumente für die Standortmodellierung nutzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/82394321-7f35-4a29-b2fa-4a58f66258f5&language=de
+                            [uri] => http://data.europa.eu/esco/skill/82394321-7f35-4a29-b2fa-4a58f66258f5
+                            [title] => Transportprobleme simulieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [2] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462&language=de
+                            [uri] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                            [title] => Software für technisches Zeichnen verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [3] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ee6c325b-223e-432f-89c3-a0f135adac9e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/ee6c325b-223e-432f-89c3-a0f135adac9e
+                            [title] => Katasterkarten erstellen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [4] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3c1af34b-4562-4c39-a30e-0812b84a147e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/3c1af34b-4562-4c39-a30e-0812b84a147e
+                            [title] => spezialisierte Designsoftware verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [5] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c415ce6e-24f5-4130-add4-645b9d455c71&language=de
+                            [uri] => http://data.europa.eu/esco/skill/c415ce6e-24f5-4130-add4-645b9d455c71
+                            [title] => Skelett von 3D-Figuren modellieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [6] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ab0a456-e4f6-4070-a360-46e1009b6c0d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9ab0a456-e4f6-4070-a360-46e1009b6c0d
+                            [title] => CAE-Software verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [7] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7abf5b24-8f18-49c5-a64b-5a5870a03a56&language=de
+                            [uri] => http://data.europa.eu/esco/skill/7abf5b24-8f18-49c5-a64b-5a5870a03a56
+                            [title] => unsaubere Zeichnungen in virtuelle Skizzen umwandeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [8] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3c6fe585-7d12-4315-b579-e30c042088ce&language=de
+                            [uri] => http://data.europa.eu/esco/skill/3c6fe585-7d12-4315-b579-e30c042088ce
+                            [title] => rechnergestützte Entwicklungssysteme einsetzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [9] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a50c6a0a-5171-4be6-aa2b-50fe4d025d45&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a50c6a0a-5171-4be6-aa2b-50fe4d025d45
+                            [title] => 3D-CAD-Schuhprototypen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [10] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e
+                            [title] => CADD-Software verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [11] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944
+                            [title] => Bergbau-Planungssoftware verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [12] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/071a4197-06b3-4226-b9a1-efd15913280a&language=de
+                            [uri] => http://data.europa.eu/esco/skill/071a4197-06b3-4226-b9a1-efd15913280a
+                            [title] => Medizinprodukte modellieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [13] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5d3798b0-d3a3-45ef-9df2-8b8756d4d79c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/5d3798b0-d3a3-45ef-9df2-8b8756d4d79c
+                            [title] => thermische Analyse einsetzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [14] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8ff314a8-57d7-4b8c-bf41-79f9572fedd0&language=de
+                            [uri] => http://data.europa.eu/esco/skill/8ff314a8-57d7-4b8c-bf41-79f9572fedd0
+                            [title] => digitale Illustrationstechniken einsetzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [15] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3325729c-96db-4217-a9ca-4564cc1f909b&language=de
+                            [uri] => http://data.europa.eu/esco/skill/3325729c-96db-4217-a9ca-4564cc1f909b
+                            [title] => polygonale Modellierung verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [16] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f22dd07b-cb0f-4b18-ba54-d922dfaa8c14&language=de
+                            [uri] => http://data.europa.eu/esco/skill/f22dd07b-cb0f-4b18-ba54-d922dfaa8c14
+                            [title] => CAD-Technik für Leisten verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [17] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/76415d7f-0fde-4364-b45f-5c044580d2aa&language=de
+                            [uri] => http://data.europa.eu/esco/skill/76415d7f-0fde-4364-b45f-5c044580d2aa
+                            [title] => AutoCAD-Zeichnungen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [18] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/061f1c12-9811-46f7-ab3e-1d28367d6c73&language=de
+                            [uri] => http://data.europa.eu/esco/skill/061f1c12-9811-46f7-ab3e-1d28367d6c73
+                            [title] => CAD-Technik für Sohlen verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [19] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b21150f-e704-4758-b102-63fd3412543c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/6b21150f-e704-4758-b102-63fd3412543c
+                            [title] => 3D-Figuren schaffen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [20] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f&language=de
+                            [uri] => http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f
+                            [title] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [21] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1&language=de
+                            [uri] => http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1
+                            [title] => CAD-Software nutzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [22] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/76842746-cacb-4e6d-adc6-0656d75c9c51&language=de
+                            [uri] => http://data.europa.eu/esco/skill/76842746-cacb-4e6d-adc6-0656d75c9c51
+                            [title] => CAD-Technik für Absätze verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [23] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9295d1c5-8d7d-423e-a6ce-dfbc1d991f88&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9295d1c5-8d7d-423e-a6ce-dfbc1d991f88
+                            [title] => digitale Kartierung anwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+        )
+
+)

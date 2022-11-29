@@ -1,0 +1,514 @@
+Array
+(
+    [className] => Concept
+    [classId] => http://www.w3.org/2004/02/skos/core#Concept
+    [uri] => http://data.europa.eu/esco/skill/S1.11.4
+    [title] => Entwurf von Strukturen oder Einrichtungen
+    [preferredLabel] => Array
+        (
+            [no] => designe strukturer eller fasiliteter
+            [de] => Entwurf von Strukturen oder Einrichtungen
+            [fi] => suunnitella rakenteita tai tiloja
+            [pt] => conceber estruturas ou instalações
+            [bg] => проектиране на конструкции или съоръжения
+            [lt] => projektuoti statinius ar įrenginius
+            [hr] => dizajniranje konstrukcija ili objekata
+            [lv] => konstrukciju vai iekārtu projektēšana
+            [fr] => concevoir des structures ou des installations
+            [hu] => szerkezeteket vagy létesítményeket tervez
+            [sk] => navrhovať štruktúry alebo zariadenia
+            [sl] => projektirati strukture ali zmogljivosti
+            [ga] => déanmhais nó saoráidí a dhearadh
+            [sv] => konstruera byggnader eller anläggningar
+            [mt] => tfassil ta’ strutturi jew faċilitajiet
+            [el] => σχεδιασμός δομών ή εγκαταστάσεων
+            [en] => designing structures or facilities
+            [is] => hönnun bygginga eða aðstöðu
+            [it] => progettare strutture fisiche o impianti
+            [es] => diseñar estructuras o instalaciones
+            [et] => ehitiste või rajatiste projekteerimine
+            [cs] => navrhovat stavby nebo zařízení
+            [ar] => تصميم الهياكل أو المرافق
+            [pl] => projektowanie struktur i infrastruktury
+            [da] => designe strukturer eller faciliteter
+            [ro] => proiectează structuri sau instalații
+            [nl] => ontwerpen van structuren en faciliteiten
+        )
+
+    [code] => S1.11.4
+    [codes] => Array
+        (
+            [0] => Array
+                (
+                    [datatype] => 
+                    [value] => S1.11.4
+                )
+
+        )
+
+    [description] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Creating a plan or specification for the design and development of physical structures such as buildings, urban infrastructure, or open spaces.
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [scopeNote] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Examples:
+- Design safety equipment
+- Design pharmaceutical manufacturing systems
+- Design buildings
+- Create new landscape designs
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S1.11.4&language=de
+                    [uri] => http://data.europa.eu/esco/skill/S1.11.4
+                    [title] => Entwurf von Strukturen oder Einrichtungen
+                )
+
+            [isInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills-hierarchy&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+                            [title] => ESCO skills hierarchy
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills
+                            [title] => ESCO-Fähigkeiten
+                        )
+
+                )
+
+            [broaderConcept] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S1.11&language=de
+                            [uri] => http://data.europa.eu/esco/skill/S1.11
+                            [title] => Entwurf von Systemen und Produkten
+                            [code] => S1.11
+                        )
+
+                )
+
+            [narrowerSkill] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/981f770c-24f1-4711-afc0-13a6fa1a33ab&language=de
+                            [uri] => http://data.europa.eu/esco/skill/981f770c-24f1-4711-afc0-13a6fa1a33ab
+                            [title] => Konstruktionspläne für den Rohrleitungsbau erstellen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7c3cde53-9ff7-4e82-8396-13fdfadd3432&language=de
+                            [uri] => http://data.europa.eu/esco/skill/7c3cde53-9ff7-4e82-8396-13fdfadd3432
+                            [title] => Gebäude entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [2] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d7a67428-3afb-4bbd-932b-f6718ca489c5&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d7a67428-3afb-4bbd-932b-f6718ca489c5
+                            [title] => Hausbau planen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [3] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/977ea26a-3721-4f5e-9a99-b6676ff6ba7d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/977ea26a-3721-4f5e-9a99-b6676ff6ba7d
+                            [title] => Seebrücken entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [4] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3ef76cca-f763-4ec0-b4b7-71971e0f35ff&language=de
+                            [uri] => http://data.europa.eu/esco/skill/3ef76cca-f763-4ec0-b4b7-71971e0f35ff
+                            [title] => Rohrleitungen mit verschiedenen Lösungskonzepten für die Beschichtung konstruieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [5] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/854de3ad-0bf5-4b8f-a283-1c31b4c7e272&language=de
+                            [uri] => http://data.europa.eu/esco/skill/854de3ad-0bf5-4b8f-a283-1c31b4c7e272
+                            [title] => Ölflusssysteme entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [6] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/23db1cab-e565-4a90-89f8-3a8685a20029&language=de
+                            [uri] => http://data.europa.eu/esco/skill/23db1cab-e565-4a90-89f8-3a8685a20029
+                            [title] => den physischen Zustand des Lagers pflegen und aufrechterhalten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [7] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/397412dc-47c4-4580-82d0-15a9f9a86ea2&language=de
+                            [uri] => http://data.europa.eu/esco/skill/397412dc-47c4-4580-82d0-15a9f9a86ea2
+                            [title] => Drainagebrunnenanlagen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [8] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b1f71e6b-5811-4a1f-99d5-4836971388b8&language=de
+                            [uri] => http://data.europa.eu/esco/skill/b1f71e6b-5811-4a1f-99d5-4836971388b8
+                            [title] => Gestaltung von Parkflächen für Luftfahrzeuge genehmigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [9] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aa6a8f15-75aa-48ab-a1ca-413d43b23c43&language=de
+                            [uri] => http://data.europa.eu/esco/skill/aa6a8f15-75aa-48ab-a1ca-413d43b23c43
+                            [title] => die Konstruktion pharmazeutischer Produktionsstätten leiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [10] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/821c1504-20b0-4e47-9e69-6a565d17151d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/821c1504-20b0-4e47-9e69-6a565d17151d
+                            [title] => Ölbohrungen planen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [11] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/885808f7-f42b-406e-95f2-28efcd45ddda&language=de
+                            [uri] => http://data.europa.eu/esco/skill/885808f7-f42b-406e-95f2-28efcd45ddda
+                            [title] => Energiemanagement von Anlagen wahrnehmen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [12] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/16d61c6a-30e8-49e2-abbb-d20879eb8afd&language=de
+                            [uri] => http://data.europa.eu/esco/skill/16d61c6a-30e8-49e2-abbb-d20879eb8afd
+                            [title] => räumliche Gestaltung von Außenanlagen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [13] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/119535c6-ff74-4e64-91c2-bcf338749fd6&language=de
+                            [uri] => http://data.europa.eu/esco/skill/119535c6-ff74-4e64-91c2-bcf338749fd6
+                            [title] => Bohrpfade entwickeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [14] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/34406889-f522-47a7-b60d-8545b36d73bb&language=de
+                            [uri] => http://data.europa.eu/esco/skill/34406889-f522-47a7-b60d-8545b36d73bb
+                            [title] => harmonische Architektur anstreben
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [15] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cb5c6c3a-8999-41ee-83c9-012974efc43e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/cb5c6c3a-8999-41ee-83c9-012974efc43e
+                            [title] => Baustelle vorbereiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [16] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bd2102ea-c8d9-40f6-8327-211450120e96&language=de
+                            [uri] => http://data.europa.eu/esco/skill/bd2102ea-c8d9-40f6-8327-211450120e96
+                            [title] => Bauvorgaben von Kunden im Architekturdesign berücksichtigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [17] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b8e703c0-6953-4f07-879a-5bea28c006c6&language=de
+                            [uri] => http://data.europa.eu/esco/skill/b8e703c0-6953-4f07-879a-5bea28c006c6
+                            [title] => Hängepläne entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [18] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/17363757-35c3-4b1e-84be-4aa53fb5b8d3&language=de
+                            [uri] => http://data.europa.eu/esco/skill/17363757-35c3-4b1e-84be-4aa53fb5b8d3
+                            [title] => Bühnenentwürfe zeichnen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [19] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/465af498-53b1-4e04-9f49-7458afb59274&language=de
+                            [uri] => http://data.europa.eu/esco/skill/465af498-53b1-4e04-9f49-7458afb59274
+                            [title] => Ausrüstung für Versorgungsanlagen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [20] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d36178d1-07fa-44c5-8b19-0ca637256261&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d36178d1-07fa-44c5-8b19-0ca637256261
+                            [title] => neue Anlagen entwickeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [21] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/122c4641-027e-4add-888d-de7de0122d43&language=de
+                            [uri] => http://data.europa.eu/esco/skill/122c4641-027e-4add-888d-de7de0122d43
+                            [title] => Fußboden gestalten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [22] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9a354775-1a03-4258-a357-be4ab0a07465&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9a354775-1a03-4258-a357-be4ab0a07465
+                            [title] => Dachbegrünung anlegen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [23] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/11f364dd-0814-4398-b00e-10d1be8b27af&language=de
+                            [uri] => http://data.europa.eu/esco/skill/11f364dd-0814-4398-b00e-10d1be8b27af
+                            [title] => Transportsysteme entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [24] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/68d5d7e2-1e9e-4b2b-bce9-ff6c687e4f45&language=de
+                            [uri] => http://data.europa.eu/esco/skill/68d5d7e2-1e9e-4b2b-bce9-ff6c687e4f45
+                            [title] => Kanalisationsnetze entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [25] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/dae7b6eb-dea0-4298-9554-d951656e9389&language=de
+                            [uri] => http://data.europa.eu/esco/skill/dae7b6eb-dea0-4298-9554-d951656e9389
+                            [title] => Freiflächen entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [26] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b251544f-7b92-46d5-8e14-97f59ce1c7dc&language=de
+                            [uri] => http://data.europa.eu/esco/skill/b251544f-7b92-46d5-8e14-97f59ce1c7dc
+                            [title] => innovative Gestaltung der Infrastruktur fördern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [27] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9263f0d8-7266-4782-b0ee-38f62656e97e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9263f0d8-7266-4782-b0ee-38f62656e97e
+                            [title] => nachhaltige Raumgestaltung fördern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [28] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/921f52c7-d977-4e84-8b62-adf64fed999f&language=de
+                            [uri] => http://data.europa.eu/esco/skill/921f52c7-d977-4e84-8b62-adf64fed999f
+                            [title] => Architekturpläne entwickeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [29] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9c2dc96b-5d53-4d26-8d90-644d10c3ba1c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9c2dc96b-5d53-4d26-8d90-644d10c3ba1c
+                            [title] => neue Landschaftsdesigns schaffen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [30] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea&language=de
+                            [uri] => http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea
+                            [title] => Bühnenausstattung digital zeichnen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [31] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ee239d14-bfc8-4939-91ff-824b5814ff67&language=de
+                            [uri] => http://data.europa.eu/esco/skill/ee239d14-bfc8-4939-91ff-824b5814ff67
+                            [title] => Grundsätze der Ingenieurswissenschaft im Architekturdesign berücksichtigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [32] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a103bca9-6d00-4255-b61b-6c524dacfc8e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a103bca9-6d00-4255-b61b-6c524dacfc8e
+                            [title] => Lehrmodelle entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [33] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e36c1f47-3913-4d35-a6ae-fd9a7243483f&language=de
+                            [uri] => http://data.europa.eu/esco/skill/e36c1f47-3913-4d35-a6ae-fd9a7243483f
+                            [title] => Bewetterungsnetzwerke entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [34] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d71d6846-c39b-409f-bed7-e2f1a7d01da9&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d71d6846-c39b-409f-bed7-e2f1a7d01da9
+                            [title] => Sportanlagen planen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [35] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d1a47422-bcf0-4f81-864c-984d08f7cf64&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d1a47422-bcf0-4f81-864c-984d08f7cf64
+                            [title] => Staudämme entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [36] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/09dd7302-368e-4b3e-b644-7c03a2aae4a2&language=de
+                            [uri] => http://data.europa.eu/esco/skill/09dd7302-368e-4b3e-b644-7c03a2aae4a2
+                            [title] => Lebensmittelbetriebe konzipieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [37] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/db0e560b-15a7-4758-acca-088674461dff&language=de
+                            [uri] => http://data.europa.eu/esco/skill/db0e560b-15a7-4758-acca-088674461dff
+                            [title] => Gerüst planen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [38] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/28eb4689-3ba4-47a1-96b0-34a60751ea17&language=de
+                            [uri] => http://data.europa.eu/esco/skill/28eb4689-3ba4-47a1-96b0-34a60751ea17
+                            [title] => Infrastruktur für Tagebau entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [39] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5378a25c-5316-4bf3-afd8-b8c2fb06aad1&language=de
+                            [uri] => http://data.europa.eu/esco/skill/5378a25c-5316-4bf3-afd8-b8c2fb06aad1
+                            [title] => Material für das Bühnenbild bestimmen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [40] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a0cafd94-40c3-4d55-9e94-bc27ef071b4b&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a0cafd94-40c3-4d55-9e94-bc27ef071b4b
+                            [title] => Leistungspläne von Lagerstätten erstellen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [41] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8981d38b-fbc1-4ebe-9300-2357fb71913a&language=de
+                            [uri] => http://data.europa.eu/esco/skill/8981d38b-fbc1-4ebe-9300-2357fb71913a
+                            [title] => Messwerte im Architekturdesign berücksichtigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [42] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e665d919-f28d-4ac4-adf0-8903ac66540e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/e665d919-f28d-4ac4-adf0-8903ac66540e
+                            [title] => Konstruktionspläne ausarbeiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [43] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b3365920-f342-4bfc-9bde-db0de855c14c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/b3365920-f342-4bfc-9bde-db0de855c14c
+                            [title] => Komplettierung einer Bohrung zur Erdölproduktion konzipieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [44] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/03520ff5-9e68-434b-91fa-3ced9c085159&language=de
+                            [uri] => http://data.europa.eu/esco/skill/03520ff5-9e68-434b-91fa-3ced9c085159
+                            [title] => Verkaufsfläche planen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [45] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1f51e46a-4588-4c1d-b507-3f9ea480dde2&language=de
+                            [uri] => http://data.europa.eu/esco/skill/1f51e46a-4588-4c1d-b507-3f9ea480dde2
+                            [title] => Landschaftssysteme entwickeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [46] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/dc580b44-5099-4327-aabe-8e59b6d1ab90&language=de
+                            [uri] => http://data.europa.eu/esco/skill/dc580b44-5099-4327-aabe-8e59b6d1ab90
+                            [title] => Wehre entwerfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [47] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a4c4c0b7-3dc4-4a6b-b1c8-6502cde56a14&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a4c4c0b7-3dc4-4a6b-b1c8-6502cde56a14
+                            [title] => bauliche Einschränkungen im architektonischen Design berücksichtigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [48] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/52c3a6cf-90b1-4cba-b5b6-30561f298314&language=de
+                            [uri] => http://data.europa.eu/esco/skill/52c3a6cf-90b1-4cba-b5b6-30561f298314
+                            [title] => Produktionsanlagen für die Lebensmittelindustrie einrichten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+        )
+
+)

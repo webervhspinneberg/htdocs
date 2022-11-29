@@ -1,0 +1,1602 @@
+Array
+(
+    [total] => 1072
+    [offset] => 0
+    [limit] => 20
+    [text] => Software f�r technisches Zeichnen verwenden
+    [language] => de
+    [type] => Array
+        (
+            [0] => skill
+        )
+
+    [isInScheme] => 
+    [facet] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Software%20f%EF%BF%BDr%20technisches%20Zeichnen%20verwenden&type=skill&limit=20&offset=0&full=false&viewObsolete=false&language=de
+                )
+
+            [next] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Software%20f%EF%BF%BDr%20technisches%20Zeichnen%20verwenden&type=skill&limit=20&offset=1&full=false&viewObsolete=false&language=de
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [results] => Array
+                (
+                    [0] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                            [searchHit] => Software für technisches Zeichnen verwenden
+                            [title] => Software für technisches Zeichnen verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Software für technisches Zeichnen verwenden
+                                    [no] => bruke teknisk tegneprogramvare
+                                    [fi] => käyttää teknisen piirtämisen ohjelmistoja
+                                    [en-us] => use technical drawing software
+                                    [pt] => utilizar «software» de desenho técnico
+                                    [bg] => използване на софтуер за техническо чертане
+                                    [lt] => naudoti techninių brėžinių programinę įrangą
+                                    [hr] => upotrebljavati softver za tehničko crtanje
+                                    [lv] => lietot tehniskās rasēšanas programmatūras
+                                    [fr] => utiliser un logiciel de dessin technique
+                                    [hu] => műszaki rajzoló szoftvert használ
+                                    [sk] => používať softvér na tvorbu technických nákresov
+                                    [sl] => uporabljati programsko opremo za tehnično risanje
+                                    [ga] => bogearraí líníochta teicniúla a úsáid
+                                    [sv] => använda programvara för tekniska ritningar
+                                    [el] => χρήση λογισμικού για τη δημιουργία τεχνικών σχεδίων
+                                    [mt] => użu tas-softwer tat-tpinġijiet tekniċi
+                                    [en] => use technical drawing software
+                                    [is] => notar tækniteiknunarhugbúnað
+                                    [it] => utilizzare software per il disegno tecnico
+                                    [es] => utilizar software de dibujo técnico
+                                    [et] => tehnilise joonestamise tarkvara kasutama
+                                    [cs] => používat software na technické kreslení
+                                    [ar] => استخدام برامج الرسم التقنية
+                                    [pl] => korzystać z oprogramowania do rysunków technicznych
+                                    [da] => bruge teknisk tegnesoftware
+                                    [ro] => utilizează software de desen tehnic
+                                    [nl] => software voor technisch tekenen gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                            [title] => Software für technisches Zeichnen verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e
+                            [searchHit] => Verwendung von Software für computergestütztes Zeichnen und Entwerfen, um detaillierte Zeichnungen und technische Pläne zu erstellen.
+                            [title] => CADD-Software verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => CADD-Software verwenden
+                                    [no] => bruke CADD-programvare
+                                    [fi] => käyttää tietokoneavusteisia suunnittelu- ja piirtämisohjelmistoja
+                                    [en-us] => use CADD software
+                                    [pt] => utilizar «software» CADD
+                                    [bg] => използване на CADD софтуер
+                                    [lt] => naudoti kompiuterizuoto projektavimo ir brėžinių braižymo (CADD) programinę įrangą
+                                    [hr] => upotrebljavati softver za računalno potpomognuto dizajniranje i crtanje
+                                    [lv] => lietot CADD programmatūras
+                                    [fr] => utiliser un logiciel de CAO-DAO
+                                    [hu] => CADD-szoftvert használ
+                                    [sk] => používať softvér CADD
+                                    [sl] => uporabljati programsko opremo CADD
+                                    [ga] => bogearraí CADD a úsáid
+                                    [sv] => använda CADD-programvara
+                                    [el] => χρήση λογισμικού για τον σχεδιασμό και την επεξεργασία σχεδίων με τη βοήθεια υπολογιστή
+                                    [mt] => użu tas-softwer tad-disinn u tal-abbozzar bil-kompjuter (CADD)
+                                    [en] => use CADD software
+                                    [is] => notar CADD-hugbúnað
+                                    [it] => usare il software CADD
+                                    [es] => utilizar software CADD
+                                    [et] => CADD tarkvara kasutama
+                                    [cs] => používat CADD software
+                                    [ar] => استخدام برنامج التصميم والتخطيط بمساعدة الحاسوب (CADD)
+                                    [pl] => korzystać z oprogramowania CADD
+                                    [da] => bruge CADD-software
+                                    [ro] => utilizează software CADD
+                                    [nl] => CADD-software gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                    [1] => http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e
+                                            [title] => CADD-Software verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf
+                            [searchHit] => Entwurf und Entwicklung von Prototypen für optische Produkte und Bauteile unter Verwendung von Software für technisches Zeichnen.
+                            [title] => optische Prototypen entwickeln
+                            [preferredLabel] => Array
+                                (
+                                    [de] => optische Prototypen entwickeln
+                                    [no] => utforme optiske prototyper
+                                    [fi] => suunnitella optisia prototyyppejä
+                                    [en-us] => design optical prototypes
+                                    [pt] => desenhar protótipos óticos
+                                    [bg] => проектиране на оптични прототипи
+                                    [lt] => projektuoti optinės įrangos prototipus
+                                    [hr] => projektirati optičke prototipove
+                                    [lv] => izstrādāt optiskos prototipus
+                                    [fr] => concevoir des prototypes optiques
+                                    [hu] => optikai prototípusokat tervez
+                                    [sk] => navrhovať optické prototypy
+                                    [sl] => razvijati optične prototipe
+                                    [ga] => fréamhshamhlacha optúla a dhearadh
+                                    [sv] => designa optiska prototyper
+                                    [el] => σχεδιασμός οπτικών πρωτοτύπων
+                                    [mt] => disinn tal-prototipi ottiċi
+                                    [en] => design optical prototypes
+                                    [is] => hannar ljósfræðilegar frumgerðir
+                                    [it] => progettare prototipi ottici
+                                    [es] => diseñar prototipos de productos ópticos
+                                    [et] => optilisi prototüüpe projekteerima
+                                    [cs] => navrhovat optické prototypy
+                                    [ar] => تصميم النماذج البصرية
+                                    [pl] => projektować prototypy wyrobów optycznych
+                                    [da] => designe optiske prototyper
+                                    [ro] => proiectează prototipuri de produse optice
+                                    [nl] => optische prototypes ontwerpen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/bacbfc27-4b5d-47de-8bfd-af5fa27562a2
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.5
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf
+                                            [title] => optische Prototypen entwickeln
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea
+                            [searchHit] => Zeichnen und Gestalten der Bühnenausstattung mithilfe von Software wie CAD.
+                            [title] => Bühnenausstattung digital zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bühnenausstattung digital zeichnen
+                                    [no] => tegne sceneoppsett digitalt
+                                    [fi] => piirtää näyttämösuunnitelmia digitaalisesti
+                                    [en-us] => draw up stage layouts digitally
+                                    [pt] => desenhar digitalmente cenários de palco
+                                    [bg] => изготвяне чрез цифрови технологии на оформленията на сцената
+                                    [lt] => rengti skaitmenines scenos ir jos įrangos išdėstymo schemas
+                                    [hr] => digitalno izrađivati izgled pozornice
+                                    [lv] => sagatavot digitālus skatuves plānus
+                                    [fr] => établir l'agencement d'une scène par voie numérique
+                                    [hu] => digitálisan elkészíti a színpad alaprajzát
+                                    [sk] => digitálne nakresliť plán javiska
+                                    [sl] => pripraviti digitalno geografijo odra
+                                    [ga] => leagan amach stáitse a ullmhú go digiteach
+                                    [sv] => upprätta scenlayouter digitalt
+                                    [el] => ψηφιακή σχεδίαση πλάνου σκηνής
+                                    [mt] => tfassil diġitali tat-tqassim tal-palk
+                                    [en] => draw up stage layouts digitally
+                                    [is] => teiknar stafrænt sviðsfyrirkomulag
+                                    [it] => disegnare digitalmente le disposizioni delle scene
+                                    [es] => realizar el diseño digital de los planos de un escenario
+                                    [et] => lavapaigutusi digitaalselt koostama
+                                    [cs] => vytvářet rozvržení jeviště v digitální podobě
+                                    [ar] => تحديد مخططات المرحلة رقميًا
+                                    [pl] => sporządzać koncepcję układu scenicznego w formie cyfrowej
+                                    [da] => tegne scenelayout digitalt
+                                    [ro] => desenează amenajarea scenică cu ajutorul tehnicilor digitale
+                                    [nl] => podiumindelingen digitaal uittekenen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.4
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6b9c6280-cd0b-4462-885e-da63fe5918ea
+                                            [title] => Bühnenausstattung digital zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df
+                            [searchHit] => Softwarebibliotheken verwenden
+                            [title] => Softwarebibliotheken verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Softwarebibliotheken verwenden
+                                    [no] => bruke programvarebiblioteker
+                                    [fi] => käyttää ohjelmistokirjastoja
+                                    [en-us] => use software libraries
+                                    [pt] => utilizar bibliotecas de software
+                                    [bg] => използване на софтуерни библиотеки
+                                    [lt] => naudoti programinės įrangos bibliotekas
+                                    [hr] => koristiti softverske knjižnice
+                                    [lv] => izmantot programmatūras bibliotēkas
+                                    [fr] => utiliser des bibliothèques logicielles
+                                    [hu] => szoftverkönyvtárat használ
+                                    [sk] => použiť softvérové knižnice
+                                    [sl] => uporabljati knjižnico programske opreme
+                                    [ga] => stórtha bogearraí a úsáid
+                                    [sv] => använda programvarubibliotek
+                                    [el] => χρήση βιβλιοθηκών λογισμικού
+                                    [mt] => tuża libreriji ta' softwer
+                                    [en] => use software libraries
+                                    [is] => nota hugbúnaðarforritasafn
+                                    [it] => usare librerie software
+                                    [es] => utilizar bibliotecas de software
+                                    [et] => tarkvarateeke kasutama
+                                    [cs] => používat softwarové knihovny
+                                    [ar] => استخدام مكتبات البرمجيات
+                                    [pl] => używać bibliotek oprogramowania
+                                    [da] => bruge softwarebiblioteker
+                                    [ro] => utilizează biblioteci de software
+                                    [nl] => softwarebibliotheken gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.5.2
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df
+                                            [title] => Softwarebibliotheken verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/3a33cec3-4b44-471a-8864-5cc8567a8b1f
+                            [searchHit] => Das computerunterstützte Konstruieren und technische Zeichen (Computer-Aided Design and Drafting, CADD) ist der Einsatz von Computertechnologie für Konstruktion und Konstruktionsunterlagen. Die CAD-Software ersetzt das manuelle Zeichnen durch einen automatisierten Prozess.
+                            [title] => CADD-Software
+                            [preferredLabel] => Array
+                                (
+                                    [de] => CADD-Software
+                                    [no] => CADD-programvare
+                                    [fi] => tietokoneavusteiset suunnittelu- ja piirtämisohjelmistot
+                                    [en-us] => CADD software
+                                    [pt] => software CADD
+                                    [bg] => CADD софтуер
+                                    [lt] => kompiuterizuoto projektavimo ir brėžinių braižymo (CADD) programinė įranga
+                                    [hr] => softver za računalno potpomognuto dizajniranje i crtanje
+                                    [lv] => CADD programmatūra
+                                    [fr] => logiciel de CAO-DAO
+                                    [hu] => CADD-szoftver
+                                    [sk] => softvér CADD
+                                    [sl] => programska oprema CADD
+                                    [ga] => Bogearraí CADD
+                                    [sv] => CADD-programvara
+                                    [el] => λογισμικό σχεδιασμού και επεξεργασίας σχεδίων με τη βοήθεια υπολογιστή
+                                    [mt] => softwer tad-disinn u tal-abbozzar bil-kompjuter (CADD)
+                                    [en] => CADD software
+                                    [is] => CADD-hugbúnaður
+                                    [it] => software CADD
+                                    [es] => software CADD
+                                    [et] => CADD-tarkvara
+                                    [cs] => CADD software
+                                    [ar] => برنامج التصميم بمساعدة الحاسوب
+                                    [pl] => oprogramowanie CADD
+                                    [da] => CADD-programmer
+                                    [ro] => software CADD
+                                    [nl] => CADD-software
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/knowledge
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/a2b5dcf3-5b6a-453d-876c-cff540c0faf1
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isced-f/0613
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3a33cec3-4b44-471a-8864-5cc8567a8b1f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/3a33cec3-4b44-471a-8864-5cc8567a8b1f
+                                            [title] => CADD-Software
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17
+                            [searchHit] => Software-Entwurfsmuster verwenden
+                            [title] => Software-Entwurfsmuster verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Software-Entwurfsmuster verwenden
+                                    [no] => bruke programvaredesignmønstre
+                                    [fi] => käyttää ohjelmistosuunnittelun malleja
+                                    [en-us] => use software design patterns
+                                    [pt] => utilizar padrões de conceção de software
+                                    [bg] => използване на модели за софтуерно проектиране
+                                    [lt] => naudoti programinės įrangos dizaino modelius
+                                    [hr] => koristiti obrasce za dizajn softvera
+                                    [lv] => programmatūras dizaina modeļu lietošana
+                                    [fr] => utiliser des patrons de conception
+                                    [hu] => programtervezési mintákat alkalmaz
+                                    [sk] => použiť šablóny softvérového dizajnu
+                                    [sl] => uporabljati vzorce za oblikovanje programske opreme
+                                    [ga] => patrúin deartha bogearraí a úsáid
+                                    [sv] => använda mönster för programvarudesign
+                                    [el] => χρησιμοποίηση προτύπων σχεδίασης λογισμικού
+                                    [mt] => tuża mudelli għad-disinn tas-softwer
+                                    [en] => use software design patterns
+                                    [is] => nota hönnunarmynstur hugbúnaðar
+                                    [it] => utilizzare schemi di progettazione software
+                                    [es] => utilizar patrones de diseño de software
+                                    [et] => tarkvara projekteerimise mustreid kasutama
+                                    [cs] => využívat vzory softwarového designu
+                                    [ar] => استخدام أنماط تصميم البرامج
+                                    [pl] => używać wzorców projektowych
+                                    [da] => bruge softwaredesignmønstre
+                                    [ro] => utilizează șabloane de proiectare de software
+                                    [nl] => softwareontwerppatronen gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17
+                                            [title] => Software-Entwurfsmuster verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f
+                            [searchHit] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                            [title] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                                    [no] => bruke programvare til å tegne skisser av tekstilprodukter
+                                    [fi] => piirtää luonnoksia tekstiilituotteiden kehittämiseksi ohjelmistoja käyttämällä
+                                    [en-us] => draw sketches to develop textile articles using softwares
+                                    [pt] => desenhar artigos têxteis com a ajuda de software
+                                    [bg] => рисуване със софтуерни приложения на скици за изработка на текстилни изделия
+                                    [lt] => naudojantis programine įranga braižyti tekstilės gaminių brėžinius
+                                    [hr] => crtati crteže za proizvodnju tekstilnih predmeta uporabom softvera
+                                    [lv] => ar programmatūru palīdzību veidot skices tekstilizstrādājumu izgatavošanai
+                                    [fr] => dessiner des croquis pour réaliser des articles textiles à l’aide de logiciels
+                                    [hu] => textiláruk kialakítása céljából szoftver segítségével vázlatokat készít
+                                    [sk] => kresliť návrhy na výrobu textilných výrobkov pomocou softvéru
+                                    [sl] => risati skice za proizvodnjo tekstilnih izdelkov z uporabo programske opreme
+                                    [ga] => sceitsí a tharraingt chun earraí teicstíle a fhorbairt trí bhogearraí a úsáid
+                                    [sv] => göra datorskisser för utveckling av textilartiklar
+                                    [el] => σχεδίαση σκίτσων για τη δημιουργία υφαντουργικών ειδών με τη βοήθεια λογισμικών
+                                    [mt] => tpinġija tal-iskeċċijiet bl-użu ta’ softwers għall-iżvilupp tal-oġġetti tat-tessuti
+                                    [en] => draw sketches to develop textile articles using softwares
+                                    [is] => teiknar skissur með hugbúnaði til að þróa textílvörur
+                                    [it] => disegnare schizzi per sviluppare articoli tessili tramite software
+                                    [es] => hacer bocetos de artículos textiles con programas de ordenador
+                                    [et] => tekstiiltoodete väljatöötamise visandeid tarkvara abil joonistama
+                                    [cs] => kreslit skici pro vývoj textilních výrobků pomocí softwaru
+                                    [ar] => رسم رسومات لتطوير المواد النسيجية باستخدام البرمجيات
+                                    [pl] => sporządzać szkice wyrobów włókienniczych przy użyciu oprogramowania
+                                    [da] => tegne skitser for at udvikle tekstilartikler ved hjælp af software
+                                    [ro] => desenează schițe pentru dezvoltarea articolelor textile utilizând software
+                                    [nl] => schetsen maken voor de ontwikkeling van textielartikelen met behulp van software
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                    [1] => http://data.europa.eu/esco/skill/d65e43ec-236d-4774-9ee6-f7f88e715bc4
+                                    [2] => http://data.europa.eu/esco/skill/50373f03-3e81-4d2e-99c6-d0f2ff42b138
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/cdfb75ab-adc3-4143-a453-b91949dcfa1f
+                                            [title] => mit Hilfe von Software Skizzen für die Entwicklung von Textilien zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944
+                            [searchHit] => Verwenden spezieller Software zum Planen, Konzipieren und Modellieren von Bergbauarbeiten.
+                            [title] => Bergbau-Planungssoftware verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Bergbau-Planungssoftware verwenden
+                                    [no] => bruke gruveplanleggingsprogramvare
+                                    [fi] => käyttää kaivosten suunnitteluohjelmistoja
+                                    [en-us] => use mine planning software
+                                    [pt] => utilizar «software» para planificação mineira
+                                    [bg] => използване на софтуер за минно планиране
+                                    [lt] => naudoti kasyklų planavimo programinę įrangą
+                                    [hr] => upotrebljavati softver za planiranje rudarskih aktivnosti
+                                    [lv] => lietot kalnrūpniecības plānošanas programmatūras
+                                    [fr] => utiliser un logiciel de planification pour l’exploitation minière
+                                    [hu] => bányatervező szoftvert használ
+                                    [sk] => používať softvér na plánovanie ťažby
+                                    [sl] => uporabljati programsko opremo za projektiranje rudnikov
+                                    [ga] => bogearraí pleanála mianadóireachta a úsáid
+                                    [sv] => använda programvara för gruvdriftsplanering
+                                    [el] => χρήση λογισμικού για τον σχεδιασμό ορυχείου
+                                    [mt] => użu tas-softwer tal-ippjanar tal-minjieri
+                                    [en] => use mine planning software
+                                    [is] => notar hugbúnað til að skipuleggja námu
+                                    [it] => utilizzare software di pianificazione delle attività della miniera
+                                    [es] => utilizar software de programación minera
+                                    [et] => kaevanduse planeerimise tarkvara kasutama
+                                    [cs] => používat software na důlní plánování
+                                    [ar] => استخدام برمجيات تخطيط المناجم
+                                    [pl] => korzystać z oprogramowania do planowania prac kopalni
+                                    [da] => bruge mineplanlægningssoftware
+                                    [ro] => utilizează software de planificare minieră
+                                    [nl] => software voor mijnbouwplanning gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/5475343c-5e75-415f-b431-17f3c20a347e
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944
+                                            [title] => Bergbau-Planungssoftware verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1
+                            [searchHit] => Software für rechnergestütztes Zeichnen nutzen
+                            [title] => CAD-Software nutzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => CAD-Software nutzen
+                                    [no] => bruke CAD-programvare
+                                    [fi] => käyttää tietokoneavusteisia suunnitteluohjelmia
+                                    [en-us] => use CAD software
+                                    [pt] => utilizar software CAD
+                                    [bg] => използване на CAD софтуер
+                                    [lt] => naudotis kompiuterizuoto projektavimo programine įranga
+                                    [hr] => upotrebljavati softver za računalno potpomognuti dizajn
+                                    [lv] => lietot CAD programmatūru
+                                    [fr] => utiliser un logiciel de CAO
+                                    [hu] => számítógéppel támogatott tervezőszoftvert használ
+                                    [sk] => používať softvér na navrhovanie pomocou počítača (CAD)
+                                    [sl] => uporabljati programsko opremo CAD
+                                    [ga] => bogearraí DRC (dearadh ríomhchuidithe) a úsáid
+                                    [sv] => använda CAD-program
+                                    [el] => χρήση λογισμικού για σχεδιασμό με χρήση υπολογιστή
+                                    [mt] => użu tas-softwer tad-disinn bil-kompjuter (CAD)
+                                    [en] => use CAD software
+                                    [is] => notar CAD-hugbúnað
+                                    [it] => utilizzare il software CAD
+                                    [es] => utilizar programas de diseño asistido por ordenador
+                                    [et] => CAD-tarkvara kasutama
+                                    [cs] => používat software CAD
+                                    [ar] => استخدام برمجيات التصميم بمساعدة الحاسوب
+                                    [pl] => korzystać z oprogramowania CAD
+                                    [da] => bruge CAD-software
+                                    [ro] => utilizează software CAD
+                                    [nl] => CAD-software gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1
+                                            [title] => CAD-Software nutzen
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/3c4c3fa1-d638-42df-8e98-2a38021da6f9
+                            [searchHit] => Datenerhaltungs-Software verwenden
+                            [title] => Datenerhaltungssoftware verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Datenerhaltungssoftware verwenden
+                                    [no] => bruke programvare for databevaring
+                                    [fi] => käyttää tietojen tallentamisen ohjelmistoa
+                                    [en-us] => use software for data preservation
+                                    [pt] => utilizar «software» de preservação de dados
+                                    [bg] => използване на софтуер за съхранение на данни
+                                    [lt] => panaudoti programinę įrangą duomenų saugojimui
+                                    [hr] => koristiti softver za zaštitu podataka
+                                    [lv] => programmatūras lietošana datu saglabāšanai
+                                    [fr] => utiliser un logiciel de conservation des données
+                                    [hu] => szoftvert alkalmaz adatmegőrzési célból
+                                    [sk] => použiť softvér na uchovanie údajov
+                                    [sl] => uporabljati programsko opremo za hrambo podatkov
+                                    [ga] => bogearraí a úsáid le haghaidh caomhnú sonraí
+                                    [sv] => använda programvara till bevarande av data
+                                    [el] => χρήση λογισμικού για τη διατήρηση δεδομένων
+                                    [mt] => tuża softwer għall-preservazzjoni tad-data
+                                    [en] => use software for data preservation
+                                    [is] => nota hugbúnað til varðveislu gagna
+                                    [it] => usare software per la conservazione dei dati
+                                    [es] => utilizar software para la conservación de datos
+                                    [et] => andmete säilitamise tarkvara kasutama
+                                    [cs] => využívat software pro uchovávání dat
+                                    [ar] => إستخدام برنامجًا للحفاظ على البيانات
+                                    [pl] => używać oprogramowania do zabezpieczania danych
+                                    [da] => bruge software til opbevarelse af data
+                                    [ro] => utilizează software pentru conservarea datelor
+                                    [nl] => software gebruiken voor gegevensbewaring
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3
+                                    [1] => http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a
+                                    [2] => http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.5.2
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3c4c3fa1-d638-42df-8e98-2a38021da6f9&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/3c4c3fa1-d638-42df-8e98-2a38021da6f9
+                                            [title] => Datenerhaltungssoftware verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [11] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30
+                            [searchHit] => Zeichnen oder Anreißen von Skizzen und Entwürfen auf Werkstücke, Platten, Stempel oder Walzen. Verwenden von Kompassen, Reißnadeln, Sticheln, Bleistiften usw.
+                            [title] => Entwürfe auf Werkstücke zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Entwürfe auf Werkstücke zeichnen
+                                    [no] => skissere design på arbeidsstykker
+                                    [fi] => luonnostella työkappaleiden suunnitelmia
+                                    [en-us] => sketch designs on workpieces
+                                    [pt] => esboçar designs em peças de trabalho
+                                    [bg] => скициране на модели върху обработвани детайли
+                                    [lt] => ant dirbinių piešti kompozicijų eskizus
+                                    [hr] => skicirati dizajn na predmetima za obradu
+                                    [lv] => skicēt noformējumus uz sagatavēm
+                                    [fr] => esquisser des dessins sur des pièces
+                                    [hu] => a munkadarabokon mintákat vázol fel
+                                    [sk] => načrtnúť vzory na obrábané predmety
+                                    [sl] => skicirati vzorce na obdelovance
+                                    [ga] => dearaí a sceitseáil ar shaotharphíosaí
+                                    [sv] => skissa mönster på arbetsstycken
+                                    [el] => δημιουργία σχεδίων σε αντικείμενα
+                                    [mt] => tpinġija ta’ skeċċijiet ta’ disinni fuq it-tagħmir
+                                    [en] => sketch designs on workpieces
+                                    [is] => skissar mynstur á verkstykki
+                                    [it] => disegnare bozzetti di disegni e modelli su pezzi da lavorare
+                                    [es] => hacer bocetos de diseños en piezas de trabajo
+                                    [et] => töödetailide kujundusi visandama
+                                    [cs] => naznačit na zpracovávané kusy vzorek
+                                    [ar] => رسم تصاميم للأدوات المستخدمة في العمل
+                                    [pl] => nanosić szkice na przedmioty obrabiane
+                                    [da] => skitsere design på arbejdsemner
+                                    [ro] => schițează modele pe piesele de lucru
+                                    [nl] => ontwerpen op werkstukken schetsen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6d8177c5-e78a-4177-bafb-abef26791d30
+                                            [title] => Entwürfe auf Werkstücke zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/5da73370-f6b9-417d-a94c-09bf01f84aa2
+                            [searchHit] => Software für die Zutrittskontrolle verwenden
+                            [title] => Zutrittskontrollsoftware verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zutrittskontrollsoftware verwenden
+                                    [no] => bruke tilgangskontrollprogramvare
+                                    [fi] => käyttää käyttöoikeusohjelmistoa
+                                    [en-us] => use access control software
+                                    [pt] => utilizar «software» de controlo de acesso
+                                    [bg] => използване на софтуер за контрол на достъпа
+                                    [lt] => naudoti prieigos valdymo programinę įrangą
+                                    [hr] => upotrebljavati softver za kontrolu pristupa
+                                    [lv] => lietot piekļuves vadības programmatūras
+                                    [fr] => utiliser un logiciel de contrôle d’accès
+                                    [hu] => hozzáférés-ellenőrző szoftvert alkalmaz
+                                    [sk] => použiť softvér na riadenie prístupu
+                                    [sl] => uporabljati programsko opremo za nadzor dostopa
+                                    [ga] => bogearraí rialaithe rochtana a úsáid
+                                    [sv] => använda åtkomstkontrollprogramvara
+                                    [el] => χρήση λογισμικού ελέγχου πρόσβασης
+                                    [mt] => tuża softwer għall-kontroll tal-aċċess
+                                    [en] => use access control software
+                                    [is] => nota hugbúnað til aðgengisstjórnunar
+                                    [it] => usare software di controllo degli accessi
+                                    [es] => utilizar software de control de acceso
+                                    [et] => juurdepääsu reguleerimise tarkvara kasutama
+                                    [cs] => využívat software pro kontrolu přístupu
+                                    [ar] => استخدام برامج مراقبة الدخول
+                                    [pl] => używać oprogramowania kontroli dostępu
+                                    [da] => bruge adgangskontrolsoftware
+                                    [ro] => utilizează software de control al accesului
+                                    [nl] => software voor toegangscontrole gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.2.2
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5da73370-f6b9-417d-a94c-09bf01f84aa2&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/5da73370-f6b9-417d-a94c-09bf01f84aa2
+                                            [title] => Zutrittskontrollsoftware verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [13] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72
+                            [searchHit] => Zeichnen von Skizzen für Textildesigns von Hand oder mit dem Computer mithilfe spezieller CAD-Software.
+                            [title] => Textildesigns erstellen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Textildesigns erstellen
+                                    [no] => produsere tekstildesign
+                                    [fi] => tehdä tekstiilisuunnitelmia
+                                    [en-us] => produce textile designs
+                                    [pt] => produzir «designs» têxteis
+                                    [bg] => изготвяне на текстилни дизайни
+                                    [lt] => kurti tekstilės dizaino projektus
+                                    [hr] => dizajnirati tekstil
+                                    [lv] => radīt tekstilizstrādājumu dizainu
+                                    [fr] => produire des modèles textiles
+                                    [hu] => textilrajzolatokat hoz létre
+                                    [sk] => vypracovať textilné návrhy
+                                    [sl] => izdelovati tekstilne modele
+                                    [ga] => dearaí teicstíle a tháirgeadh
+                                    [sv] => utforma design för textilier
+                                    [el] => παραγωγή σχεδίων υφασμάτων
+                                    [mt] => produzzjoni tad-disinni tat-tessuti
+                                    [en] => produce textile designs
+                                    [is] => framleiðir textílmynstur
+                                    [it] => produrre disegni tessili
+                                    [es] => producir diseños textiles
+                                    [et] => tekstiilikujundusi koostama
+                                    [cs] => vytvářet design textilií
+                                    [ar] => وضع تصاميم للأنسجة
+                                    [pl] => opracowywać wzory włókiennicze
+                                    [da] => producere tekstildesigns
+                                    [ro] => produce tipare de croitorie
+                                    [nl] => textielontwerpen maken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.11.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/8542b62b-18b1-4c7f-9d4e-e717c10fbd72
+                                            [title] => Textildesigns erstellen
+                                        )
+
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51
+                            [searchHit] => rechnergestützte Softwareentwicklungswerkzeuge verwenden
+                            [title] => rechnergestützte Softwareentwicklungswerkzeuge verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => rechnergestützte Softwareentwicklungswerkzeuge verwenden
+                                    [no] => benytte dataassisterte programvareprosjekteringsverktøy
+                                    [fi] => käyttää tietokoneavusteisia ohjelmistonsuunnittelutyökaluja
+                                    [en-us] => utilize computer-aided software engineering tools
+                                    [pt] => utilizar ferramentas de engenharia de software assistida por computador
+                                    [bg] => използване на компютъризирани инструменти за софтуерен инженеринг
+                                    [lt] => naudoti automatizuoto kompiuterinio programinės įrangos projektavimo įrankius
+                                    [hr] => iskoristiti softverske alate računalno potpomognutog inženjeringa
+                                    [lv] => izmantot datorizētus programminženierijas rīkus
+                                    [fr] => utiliser des outils de génie logiciel assisté par ordinateur
+                                    [hu] => számítógéppel támogatott szoftver tervezési eszközöket használ
+                                    [sk] => použiť nástroje softvérového inžinierstva podporované počítačom
+                                    [sl] => uporabljati računalniško podprta orodja za programski inženiring
+                                    [ga] => uirlisí innealtóireachta bogearraí ríomhchuidithe a úsáid
+                                    [sv] => använda verktyg för datorstödd programvaruteknik
+                                    [el] => χρήση εργαλείων σχεδιασμού και ανάπτυξης λογισμικού σε Η/Υ
+                                    [mt] => tuża għodod tal-inġinerija tas-softwer megħjuna mill-kompjuter
+                                    [en] => utilise computer-aided software engineering tools
+                                    [is] => nota tölvustudd verkfæri í hugbúnaðargerð
+                                    [it] => utilizzare strumenti di computer-aided software engineering
+                                    [es] => utilizar herramientas de ingeniería de software asistida por ordenador
+                                    [et] => raaltehnoloogilisi tarkvara projekteerimise tööriistu kasutama
+                                    [cs] => využívat počítačové softwarové konstrukční nástroje
+                                    [ar] => استخدام أدوات هندسة البرامج بمساعدة الحاسوب
+                                    [pl] => korzystać z komputerowego wspomagania projektowania oprogramowania
+                                    [da] => bruge computerstøttede værktøjer til programudvikling
+                                    [ro] => utilizează instrumente de inginerie software asistată de calculator
+                                    [nl] => computergestuurde hulpmiddelen voor software-engineering gebruiken
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.1.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51
+                                            [title] => rechnergestützte Softwareentwicklungswerkzeuge verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/7a757fa5-9a6f-43ab-9e66-f8f4dba1ffcb
+                            [searchHit] => CAM-Software verwenden
+                            [title] => CAM-Software verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => CAM-Software verwenden
+                                    [no] => bruke CAM-programvare
+                                    [fi] => käyttää tietokoneavusteisen valmistuksen ohjelmistoja
+                                    [en-us] => use CAM software
+                                    [pt] => utilizar «software» CAM
+                                    [bg] => използване на CAM софтуер
+                                    [lt] => naudoti CAM programinę įrangą
+                                    [hr] => upotrebljavati softver za računalno potpomognutu proizvodnju
+                                    [lv] => lietot datorizētās ražošanas programmatūru
+                                    [fr] => utiliser un logiciel de FAO
+                                    [hu] => számítógéppel támogatott gyártás szoftvert használ
+                                    [sk] => používať CAM softvér
+                                    [sl] => uporabljati programsko opremo CAM
+                                    [ga] => bogearraí CAM a úsáid
+                                    [sv] => använda programvara för datorstödd tillverkning
+                                    [el] => χρήση λογισμικού παραγωγής με τη βοήθεια υπολογιστή
+                                    [mt] => użu tas-softwer tal-manifattura bil-kompjuter (CAM)
+                                    [en] => use CAM software
+                                    [is] => notar hugbúnað fyrir tölvustudda framleiðslu (CAM)
+                                    [it] => utilizzare software CAM
+                                    [es] => utilizar software de fabricación asistida por ordenador
+                                    [et] => CAM-tarkvara kasutama
+                                    [cs] => používat CAM software
+                                    [ar] => استخدام برامج التصنيع بواسطة الكومبيوتر (CAM)
+                                    [pl] => korzystać z oprogramowania CAM
+                                    [da] => bruge CAM-software
+                                    [ro] => utilizează software pentru producție asistată pe calculator
+                                    [nl] => CAM-software gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/35f1be97-06c4-4367-a067-7e0e94f2fa70
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.7.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7a757fa5-9a6f-43ab-9e66-f8f4dba1ffcb&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/7a757fa5-9a6f-43ab-9e66-f8f4dba1ffcb
+                                            [title] => CAM-Software verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/bf59255e-782a-4e83-a93c-6055cfdd8e7f
+                            [searchHit] => Entwürfe zeichnen
+                            [title] => Entwürfe zeichnen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Entwürfe zeichnen
+                                    [no] => tegne skisser
+                                    [fi] => piirtää työpiirustuksia
+                                    [en-us] => draw blueprints
+                                    [pt] => desenhar planos técnicos
+                                    [bg] => чертане на скици
+                                    [lt] => parengti projektus
+                                    [hr] => crtati nacrte
+                                    [lv] => rasēt projektus
+                                    [fr] => dessiner des ébauches
+                                    [hu] => tervrajzokat készít
+                                    [sk] => kresliť technické výkresy
+                                    [sl] => risati načrte
+                                    [ga] => gormchlónna a tharraingt
+                                    [sv] => göra blåkopior
+                                    [el] => κατάρτιση σχεδίων εγκατάστασης
+                                    [mt] => tpinġija ta’ blueprints
+                                    [en] => draw blueprints
+                                    [is] => teiknar byggingarteikningar
+                                    [it] => disegnare progetti
+                                    [es] => elaborar planos
+                                    [et] => jooniseid koostama
+                                    [cs] => zhotovovat schematické plány
+                                    [ar] => رسم المخططات
+                                    [pl] => sporządzać projekty
+                                    [da] => tegne blueprints
+                                    [ro] => desenează schițe
+                                    [nl] => blauwdruk tekenen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bf59255e-782a-4e83-a93c-6055cfdd8e7f&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/bf59255e-782a-4e83-a93c-6055cfdd8e7f
+                                            [title] => Entwürfe zeichnen
+                                        )
+
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/9ce52938-fe28-4548-b38d-0c783933e19a
+                            [searchHit] => Verwenden spezieller Software zum Bearbeiten von Videobildern für künstlerische Produktionen.
+                            [title] => digitale Bewegtbilder editieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => digitale Bewegtbilder editieren
+                                    [no] => redigere digitale bevegelige bilder
+                                    [fi] => leikata digitaalista liikkuvaa kuvaa
+                                    [en-us] => edit digital moving images
+                                    [pt] => editar imagens de vídeo
+                                    [bg] => редактиране на цифрови движещи се фигури
+                                    [lt] => montuoti skaitmeninius judančius vaizdus
+                                    [hr] => uređivati digitalne pokretne slike
+                                    [lv] => montēt digitālos kustīgos attēlus
+                                    [fr] => modifier des images animées numériques
+                                    [hu] => megszerkeszti a digitális mozgóképeket
+                                    [sk] => upravovať digitálne filmové zábery
+                                    [sl] => montirati digitalne gibljive slike
+                                    [ga] => íomhánna gluaisteacha digiteacha a chur in eagar
+                                    [sv] => redigera digitala rörliga bilder
+                                    [el] => επεξεργασία ψηφιακών κινούμενων εικόνων
+                                    [mt] => editjar tal-immaġnijiet diġitali li jiċċaqilqu
+                                    [en] => edit digital moving images
+                                    [is] => klippir stafrænar hreyfimyndir
+                                    [it] => modificare le immagini digitali in movimento
+                                    [es] => editar imágenes digitales en movimiento
+                                    [et] => digitaalseid liikuvaid kujutisi töötlema
+                                    [cs] => upravovat digitální animace
+                                    [ar] => تعديل الصور الرقمية المتحركة
+                                    [pl] => edytować ruchome obrazy cyfrowe
+                                    [da] => redigere digitale bevægelige billeder
+                                    [ro] => editează imagini animate digitale
+                                    [nl] => digitale bewegende beelden bewerken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/8ff314a8-57d7-4b8c-bf41-79f9572fedd0
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.12.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ce52938-fe28-4548-b38d-0c783933e19a&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/9ce52938-fe28-4548-b38d-0c783933e19a
+                                            [title] => digitale Bewegtbilder editieren
+                                        )
+
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/bcc0db5f-c1e8-4f08-b68b-020396ef07b9
+                            [searchHit] => Audiowiedergabe-Software verwenden
+                            [title] => Audiowiedergabe-Software verwenden
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Audiowiedergabe-Software verwenden
+                                    [no] => bruke lydgjengivelsesprogramvare
+                                    [fi] => käyttää äänentoisto-ohjelmistoa
+                                    [en-us] => use audio reproduction software
+                                    [pt] => utilizar software de reprodução de som
+                                    [bg] => използване на софтуер за възпроизвеждане на звук
+                                    [lt] => panaudoti garso atkūrimo programinę įrangą
+                                    [hr] => koristiti softver za audioreprodukciju
+                                    [lv] => skaņu atveides programmatūras lietošana
+                                    [fr] => utiliser un logiciel de reproduction audio
+                                    [hu] => hangutómunka szoftvert használ
+                                    [sk] => použiť softvér na reprodukciu zvukov
+                                    [sl] => uporabljati programsko opremo za reprodukcijo zvoka
+                                    [ga] => bogearraí atáirgthe fuaime a úsáid
+                                    [sv] => använda programvara för ljuduppspelning
+                                    [el] => χρήση λογισμικού αναπαραγωγής ήχου
+                                    [mt] => użu ta’ softwer għar-riproduzzjoni tal-awdjo
+                                    [en] => use audio reproduction software
+                                    [is] => nota hugbúnað til miðlunar á hljóði
+                                    [it] => usare software per la riproduzione audio
+                                    [es] => utilizar software de reproducción de audio
+                                    [et] => audio taasesituse tarkvara kasutama
+                                    [cs] => využívat software pro reprodukci audia
+                                    [ar] => استخدام برمجيات استنساخ الصوت
+                                    [pl] => używać oprogramowania do odtwarzania dźwięku
+                                    [da] => bruge software til reproduktion af lyd
+                                    [ro] => utilizează software pentru reproducere audio
+                                    [nl] => software voor geluidsweergave gebruiken
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/b5b09dac-5b28-40a5-b671-5f9aa31f65d8
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S5.6.4
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bcc0db5f-c1e8-4f08-b68b-020396ef07b9&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/bcc0db5f-c1e8-4f08-b68b-020396ef07b9
+                                            [title] => Audiowiedergabe-Software verwenden
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/5aa4b603-6edd-45cf-a2f8-3d242e55f3bd
+                            [searchHit] => Unterrichten von Schülern/Studierenden in Theorie und Praxis industriell gefertigter Kunst, d. h. Metall- und Holzbearbeitung, mit dem Ziel, sie bei der Verfolgung einer künftigen Karriere in diesem Bereich zu unterstützen, insbesondere in Kursen wie Zimmerei und Tischlerei, Metallbau und technisches Zeichnen.
+                            [title] => Grundlagen industriell gefertigter Kunst vermitteln
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Grundlagen industriell gefertigter Kunst vermitteln
+                                    [no] => undervise i prinsipper for yrkesfaglig studieretning
+                                    [fi] => opettaa taideteollisuuden periaatteita
+                                    [en-us] => teach industrial arts principles
+                                    [pt] => ensinar princípios das artes industriais
+                                    [bg] => преподаване на принципите на промишления дизайн
+                                    [lt] => mokyti pramoninių menų (amatų) pagrindų
+                                    [hr] => podučavati načela industrijskih vještina
+                                    [lv] => mācīt rūpnieciskās mākslas principus
+                                    [fr] => enseigner les principes des arts industriels
+                                    [hu] => iparművészeti alapismereteket tanít
+                                    [sk] => vyučovať umeleckopriemyselné princípy
+                                    [sl] => poučevati o načelih uporabne umetnosti
+                                    [ga] => prionsabail ealaíon tionsclaíoch a theagasc
+                                    [sv] => undervisa i industriell konstvetenskap
+                                    [el] => διδασκαλία αρχών βιομηχανικών τεχνών
+                                    [mt] => tagħlim tal-prinċipji tal-arti industrijali
+                                    [en] => teach industrial arts principles
+                                    [is] => kennir grundvallaratriði handíða
+                                    [it] => insegnare i principi delle arti applicate
+                                    [es] => enseñar principios de artes industriales
+                                    [et] => rakenduskunsti põhimõtteid õpetama
+                                    [cs] => učit základům průmyslového umění
+                                    [ar] => دراسة مبادئ الفنون الصناعية
+                                    [pl] => nauczać zasad sztuk przemysłowych
+                                    [da] => undervise i brugskunst
+                                    [ro] => predă noțiuni de artă în învățământul profesional și tehnic
+                                    [nl] => principes van industriële kunst aanleren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S1.3.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5aa4b603-6edd-45cf-a2f8-3d242e55f3bd&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/5aa4b603-6edd-45cf-a2f8-3d242e55f3bd
+                                            [title] => Grundlagen industriell gefertigter Kunst vermitteln
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

@@ -1,0 +1,1601 @@
+Array
+(
+    [total] => 84
+    [offset] => 0
+    [limit] => 20
+    [text] => ersetzen
+    [language] => de
+    [type] => Array
+        (
+            [0] => skill
+        )
+
+    [isInScheme] => 
+    [facet] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=ersetzen&type=skill&limit=20&offset=0&full=false&viewObsolete=false&language=de
+                )
+
+            [next] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=ersetzen&type=skill&limit=20&offset=1&full=false&viewObsolete=false&language=de
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [results] => Array
+                (
+                    [0] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                            [searchHit] => schadhafte Geräte ersetzen
+                            [title] => schadhafte Geräte ersetzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => schadhafte Geräte ersetzen
+                                    [no] => erstatte defekte enheter
+                                    [fi] => korvata vialliset laitteet
+                                    [en-us] => replace defective devices
+                                    [pt] => substituir dispositivos com defeito
+                                    [bg] => подменяне на дефектни устройства
+                                    [lt] => pakeisti sugedusius prietaisus
+                                    [hr] => zamjenjivati pokvarene uređaje
+                                    [lv] => aizstāt bojātas iekārtas
+                                    [fr] => remplacer un équipement défectueux
+                                    [hu] => kicseréli a meghibásodott készülékeket
+                                    [sk] => opravovať chybné zariadenia
+                                    [sl] => popravljati pokvarjene naprave
+                                    [ga] => gléasanna lochtacha a athsholáthar
+                                    [sv] => byta ut defekt utrustning
+                                    [el] => αντικατάσταση ελαττωματικών συσκευών
+                                    [mt] => sostituzzjoni tal-apparati difettużi
+                                    [en] => replace defective devices
+                                    [is] => skiptir út gölluðum búnaði
+                                    [it] => sostituire i dispositivi difettosi
+                                    [es] => remplazar aparatos defectuosos
+                                    [et] => rikkis seadmeid välja vahetama
+                                    [cs] => vyměnit vadná zařízení
+                                    [ar] => استبدال الأجهزة المعيبة
+                                    [pl] => wymieniać wadliwe urządzenia
+                                    [da] => udskifte defekte enheder
+                                    [ro] => înlocuiește dispozitive defecte
+                                    [nl] => defecte apparaten vervangen of repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                                            [title] => schadhafte Geräte ersetzen
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589
+                            [searchHit] => defekte Komponenten ersetzen
+                            [title] => defekte Komponenten ersetzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => defekte Komponenten ersetzen
+                                    [no] => erstatte defekte komponenter
+                                    [fi] => vaihtaa viallisia komponentteja
+                                    [en-us] => replace defect components
+                                    [pt] => substituir componentes defeituosos
+                                    [bg] => заменяне на дефектни компоненти
+                                    [lt] => pakeisti defektyvius komponentus
+                                    [hr] => zamijeniti neispravne dijelove
+                                    [lv] => nomainīt bojātos komponentus
+                                    [fr] => remplacer des composants défectueux
+                                    [hu] => kicseréli a hibás alkotóelemeket
+                                    [sk] => nahradiť chybné komponenty
+                                    [sl] => zamenjati okvarjene dele
+                                    [ga] => comhpháirteanna lochtacha a athsholáthar
+                                    [sv] => byta ut defekta komponenter
+                                    [el] => αντικατάσταση ελαττωματικών εξαρτημάτων
+                                    [mt] => sostituzzjoni tal-komponenti difettużi
+                                    [en] => replace defect components
+                                    [is] => skiptir út gölluðum hlutum
+                                    [it] => sostituire componenti difettosi
+                                    [es] => reemplazar componentes defectuosos
+                                    [et] => defektseid komponente asendama
+                                    [cs] => vyměňovat poškozené součástky
+                                    [ar] => استبدال المكونات التالفة
+                                    [pl] => naprawiać wadliwe podzespoły
+                                    [da] => udskifte defekte komponenter
+                                    [ro] => înlocuiește componente defecte
+                                    [nl] => defecte onderdelen vervangen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                                    [1] => http://data.europa.eu/esco/skill/e487f6f8-854d-4210-9658-4196f07cc209
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.0.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589
+                                            [title] => defekte Komponenten ersetzen
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/e704b3b5-f695-4a7c-8332-6cb558b454ad
+                            [searchHit] => große Maschinenteile ersetzen
+                            [title] => große Maschinenteile ersetzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => große Maschinenteile ersetzen
+                                    [no] => erstatte store komponenter
+                                    [fi] => vaihtaa suuria komponentteja
+                                    [en-us] => replace large components
+                                    [pt] => substituir equipamento de grandes dimensões
+                                    [bg] => сменяне на едрогабаритни компоненти
+                                    [lt] => pakeisti stambias sudedamąsias dalis
+                                    [hr] => zamjenjivati velike sastavne dijelove
+                                    [lv] => nomainīt lielas sastāvdaļas
+                                    [fr] => remplacer des composants de grande taille
+                                    [hu] => kicseréli a nagy méretű alkatrészeket
+                                    [sk] => nahradiť veľké komponenty
+                                    [sl] => nadomeščati obsežne sestavne dele
+                                    [ga] => comhpháirteanna móra a athsholáthar
+                                    [sv] => ersätta stora komponenter
+                                    [el] => αντικατάσταση μεγάλων δομικών στοιχείων
+                                    [mt] => sostituzzjoni tal-komponenti kbar
+                                    [en] => replace large components
+                                    [is] => skiptir út stórum einingum
+                                    [it] => sostituire componenti di grandi dimensioni
+                                    [es] => reemplazar componentes grandes
+                                    [et] => suuri osi välja vahetama
+                                    [cs] => vyměňovat velké součástky
+                                    [ar] => إستبدال المكونات الكبيرة
+                                    [pl] => wymieniać duże podzespoły
+                                    [da] => udskifte store komponenter
+                                    [ro] => înlocuiește componente mari
+                                    [nl] => grote onderdelen vervangen
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/e487f6f8-854d-4210-9658-4196f07cc209
+                                    [1] => http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.7.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e704b3b5-f695-4a7c-8332-6cb558b454ad&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/e704b3b5-f695-4a7c-8332-6cb558b454ad
+                                            [title] => große Maschinenteile ersetzen
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/202d0d2b-f6b9-48fe-b70e-cff49fa1d087
+                            [searchHit] => Reifen ersetzen
+                            [title] => Reifen ersetzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Reifen ersetzen
+                                    [no] => erstatte dekk
+                                    [fi] => vaihtaa renkaita
+                                    [en-us] => replace tires
+                                    [pt] => substituir pneus
+                                    [bg] => сменяне на гуми
+                                    [lt] => remontuoti padangas
+                                    [hr] => mijenjati gume
+                                    [lv] => mainīt riepas
+                                    [fr] => remplacer des pneus
+                                    [hu] => kicseréli a gumiabroncsokat
+                                    [sk] => vymeniť pneumatiky
+                                    [sl] => menjavati pnevmatike
+                                    [ga] => boinn a athsholáthar
+                                    [sv] => ersätta däck
+                                    [el] => αντικατάσταση ελαστικών
+                                    [mt] => sostituzzjoni tat-tajers
+                                    [en] => replace tyres
+                                    [is] => skiptir um hjólbarða
+                                    [it] => sostituire i pneumatici
+                                    [es] => sustituir neumáticos
+                                    [et] => rehve vahetama
+                                    [cs] => vyměňovat pneumatiky
+                                    [ar] => تغيير الإطارات
+                                    [pl] => wymieniać opony
+                                    [da] => skifte dæk
+                                    [ro] => înlocuiește anvelope
+                                    [nl] => banden wisselen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.7.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/202d0d2b-f6b9-48fe-b70e-cff49fa1d087&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/202d0d2b-f6b9-48fe-b70e-cff49fa1d087
+                                            [title] => Reifen ersetzen
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/64f0b3c5-92ff-4fd7-9e34-cfe5eeb11c98
+                            [searchHit] => Reparieren von Dellen, Rissen oder Löchern und Ersetzen beschädigter Möbelteile.
+                            [title] => Möbelrahmen reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Möbelrahmen reparieren
+                                    [no] => reparere møbelrammer
+                                    [fi] => korjata huonekalujen runkoja
+                                    [en-us] => repair furniture frames
+                                    [pt] => reparar peças de mobiliário
+                                    [bg] => ремонтиране на рамки за мебели
+                                    [lt] => taisyti baldų rėmus
+                                    [hr] => popravljati okvire namještaja
+                                    [lv] => salabot mēbeļu karkasus
+                                    [fr] => réparer des cadres de meubles
+                                    [hu] => bútorvázakat javít
+                                    [sk] => opravovať nábytkové rámy
+                                    [sl] => popravljati ogrodja za pohištvo
+                                    [ga] => repair furniture frames
+                                    [sv] => reparera möbelramar
+                                    [el] => επισκευή των πλαισίων των επίπλων
+                                    [mt] => tiswija tal-oqfsa tal-għamara
+                                    [en] => repair furniture frames
+                                    [is] => gerir við húsgagnagrindur
+                                    [it] => riparare cornici per mobili
+                                    [es] => reparar estructuras de muebles
+                                    [et] => mööbliraame parandama
+                                    [cs] => opravovat rámy na nábytek
+                                    [ar] => إصلاح إطارات الأثاث
+                                    [pl] => naprawiać ramy meblowe
+                                    [da] => reparere møbelrammer
+                                    [ro] => repară rame pentru mobile
+                                    [nl] => meubelraamwerken repareren
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/d765f69e-956a-4fc6-ae5d-499147761b30
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.5
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/64f0b3c5-92ff-4fd7-9e34-cfe5eeb11c98&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/64f0b3c5-92ff-4fd7-9e34-cfe5eeb11c98
+                                            [title] => Möbelrahmen reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/6cfa75cf-8c07-4b9f-8106-912d2b7232bc
+                            [searchHit] => Reparieren/Ersetzen von Cabriodächern aus Vinyl oder Stoff.
+                            [title] => Instandsetzung von Cabriodächern durchführen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Instandsetzung von Cabriodächern durchführen
+                                    [no] => utføre reparasjoner av takdekker på kabriolet
+                                    [fi] => tehdä korjauksia avoautojen kattopeitteeseen
+                                    [en-us] => carry out repairs of convertible roof covers
+                                    [pt] => reparar capotas de automóveis
+                                    [bg] => извършване на ремонтни работи на конвертируеми покриви
+                                    [lt] => remontuoti sulankstomus automobilių stogus
+                                    [hr] => popravljati pomične krovove automobila
+                                    [lv] => remontēt nolaižamo jumtu segumu
+                                    [fr] => effectuer des réparations de capotes de cabriolets
+                                    [hu] => átalakítható tetőburkolatok javítását végzi
+                                    [sk] => vykonávať opravy striech kabrioletov
+                                    [sl] => popravljati premične strehe vozil
+                                    [ga] => cumhdaigh dhín de charranna a bhfuil díon infhillte orthu a dheisiú
+                                    [sv] => utföra reparation av suffletter på öppna bilar
+                                    [el] => διενέργεια επισκευών σε πτυσσόμενες οροφές αυτοκινήτων
+                                    [mt] => twettiq tat-tiswijiet tal-għata tas-soqfa tal-karozzi bis-saqaf jinżel
+                                    [en] => carry out repairs of convertible roof covers
+                                    [is] => sinnir viðgerðum á blæjubílsþökum
+                                    [it] => eseguire le riparazioni dei tettucci apribili di veicoli convertibili
+                                    [es] => llevar a cabo la reparación del techo de automóviles descapotables
+                                    [et] => kabriolettide katuseid parandama
+                                    [cs] => provádět opravy krytů střech kabrioletů
+                                    [ar] => تنفيذ الإصلاحات الخاصة بأغطية الأسطح القابلة للطي
+                                    [pl] => naprawiać pokrycia dachowe w samochodach z dachem składanym
+                                    [da] => reparere kalecher på cabrioleter
+                                    [ro] => execută lucrări de reparații la acoperișurile retractabile ale autovehiculelor decapotabile
+                                    [nl] => reparaties van de dakbedekking van cabriolets uitvoeren
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/65155435-1c5b-41ee-8812-e0b9b03ae480
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.7.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6cfa75cf-8c07-4b9f-8106-912d2b7232bc&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/6cfa75cf-8c07-4b9f-8106-912d2b7232bc
+                                            [title] => Instandsetzung von Cabriodächern durchführen
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/9b42768d-c4e8-40bb-ad70-712afbdf1f78
+                            [searchHit] => Aushändigen von Schlüsseln an Besucher oder Mieter, Ersetzen verlorener Schlüssel der Kunden.
+                            [title] => Schlüssel zuweisen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Schlüssel zuweisen
+                                    [no] => tildele nøkler
+                                    [fi] => jakaa avaimia
+                                    [en-us] => allocate keys
+                                    [pt] => atribuir chaves
+                                    [bg] => предоставяне на ключове
+                                    [lt] => išduoti raktus
+                                    [hr] => dodjeljivati ključeve
+                                    [lv] => piešķirt atslēgas
+                                    [fr] => remettre des clés
+                                    [hu] => kiadja a kulcsokat
+                                    [sk] => prideľovať kľúče
+                                    [sl] => razdeljevati ključe
+                                    [ga] => eochracha a leithdháileadh
+                                    [sv] => lämna ut nycklar
+                                    [el] => διανομή κλειδιών
+                                    [mt] => allokazzjoni taċ-ċwievet
+                                    [en] => allocate keys
+                                    [is] => úthlutar lyklum
+                                    [it] => assegnare le chiavi
+                                    [es] => asignar llaves
+                                    [et] => võtmeid väljastama
+                                    [cs] => přidělovat klíče
+                                    [ar] => توزيع المفاتيح
+                                    [pl] => przydzielać klucze
+                                    [da] => fordele nøgler
+                                    [ro] => alocă chei
+                                    [nl] => sleutels toewijzen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S3.4.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9b42768d-c4e8-40bb-ad70-712afbdf1f78&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/9b42768d-c4e8-40bb-ad70-712afbdf1f78
+                                            [title] => Schlüssel zuweisen
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/79fff3ee-a40f-4487-881c-4735938de75e
+                            [searchHit] => Reparieren/Ersetzen beschädigter Rahmen oder Gläser für Kunden.
+                            [title] => Brillenfassungen reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Brillenfassungen reparieren
+                                    [no] => utføre innfatningsreparasjoner
+                                    [fi] => korjata kehyksiä
+                                    [en-us] => perform frames' repairs
+                                    [pt] => reparar armações
+                                    [bg] => поправяне на рамки за очила
+                                    [lt] => taisyti rėmelius
+                                    [hr] => popravljati okvire
+                                    [lv] => salabot briļļu ietvarus
+                                    [fr] => effectuer la réparation de montures
+                                    [hu] => kereteket javít
+                                    [sk] => vykonávať opravy rámov
+                                    [sl] => popravljati okvirje
+                                    [ga] => deisiúcháin a dhéanamh ar fhrámaí
+                                    [sv] => laga glasögonbågar
+                                    [el] => διενέργεια επισκευών σε πλαίσια
+                                    [mt] => twettiq tat-tiswija tal-oqfsa tan-nuċċalijiet
+                                    [en] => perform frames' repairs
+                                    [is] => gerir við umgjarðir
+                                    [it] => eseguire le riparazioni di montature
+                                    [es] => realizar reparaciones de monturas de gafas
+                                    [et] => raame remontima
+                                    [cs] => provádět opravu rámů
+                                    [ar] => القيام بإصلاح الإطارات
+                                    [pl] => naprawiać oprawki okularowe
+                                    [da] => reparere brillestel
+                                    [ro] => repară rame de ochelari
+                                    [nl] => reparaties aan raamwerken uitvoeren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.7.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/79fff3ee-a40f-4487-881c-4735938de75e&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/79fff3ee-a40f-4487-881c-4735938de75e
+                                            [title] => Brillenfassungen reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/234b7707-d762-4f1c-8b42-1716694d3616
+                            [searchHit] => Mithilfe einer Hebemaschine bereits beladene Paletten durch leere ersetzen.
+                            [title] => volle Paletten auswechseln
+                            [preferredLabel] => Array
+                                (
+                                    [de] => volle Paletten auswechseln
+                                    [no] => erstatte fylte paller
+                                    [fi] => vaihtaa täytetyt kuormalavat uusiin
+                                    [en-us] => replace filled pallets
+                                    [pt] => substituir paletes cheias
+                                    [bg] => замяна на запълнените палети
+                                    [lt] => pakeisti užpildytus padėklus
+                                    [hr] => zamjenjivati popunjene palete
+                                    [lv] => aizstāt pilnās paletes ar tukšām
+                                    [fr] => remplacer des palettes pleines
+                                    [hu] => pótolja a megtöltött raklapokat
+                                    [sk] => nahradiť plné palety
+                                    [sl] => odstranjevati polne palete
+                                    [ga] => pailléid nua a chur a chur isteach in áit na bpailléad lán
+                                    [sv] => ersätta fulla lastpallar
+                                    [el] => αντικατάσταση γεμάτων παλετών
+                                    [mt] => sostituzzjoni tal-paliti mimlijin
+                                    [en] => replace filled pallets
+                                    [is] => skiptir út smábrettum
+                                    [it] => sostituire i pallet pieni
+                                    [es] => sustituir palés llenos
+                                    [et] => täidetud aluseid asendama
+                                    [cs] => nahradit naložené palety
+                                    [ar] => تغيير منصات التحميل الممتلئة
+                                    [pl] => wymieniać zapełnione palety
+                                    [da] => erstatte fyldte paller
+                                    [ro] => înlocuiește paleți încărcați
+                                    [nl] => gevulde pallets vervangen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.1.3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/234b7707-d762-4f1c-8b42-1716694d3616&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/234b7707-d762-4f1c-8b42-1716694d3616
+                                            [title] => volle Paletten auswechseln
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/1d465e7f-8dfd-4b55-9cab-9494a0f2b683
+                            [searchHit] => Saiten austauschen, Rahmen reparieren oder defekte Teile von Musikinstrumenten ersetzen.
+                            [title] => Musikinstrumente reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Musikinstrumente reparieren
+                                    [no] => reparere musikkinstrumenter
+                                    [fi] => korjata soittimia
+                                    [en-us] => repair musical instruments
+                                    [pt] => reparar instrumentos musicais
+                                    [bg] => ремонтиране на музикални инструменти
+                                    [lt] => taisyti muzikos instrumentus
+                                    [hr] => popravljati glazbene instrumente
+                                    [lv] => labot mūzikas instrumentus
+                                    [fr] => réparer des instruments de musique
+                                    [hu] => hangszereket javít
+                                    [sk] => opravovať hudobné nástroje
+                                    [sl] => popravljati glasbila
+                                    [ga] => uirlisí ceoil a dheisiú
+                                    [sv] => reparera musikinstrument
+                                    [el] => επισκευή μουσικών οργάνων
+                                    [mt] => tiswija tal-istrumenti mużikali
+                                    [en] => repair musical instruments
+                                    [is] => gerir við hljóðfæri
+                                    [it] => riparare strumenti musicali
+                                    [es] => reparar instrumentos musicales
+                                    [et] => muusikainstrumente parandama
+                                    [cs] => opravovat hudební nástroje
+                                    [ar] => اصلاح الآلات الموسيقية
+                                    [pl] => naprawiać instrumenty muzyczne
+                                    [da] => reparere musikinstrumenter
+                                    [ro] => repară instrumente muzicale
+                                    [nl] => muziekinstrumenten repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1d465e7f-8dfd-4b55-9cab-9494a0f2b683&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/1d465e7f-8dfd-4b55-9cab-9494a0f2b683
+                                            [title] => Musikinstrumente reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/5420f4c2-ff90-409c-9d89-d41aea512ac1
+                            [searchHit] => Entfernen und Ersetzen von beschädigten Buchdeckeln und Buchrücken und von Einbänden anderer Papiererzeugnisse.
+                            [title] => schadhafte Papierteile reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => schadhafte Papierteile reparieren
+                                    [no] => reparere skadede papirdeler
+                                    [fi] => korjata vahingoittuneita paperiosia
+                                    [en-us] => repair damaged paper parts
+                                    [pt] => reparar partes de papel danificado
+                                    [bg] => поправяне на скъсани части от книги
+                                    [lt] => taisyti sugadintas popierines dalis
+                                    [hr] => popravljati oštećene dijelove papira
+                                    [lv] => labot bojātās papīra daļas
+                                    [fr] => réparer des pièces de papier endommagées
+                                    [hu] => helyrehozza a sérült papírrészeket
+                                    [sk] => opraviť poškodené papierové časti
+                                    [sl] => nadomeščati poškodovane papirnate dele
+                                    [ga] => páirteanna páipéir a bhfuil damáiste déanta dóibh a dheisiú
+                                    [sv] => reparera skadade papperskomponenter
+                                    [el] => αποκατάσταση χάρτινων επιφανειών που έχουν υποστεί φθορά
+                                    [mt] => tiswija tal-partijiet danneġġati tal-karta
+                                    [en] => repair damaged paper parts
+                                    [is] => gerir við skemmda pappírshluta
+                                    [it] => riparare parti di carta danneggiate
+                                    [es] => reparar partes dañadas de productos de papel
+                                    [et] => kahjustatud paberiosasid parandama
+                                    [cs] => opravovat poškozené části papíru
+                                    [ar] => إصلاح أجزاء الأوراق التالفة
+                                    [pl] => naprawiać uszkodzone części papierowe
+                                    [da] => reparere beskadigede papirdele
+                                    [ro] => repară părți din hârtie deteriorate
+                                    [nl] => beschadigde papieronderdelen repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.0
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5420f4c2-ff90-409c-9d89-d41aea512ac1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/5420f4c2-ff90-409c-9d89-d41aea512ac1
+                                            [title] => schadhafte Papierteile reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [11] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/971c73a0-c7a3-4715-9854-257f0acbe388
+                            [searchHit] => Fässer ersetzen
+                            [title] => Fässer austauschen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Fässer austauschen
+                                    [no] => bytte ut tønner
+                                    [fi] => vaihtaa tynnyrit
+                                    [en-us] => change kegs
+                                    [pt] => mudar os barris
+                                    [bg] => смяна на бурета
+                                    [lt] => keisti statines
+                                    [hr] => mijenjati bačve
+                                    [lv] => nomainīt mucas
+                                    [fr] => changer les fûts
+                                    [hu] => elvégzi a vizes ballonok cseréjét
+                                    [sk] => vymeniť pivný sud
+                                    [sl] => menjati sodčke za pijače
+                                    [ga] => ceaigeanna a athrú
+                                    [sv] => byta fat
+                                    [el] => αλλαγή βαρελιών μπύρας
+                                    [mt] => tibdil tal-btieti
+                                    [en] => change kegs
+                                    [is] => skipta um kúta
+                                    [it] => sostituire i fusti
+                                    [es] => cambiar barriles
+                                    [et] => vaate vahetama
+                                    [cs] => vyměňovat sudy
+                                    [ar] => تغيير البراميل الصغيرة
+                                    [pl] => wymieniać kegi
+                                    [da] => skifte fustager
+                                    [ro] => schimbă butoaiele
+                                    [nl] => vaten verwisselen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.2.2
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/971c73a0-c7a3-4715-9854-257f0acbe388&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/971c73a0-c7a3-4715-9854-257f0acbe388
+                                            [title] => Fässer austauschen
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/eaf835bf-ce7b-4443-bf41-106329890a2a
+                            [searchHit] => Ersetzen oder Montieren von Waffenteilen, z. B. Visier, Pistolengriff, Schaftkappe und Spannschieber.
+                            [title] => Schusswaffen montieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Schusswaffen montieren
+                                    [no] => montere våpen
+                                    [fi] => koota aseita
+                                    [en-us] => assemble guns
+                                    [pt] => montar armas de fogo
+                                    [bg] => сглобяване на огнестрелни оръжия
+                                    [lt] => surinkti ginklus
+                                    [hr] => sastavljati puške
+                                    [lv] => montēt šaujamieročus
+                                    [fr] => assembler des armes à feu
+                                    [hu] => fegyvereket szerel össze
+                                    [sk] => montovať zbrane
+                                    [sl] => sestavljati strelno orožje
+                                    [ga] => gunnaí a chóimeáil
+                                    [sv] => montera skjutvapen
+                                    [el] => συναρμολόγηση όπλων
+                                    [mt] => assemblaġġ tal-pistoli
+                                    [en] => assemble guns
+                                    [is] => setur saman skotvopn
+                                    [it] => assemblare le armi da fuoco
+                                    [es] => montar un arma de fuego
+                                    [et] => relvi kokku panema
+                                    [cs] => sestavovat zbraně
+                                    [ar] => جمع البنادق
+                                    [pl] => składać broń palną
+                                    [da] => samle våben
+                                    [ro] => asamblează arme de foc
+                                    [nl] => geweren monteren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/eaf835bf-ce7b-4443-bf41-106329890a2a&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/eaf835bf-ce7b-4443-bf41-106329890a2a
+                                            [title] => Schusswaffen montieren
+                                        )
+
+                                )
+
+                        )
+
+                    [13] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/32424a31-bda5-4332-8993-cb5272aaf977
+                            [searchHit] => Austausch des Seifenfilters der Seifenmaschine durch Öffnen der Filterkappe, Kontrolle und Ersetzen gemäß Spezifikationen.
+                            [title] => Seifenfilter austauschen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Seifenfilter austauschen
+                                    [no] => bytte såpefilter
+                                    [fi] => vaihtaa saippuasuodatin
+                                    [en-us] => change soap filter
+                                    [pt] => mudar filtro do sabão
+                                    [bg] => смяна на филтър за сапун
+                                    [lt] => keisti muilo filtrą
+                                    [hr] => mijenjati filtar za sapun
+                                    [lv] => mainīt ziepju filtru
+                                    [fr] => changer un filtre à savon
+                                    [hu] => szappanszűrőt cserél
+                                    [sk] => vymeniť mydlový filter
+                                    [sl] => menjavati filtre za milo
+                                    [ga] => scagaire gallúnaí a athrú
+                                    [sv] => byta tvålfilter
+                                    [el] => αλλαγή φίλτρου σαπουνιού
+                                    [mt] => tibdil tal-filtru tas-sapun
+                                    [en] => change soap filter
+                                    [is] => skiptir um sápusíu
+                                    [it] => cambiare il filtro del sapone
+                                    [es] => cambiar el filtro de jabón
+                                    [et] => seebifiltrit vahetama
+                                    [cs] => měnit mýdlový filtr
+                                    [ar] => تغيير مصفاة الصابون
+                                    [pl] => wymieniać filtr do mydła
+                                    [da] => skifte sæbefilter
+                                    [ro] => schimbă filtrul de săpun
+                                    [nl] => zeepfilter vervangen
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.7.2
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/32424a31-bda5-4332-8993-cb5272aaf977&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/32424a31-bda5-4332-8993-cb5272aaf977
+                                            [title] => Seifenfilter austauschen
+                                        )
+
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/59d50ec6-237f-4f65-a06b-7b449d55ff99
+                            [searchHit] => Anpassen, Behandeln, Reparieren und Ersetzen defekter Teile von Lederwaren wie Schuhen, Taschen und Handschuhen.
+                            [title] => Lederwaren reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Lederwaren reparieren
+                                    [no] => reparere lærvarer
+                                    [fi] => korjata nahkatuotteita
+                                    [en-us] => repair leather goods
+                                    [pt] => reparar artigos de couro
+                                    [bg] => поправяне на кожени изделия
+                                    [lt] => taisyti odos dirbinius
+                                    [hr] => popravljati kožnu galanteriju
+                                    [lv] => salabot ādas izstrādājumus
+                                    [fr] => réparer des articles en cuir
+                                    [hu] => bőripari termékeket javít meg
+                                    [sk] => opravovať kožený tovar
+                                    [sl] => popravljati usnjene izdelke
+                                    [ga] => earraí leathair a dheisiú
+                                    [sv] => reparera läderartiklar
+                                    [el] => επιδιόρθωση δερμάτινων ειδών
+                                    [mt] => tiswija tal-oġġetti tal-ġilda
+                                    [en] => repair leather goods
+                                    [is] => gerir við leðurvörur
+                                    [it] => riparare gli articoli di pelletteria
+                                    [es] => arreglar artículos de piel y cuero
+                                    [et] => nahktooteid parandama
+                                    [cs] => opravovat kožené zboží
+                                    [ar] => إصلاح السلع الجلدية
+                                    [pl] => naprawiać wyroby skórzane
+                                    [da] => reparere lædervarer
+                                    [ro] => repară articole din piele
+                                    [nl] => lederwaren repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.6
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/59d50ec6-237f-4f65-a06b-7b449d55ff99&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/59d50ec6-237f-4f65-a06b-7b449d55ff99
+                                            [title] => Lederwaren reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/c1e6e283-bc66-4e78-b4ec-501ff082d9f1
+                            [searchHit] => Arten von Lebensmittelallergien innerhalb des Sektors, Allergien auslösende Stoffe und ggf. Möglichkeiten, diese zu ersetzen oder zu eliminieren.
+                            [title] => Lebensmittelallergien
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Lebensmittelallergien
+                                    [no] => matallergier
+                                    [fi] => ruoka-aineallergiat
+                                    [en-us] => food allergies
+                                    [pt] => alergias alimentares
+                                    [bg] => хранителни алергии
+                                    [lt] => alergija maistui
+                                    [hr] => alergije na hranu
+                                    [lv] => pārtikas alerģijas
+                                    [fr] => allergies alimentaires
+                                    [hu] => élelmiszer-allergiák
+                                    [sk] => potravinové alergie
+                                    [sl] => alergije na hrano
+                                    [ga] => ailléirgí bia
+                                    [sv] => livsmedelsallergier
+                                    [el] => τροφικές αλλεργίες
+                                    [mt] => allerġiji għall-ikel
+                                    [en] => food allergies
+                                    [is] => matarofnæmi
+                                    [it] => allergie alimentari
+                                    [es] => alergias alimentarias
+                                    [et] => toiduallergiad
+                                    [cs] => potravinové alergie
+                                    [ar] => حساسية الطعام
+                                    [pl] => alergie pokarmowe
+                                    [da] => fødevareallergier
+                                    [ro] => alergii alimentare
+                                    [nl] => voedselallergieën
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/knowledge
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/b36a1779-914b-4a4e-9d79-a1765bdfcc86
+                                    [1] => http://data.europa.eu/esco/skill/655d3d08-680a-40ea-8ffd-7e66916272fb
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isced-f/0915
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c1e6e283-bc66-4e78-b4ec-501ff082d9f1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/c1e6e283-bc66-4e78-b4ec-501ff082d9f1
+                                            [title] => Lebensmittelallergien
+                                        )
+
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/08a65612-a801-4b84-933b-192bc8378e64
+                            [searchHit] => Ermitteln von Problemen oder Abweichungen bei Feuerwaffen, Überprüfen auf Verschleiß, Zerlegen, Kontrollieren, Justieren und Ersetzen fehlerhafter Komponenten.
+                            [title] => Feuerwaffen instand setzen
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Feuerwaffen instand setzen
+                                    [no] => reparere skytevåpen
+                                    [fi] => korjata tuliaseita
+                                    [en-us] => repair firearms
+                                    [pt] => reparar armas de fogo
+                                    [bg] => ремонтиране на огнестрелни оръжия
+                                    [lt] => taisyti šaunamuosius ginklus
+                                    [hr] => popravljati oružje
+                                    [lv] => labot šaujamieročus
+                                    [fr] => réparer une arme à feu
+                                    [hu] => lőfegyvereket javít
+                                    [sk] => opravovať strelné zbrane
+                                    [sl] => popravljati strelno orožje
+                                    [ga] => airm thine a dheisiú
+                                    [sv] => reparera skjutvapen
+                                    [el] => επισκευή πυροβόλων όπλων
+                                    [mt] => tiswija tal-armi tan-nar
+                                    [en] => repair firearms
+                                    [is] => gerir við skotvopn
+                                    [it] => riparare le armi da fuoco
+                                    [es] => reparar armas de fuego
+                                    [et] => tulirelvi parandama
+                                    [cs] => opravovat střelné zbraně
+                                    [ar] => تصليح الأسلحة النارية
+                                    [pl] => naprawiać broń palną
+                                    [da] => reparere skydevåben
+                                    [ro] => repară arme de foc
+                                    [nl] => vuurwapens repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/08a65612-a801-4b84-933b-192bc8378e64&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/08a65612-a801-4b84-933b-192bc8378e64
+                                            [title] => Feuerwaffen instand setzen
+                                        )
+
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/19ef02d8-0297-4ec2-afbf-a58165c7c6a2
+                            [searchHit] => Schmuck reparieren, z. B. Ringgrößen vergrößern oder verkleinern, Schmuckstücke wieder zusammenschweißen, und abgenutzte Klammern und Befestigungen ersetzen.
+                            [title] => Schmuck reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Schmuck reparieren
+                                    [no] => reparere smykker
+                                    [fi] => korjata koruja
+                                    [en-us] => repair jewelry
+                                    [pt] => reparar joalharia
+                                    [bg] => поправяне на бижута
+                                    [lt] => taisyti juvelyrinius dirbinius
+                                    [hr] => popravljati nakit
+                                    [lv] => salabot juvelierizstrādājumus
+                                    [fr] => réparer des bijoux
+                                    [hu] => ékszereket javít
+                                    [sk] => opravovať šperky
+                                    [sl] => popravljati nakit
+                                    [ga] => seodra a dheisiú
+                                    [sv] => reparera smycken
+                                    [el] => επιδιόρθωση κοσμημάτων
+                                    [mt] => tiswija tal-ġojjellerija
+                                    [en] => repair jewellery
+                                    [is] => gerir við skartgripi
+                                    [it] => riparare i gioielli
+                                    [es] => reparar joyas
+                                    [et] => ehteid parandama
+                                    [cs] => opravovat šperky
+                                    [ar] => اصلاح المجوهرات
+                                    [pl] => naprawiać biżuterię
+                                    [da] => reparere smykker
+                                    [ro] => repară bijuterii
+                                    [nl] => juwelen repareren
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/sector-specific
+                                )
+
+                            [broaderSkill] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/03598f35-15f1-41fa-bd8a-313e74523307
+                                    [1] => http://data.europa.eu/esco/skill/35138055-63cd-410a-91a7-29e9857bebbd
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S6.5.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/19ef02d8-0297-4ec2-afbf-a58165c7c6a2&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/19ef02d8-0297-4ec2-afbf-a58165c7c6a2
+                                            [title] => Schmuck reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/78fc4e90-a522-480a-a2f0-21ff3dfe6ba7
+                            [searchHit] => Reparieren von Batteriebestandteilen durch Ersetzen von Zellen, Reparieren der Verkabelung oder Punktschweißen von Zellen.
+                            [title] => Batteriebestandteile reparieren
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Batteriebestandteile reparieren
+                                    [no] => reparere batterikomponenter
+                                    [fi] => korjata akun tai pariston komponentteja
+                                    [en-us] => repair battery components
+                                    [pt] => reparar componentes de baterias
+                                    [bg] => ремонтиране на компоненти на батерии
+                                    [lt] => taisyti baterijų komponentus
+                                    [hr] => popraviti dijelove baterije
+                                    [lv] => salabot akumulatoru sastāvdaļas
+                                    [fr] => réparer des composants de batteries
+                                    [hu] => akkumulátor-alkatrészeket javít
+                                    [sk] => opraviť komponenty batérie
+                                    [sl] => popravljati baterijske komponente
+                                    [ga] => comhpháirteanna ceallraí a dheisiú
+                                    [sv] => reparera batterikomponenter
+                                    [el] => επισκευή των συστατικών μπαταρίας
+                                    [mt] => tiswija tal-komponenti tal-batteriji
+                                    [en] => repair battery components
+                                    [is] => gerir við rafhlöðuhluta
+                                    [it] => riparare componenti di batterie
+                                    [es] => reparar componentes de baterías
+                                    [et] => aku komponente parandama
+                                    [cs] => opravovat součásti baterií
+                                    [ar] => إصلاح مكونات البطارية
+                                    [pl] => naprawiać części składowe akumulatora
+                                    [da] => reparere batterikomponenter
+                                    [ro] => repară componente ale bateriilor
+                                    [nl] => batterijcomponenten repareren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8.1
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/78fc4e90-a522-480a-a2f0-21ff3dfe6ba7&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/78fc4e90-a522-480a-a2f0-21ff3dfe6ba7
+                                            [title] => Batteriebestandteile reparieren
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => Array
+                        (
+                            [className] => Skill
+                            [classId] => http://data.europa.eu/esco/model#Skill
+                            [uri] => http://data.europa.eu/esco/skill/64852ade-6ae1-4760-ba4a-976bf07ca255
+                            [searchHit] => Bei Bedarf Vorbereiten, Testen und Durchführen eines Aktionsplans, um verlorene Systemdaten abzurufen oder zu ersetzen.
+                            [title] => Pläne für die Wiederherstellung im Notfall verwalten
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Pläne für die Wiederherstellung im Notfall verwalten
+                                    [no] => administrere planer for krisegjenoppretting
+                                    [fi] => hallita häiriön poistosuunnitelmia
+                                    [en-us] => manage disaster recovery plans
+                                    [pt] => gerir planos de recuperação de desastres
+                                    [bg] => управление на планове за възстановяване при бедствие
+                                    [lt] => valdyti informacijos atkūrimo planus
+                                    [hr] => upravljati planovima oporavka od katastrofe
+                                    [lv] => ārkārtas atkopšanas plānu pārvaldība
+                                    [fr] => gérer les plans de reprise d’activité
+                                    [hu] => katasztrófaelhárítási tervet elkészíti teszteli és végrehajtja
+                                    [sk] => riadiť plány obnovy po havárii
+                                    [sl] => upravljati načrte okrevanja po katastrofah
+                                    [ga] => pleananna athshlánaithe ó thubaiste a bhainistiú
+                                    [sv] => hantera planer för återställande efter datorhaverier
+                                    [el] => διαχείριση σχεδίων αποκατάστασης μετά από καταστροφή
+                                    [mt] => timmaniġġja pjanijiet ta' rkupru minn diżastri
+                                    [en] => manage disaster recovery plans
+                                    [is] => stjórna áætlunum um endurheimt við ófarir
+                                    [it] => gestire piani di disaster recovery
+                                    [es] => gestionar planes de recuperación ante catástrofes
+                                    [et] => avariitaasteplaane juhtima
+                                    [cs] => řídit plány kompletní obnovy
+                                    [ar] => إدارة خطط استعادة القدرة على العمل بعد الكوارث
+                                    [pl] => zarządzać planem działań odtworzeniowych
+                                    [da] => administrere katastrofeplaner
+                                    [ro] => gestionează planurile de recuperare în urma dezastrelor
+                                    [nl] => rampherstelplannen beheren
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/skills
+                                    [1] => http://data.europa.eu/esco/concept-scheme/member-skills
+                                )
+
+                            [hasSkillType] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-type/skill
+                                )
+
+                            [hasReuseLevel] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill-reuse-level/cross-sector
+                                )
+
+                            [broaderHierarchyConcept] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S4.1.7
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/64852ade-6ae1-4760-ba4a-976bf07ca255&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/64852ade-6ae1-4760-ba4a-976bf07ca255
+                                            [title] => Pläne für die Wiederherstellung im Notfall verwalten
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

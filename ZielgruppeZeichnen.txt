@@ -1,0 +1,1352 @@
+Array
+(
+    [total] => 40
+    [offset] => 0
+    [limit] => 20
+    [text] => Zeichnen
+    [language] => de
+    [type] => Array
+        (
+            [0] => occupation
+        )
+
+    [isInScheme] => 
+    [facet] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Zeichnen&type=occupation&limit=20&offset=0&full=false&viewObsolete=false&language=de
+                )
+
+            [next] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/search?text=Zeichnen&type=occupation&limit=20&offset=1&full=false&viewObsolete=false&language=de
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [results] => Array
+                (
+                    [0] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/c52129d9-4656-4ce8-ba13-8a72a51d5400
+                            [searchHit] => Zeichner Produktentwicklung
+                            [title] => Zeichner Produktentwicklung/Zeichnerin Produktentwicklung
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Produktentwicklung/Zeichnerin Produktentwicklung
+                                    [no] => teknisk tegner innen produktutvikling
+                                    [fi] => suunnitteluavustaja, tuotekehitys
+                                    [en-us] => product development engineering drafter
+                                    [pt] => Projetista de desenvolvimento de produtos
+                                    [bg] => чертожник, разработване на продукти
+                                    [lt] => gaminių inžinierius projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za razvoj proizvoda
+                                    [lv] => ražojumu izstrādes rasētājs
+                                    [fr] => dessinateur en conception de produits industriels/dessinatrice en conception de produits industriels
+                                    [hu] => termékfejlesztési műszaki rajzoló
+                                    [sk] => technický kreslič/technická kreslička v oblasti vývoja výrobkov
+                                    [sl] => tehnični risar/tehnična risarka za razvoj izdelkov
+                                    [ga] => línitheoir innealtóireachta forbartha táirgí
+                                    [sv] => ritare, produktutveckling
+                                    [el] => σχεδιαστής τμήματος ανάπτυξης προϊόντων/σχεδιάστρια τμήματος ανάπτυξης προϊόντων
+                                    [mt] => disinjatur tekniku tal-inġinerija tal-iżvilupp tal-prodotti/disinjatriċi teknika tal-inġinerija tal-iżvilupp tal-prodotti
+                                    [en] => product development engineering drafter
+                                    [is] => vöruþróunarverkfræðitækniteiknari
+                                    [it] => disegnatore sviluppatore di prodotto/disegnatrice sviluppatrice di prodotto
+                                    [es] => ingeniero técnico en desarrollo de productos especializado en diseño/ingeniera técnica en desarrollo de productos especializada en diseño
+                                    [et] => tootearendusjoonestaja
+                                    [cs] => vývojový inženýr/vývojová inženýrka
+                                    [ar] => رسام هندسة تطوير المنتجات / رسامة هندسة تطوير المنتجات
+                                    [pl] => kreślarz w dziale rozwoju produktu
+                                    [da] => teknisk tegner inden for produktudvikling
+                                    [ro] => tehnician proiectare departament dezvoltare
+                                    [nl] => technisch tekenaar productontwikkeling
+                                )
+
+                            [code] => 3118.3.12
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c52129d9-4656-4ce8-ba13-8a72a51d5400&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/c52129d9-4656-4ce8-ba13-8a72a51d5400
+                                            [title] => Zeichner Produktentwicklung/Zeichnerin Produktentwicklung
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501
+                            [searchHit] => Zeichner Elektromechanik
+                            [title] => Zeichner Elektromechanik/Zeichnerin Elektromechanik
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Elektromechanik/Zeichnerin Elektromechanik
+                                    [no] => teknisk tegner, elektromekanikk
+                                    [fi] => suunnitteluavustaja, sähkömekaaninen tekniikka
+                                    [en-us] => electromechanical drafter
+                                    [pt] => Projetista eletromecânico/Projetista eletromecânica
+                                    [bg] => чертожник, електромеханика
+                                    [lt] => elektromechanikos projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za elektromehaniku
+                                    [lv] => elektromehānisko iekārtu rasētājs
+                                    [fr] => dessinateur en électromécanique/dessinatrice en électromécanique
+                                    [hu] => elektromechanikai műszaki rajzoló
+                                    [sk] => technický kreslič/technická kreslička v oblasti elektromechaniky
+                                    [sl] => tehnični risar/tehnična risarka za elektromehaniko
+                                    [ga] => línitheoir leictrimheicniúil
+                                    [sv] => ritare, elektromekanik
+                                    [el] => σχεδιαστής ηλεκτρομηχανικών συστημάτων/σχεδιάστρια ηλεκτρομηχανικών συστημάτων
+                                    [mt] => disinjatur tekniku elettromekkaniku/disinjatriċi teknika elettromekkanika
+                                    [en] => electromechanical drafter
+                                    [is] => rafvélrænn tækniteiknari
+                                    [it] => disegnatore elettromeccanico/disegnatrice elettromeccanica
+                                    [es] => técnico en diseño electromecánico/técnica en diseño electromecánico
+                                    [et] => elektromehaanikajoonestaja
+                                    [cs] => projektant elektromechanických zařízení/projektantka elektromechanických zařízení
+                                    [ar] => رسام إلكتروميكانيكي / رسامة إلكتروميكانيكية
+                                    [pl] => kreślarz systemów elektromechanicznych
+                                    [da] => teknisk tegner inden for elektromekanik
+                                    [ro] => tehnician proiectant electromecanică
+                                    [nl] => technisch tekenaar elektromechanica
+                                )
+
+                            [code] => 3118.3.7
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501
+                                            [title] => Zeichner Elektromechanik/Zeichnerin Elektromechanik
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/42ff9e52-1f56-427d-b772-b9328c39b98a
+                            [searchHit] => Kunstzeichner drücken Begriffe aus, indem sie eine dem Gedanken entsprechende Darstellung zeichnen.
+                            [title] => Kunstzeichner/Kunstzeichnerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Kunstzeichner/Kunstzeichnerin
+                                    [no] => tegner
+                                    [fi] => piirrostaiteilija
+                                    [en-us] => drawing artist
+                                    [pt] => Desenhador artístico/Desenhadora artística
+                                    [bg] => художник, график
+                                    [lt] => piešėjas
+                                    [hr] => crtač/crtačica
+                                    [lv] => grafiķis
+                                    [fr] => dessinateur d’art/dessinatrice d’art
+                                    [hu] => rajzművész
+                                    [sk] => kreslič/kreslička
+                                    [sl] => umetniški risar/umetniška risarka
+                                    [ga] => ealaíontóir líníochta
+                                    [sv] => tecknare
+                                    [el] => σκιτσογράφος
+                                    [mt] => artist tat-tpinġija/artista tat-tpinġija
+                                    [en] => drawing artist
+                                    [is] => teiknilistamaður
+                                    [it] => disegnatore artistico/disegnatrice artistica
+                                    [es] => dibujante
+                                    [et] => joonistuskunstnik
+                                    [cs] => kreslíř/křeslířka
+                                    [ar] => فنان رسام / فنانة رسامة
+                                    [pl] => rysownik
+                                    [da] => tegner
+                                    [ro] => desenator/desenatoare
+                                    [nl] => kunsttekenaar
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 2651.6
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C2651
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/42ff9e52-1f56-427d-b772-b9328c39b98a&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/42ff9e52-1f56-427d-b772-b9328c39b98a
+                                            [title] => Kunstzeichner/Kunstzeichnerin
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac
+                            [searchHit] => Zeichner Elektronik
+                            [title] => Zeichner Elektronik/Zeichnerin Elektronik
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Elektronik/Zeichnerin Elektronik
+                                    [no] => teknisk tegner, elektronikk
+                                    [fi] => suunnitteluavustaja, elektroniikka
+                                    [en-us] => electronics drafter
+                                    [pt] => Projetista de eletrónica
+                                    [bg] => чертожник, електроника
+                                    [lt] => elektronikos projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za elektroniku
+                                    [lv] => elektronikas rasētājs
+                                    [fr] => dessinateur en électronique/dessinatrice en électronique
+                                    [hu] => gyengeáramú villamosipari műszaki rajzoló
+                                    [sk] => kreslič/kreslička elektronických zariadení
+                                    [sl] => tehnični risar/tehnična risarka za elektroniko
+                                    [ga] => línitheoir leictreonaice
+                                    [sv] => ritare, elektronisk utrustning
+                                    [el] => σχεδιαστής ηλεκτρονικών συστημάτων/σχεδιάστρια ηλεκτρονικών συστημάτων
+                                    [mt] => disinjatur tekniku tal-elettronika/disinjatriċi teknika tal-elettronika
+                                    [en] => electronics drafter
+                                    [is] => rafeindatækniteiknari
+                                    [it] => disegnatore elettronico/disegnatrice elettronica
+                                    [es] => técnico en diseño electrónico/técnica en diseño electrónico
+                                    [et] => elektroonikajoonestaja
+                                    [cs] => technik konstruktér elektroniky/technička konstruktérka elektroniky
+                                    [ar] => رسام الإلكترونيات / رسامة الإلكترونيات
+                                    [pl] => kreślarz systemów elektronicznych
+                                    [da] => elektronisk tegner
+                                    [ro] => desenator tehnic în electronică
+                                    [nl] => tekenaar elektronica
+                                )
+
+                            [code] => 3118.3.8
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac
+                                            [title] => Zeichner Elektronik/Zeichnerin Elektronik
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/ecd0fad8-b099-4c47-93f6-dde9f6f6c5fc
+                            [searchHit] => Comic-Zeichner
+                            [title] => Karikaturist/Karikaturistin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Karikaturist/Karikaturistin
+                                    [no] => tegneserietegner
+                                    [fi] => pilapiirtäjä
+                                    [en-us] => cartoonist
+                                    [pt] => Caricaturista
+                                    [bg] => карикатурист
+                                    [lt] => karikatūristas
+                                    [hr] => crtač/crtačica stripova
+                                    [lv] => karikatūrists
+                                    [fr] => dessinateur de presse/dessinatrice de presse
+                                    [hu] => képregényrajzoló
+                                    [sk] => karikaturista/karikaturistka
+                                    [sl] => karikaturist/karikaturistka
+                                    [ga] => cartúnaí
+                                    [sv] => serietecknare
+                                    [el] => καρτουνίστας/καρτουνίστρια
+                                    [mt] => cartoonist
+                                    [en] => cartoonist
+                                    [is] => teiknimyndahönnuður
+                                    [it] => cartoonist
+                                    [es] => dibujante de viñetas
+                                    [et] => karikaturist
+                                    [cs] => karikaturista/karikaturistka
+                                    [ar] => رسام الكاريكاتير / رسامة الكاريكاتير
+                                    [pl] => rysownik satyryczny
+                                    [da] => tegneserietegner
+                                    [ro] => caricaturist/caricaturistă
+                                    [nl] => cartoontekenaar
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 2651.3
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C2651
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ecd0fad8-b099-4c47-93f6-dde9f6f6c5fc&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/ecd0fad8-b099-4c47-93f6-dde9f6f6c5fc
+                                            [title] => Karikaturist/Karikaturistin
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e
+                            [searchHit] => Elektrozeichner unterstützen Ingenieure bei der Gestaltung und Konzeptualisierung von Elektrogeräten. Mithilfe von Spezialsoftware zeichnen sie die Spezifikationen einer Vielzahl elektrischer Systeme wie Spannungswandler, Kraftwerke oder Energieversorgungsanlagen für Gebäude.
+                            [title] => Elektrozeichner/Elektrozeichnerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Elektrozeichner/Elektrozeichnerin
+                                    [no] => teknisk tegner, elektro
+                                    [fi] => suunnitteluavustaja, sähkö
+                                    [en-us] => electrical drafter
+                                    [pt] => Projetista de equipamento elétrico
+                                    [bg] => чертожник, електричество
+                                    [lt] => elektros projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za elektrotehniku
+                                    [lv] => elektrosistēmu rasētājs
+                                    [fr] => dessinateur en électricité/dessinatrice en électricité
+                                    [hu] => erősáramú villamosipari műszaki rajzoló
+                                    [sk] => kreslič/kreslička elektrických zariadení
+                                    [sl] => tehnični risar/tehnična risarka za elektrotehniko
+                                    [ga] => dréachtóir leictreach
+                                    [sv] => elkonstruktör
+                                    [el] => σχεδιαστής ηλεκτρικού εξοπλισμού/σχεδιάστρια ηλεκτρικού εξοπλισμού
+                                    [mt] => disinjatur tekniku tal-elettriku/disinjatriċi teknika tal-elettriku
+                                    [en] => electrical drafter
+                                    [is] => raftækniteiknari
+                                    [it] => disegnatore elettrico/disegnatrice elettrica
+                                    [es] => técnico en diseño de sistemas eléctricos/técnica en diseño de sistemas eléctricos
+                                    [et] => elektriseadmete ja süsteemide joonestaja
+                                    [cs] => projektant elektrických systémů/projektantka elektrických systémů
+                                    [ar] => رسام كهربائي / رسامة كهربائية
+                                    [pl] => kreślarz instalacji elektrycznych
+                                    [da] => el-tegner
+                                    [ro] => proiectant instalații electrice/proiectantă instalații electrice
+                                    [nl] => technisch tekenaar elektriciteit
+                                )
+
+                            [code] => 3118.3.6
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e
+                                            [title] => Elektrozeichner/Elektrozeichnerin
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8
+                            [searchHit] => Leiterplattendesigner zeichnen und entwerfen die Konstruktion von Leiterplatten. Sie planen die logische Platzierung von Leiterbahnen, Kupferauflagen und Pads auf der Leiterplatte. Für das Design verwenden sie Computerprogramme und spezielle Software.
+                            [title] => Leiterplattendesigner/Leiterplattendesignerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Leiterplattendesigner/Leiterplattendesignerin
+                                    [no] => kretskortkonstruktør
+                                    [fi] => suunnitteluassistentti, painetut piirilevyt
+                                    [en-us] => printed circuit board designer
+                                    [pt] => Engenheiro projetista de placas de circuitos impressos/Engenheira projetista de placas de circuitos impressos
+                                    [bg] => проектант на печатни платки
+                                    [lt] => spausdintinių plokščių projektuotojas
+                                    [hr] => projektant/projektantica tiskanih pločica
+                                    [lv] => drukātās shēmas plašu rasētājs
+                                    [fr] => implanteur de cartes électroniques/implanteuse de cartes électroniques
+                                    [hu] => nyomtatottáramkörikártya-tervező
+                                    [sk] => návrhár/návrhárka dosiek plošných spojov
+                                    [sl] => oblikovalec/oblikovalka plošč tiskanega vezja
+                                    [ga] => dearthóir clár ciorcad priontáilte
+                                    [sv] => mönsterkortsdesigner
+                                    [el] => σχεδιαστής πλακετών τυπωμένου κυκλώματος/σχεδιάστρια πλακετών τυπωμένου κυκλώματος
+                                    [mt] => disinjatur taċ-ċirkwit stampat/disinjatriċi taċ-ċirkwit stampat
+                                    [en] => printed circuit board designer
+                                    [is] => hönnuður prentaðra rafrásaborða
+                                    [it] => disegnatore di circuiti stampati/disegnatrice di circuiti stampati
+                                    [es] => diseñador de placas de circuitos impresos/diseñadora de placas de circuitos impresos
+                                    [et] => trükkplaadidisainer
+                                    [cs] => návrhář desek plošných spojů/návrhářka desek plošných spojů
+                                    [ar] => مصمم لوحة الدوائر الكهربائية المطبوعة / مصممة لوحة الدوائر الكهربائية المطبوعة
+                                    [pl] => projektant obwodów drukowanych
+                                    [da] => designer af trykte kredsløb
+                                    [ro] => proiectant circuite imprimate/proiectantă circuite imprimate
+                                    [nl] => PCB-ontwerper
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 3118.4
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C3118
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8
+                                            [title] => Leiterplattendesigner/Leiterplattendesignerin
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/79082f76-4b11-4594-8437-2db567331f41
+                            [searchHit] => Straßenmarkierer tragen Markierungen auf Straßen auf, um die Sicherheit zu erhöhen, Straßenverkehrsvorschriften anzuzeigen und die Verkehrsteilnehmer dabei zu unterstützen, den Weg zu finden. Sie verwenden verschiedene Maschinen, um Linien auf die Fahrbahn zu zeichnen, und bringen andere Markierungen an, wie etwa Reflektoren.
+                            [title] => Straßenmarkierer/Straßenmarkiererin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Straßenmarkierer/Straßenmarkiererin
+                                    [no] => veimerker
+                                    [fi] => tiemerkitsijä
+                                    [en-us] => road marker
+                                    [pt] => Operário da marcação de estradas/Operária da marcação de estradas
+                                    [bg] => работник, полагане на пътна маркировка
+                                    [lt] => kelių ženklintojas
+                                    [hr] => postavljač/postavljačica cestovnih oznaka
+                                    [lv] => ceļa marķējumu krāsotājs
+                                    [fr] => applicateurs de marquage routier/applicatrice de marquage routier
+                                    [hu] => útburkolatfestő
+                                    [sk] => značkovač/značkovačka ciest
+                                    [sl] => izvajalec/izvajalka talne signalizacije
+                                    [ga] => marcálaí bóithre
+                                    [sv] => vägmarkerare
+                                    [el] => εργάτης διαγράμμισης οδών/εργάτρια διαγράμμισης οδών
+                                    [mt] => uffiċjal tal-immarkar tas-sinjali tat-toroq
+                                    [en] => road marker
+                                    [is] => verkamaður við yfirborðsmerkingar vega
+                                    [it] => addetto alla segnaletica stradale orizzontale/addetta alla segnaletica stradale orizzontale
+                                    [es] => operario de señalización vial horizontal/operaria de señalización vial horizontal
+                                    [et] => teekattemärgistuse paigaldaja
+                                    [cs] => pracovník realizace vodorovného dopravního značení/pracovnice realizace vodorovného dopravního značení
+                                    [ar] => واضع علامات الطريق / واضعة علامات الطريق
+                                    [pl] => pracownik do oznakowania dróg
+                                    [da] => vejlægger
+                                    [ro] => muncitor marcaje rutiere
+                                    [nl] => wegmarkeerder
+                                )
+
+                            [code] => 9312.1.4
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/47300afa-5496-484c-8f65-14247a98b2b8
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/79082f76-4b11-4594-8437-2db567331f41&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/79082f76-4b11-4594-8437-2db567331f41
+                                            [title] => Straßenmarkierer/Straßenmarkiererin
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/4fef1907-cf82-413b-841a-02ef57e299a6
+                            [searchHit] => Labortechniker Biowissenschaften führen Laboruntersuchungen durch. Sie nehmen Analysen und Tests vor und unterstützen Biowissenschaftler. Sie bearbeiten Proben und führen in Bereichen wie Biologie, Biotechnologie, Umweltwissenschaften, Kriminaltechnik und Pharmakologie Tests, Messungen, Untersuchungen und Analysen durch. Darüber hinaus beobachten und überwachen Labortechniker Biowissenschaften Labortätigkeiten, zeichnen Testsequenzen auf und analysieren die Ergebnisse.
+                            [title] => Labortechniker Biowissenschaften/Labortechnikerin Biowissenschaften
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Labortechniker Biowissenschaften/Labortechnikerin Biowissenschaften
+                                    [no] => vitenskapelig laboratorietekniker
+                                    [fi] => laborantti
+                                    [en-us] => scientific laboratory technician
+                                    [pt] => Técnico de laboratório científico/Técnica de laboratório científico
+                                    [bg] => техник, научна лаборатория
+                                    [lt] => mokslo laboratorijos technikas
+                                    [hr] => laboratorijski tehničar / laboratorijska tehničarka, osim u zdravstvu
+                                    [lv] => zinātniskais laborants
+                                    [fr] => technicien de laboratoire scientifique/technicienne de laboratoire scientifique
+                                    [hu] => laboratóriumi technikus
+                                    [sk] => laborant/laborantka vo vedeckom laboratóriu
+                                    [sl] => znanstveni laboratorijski tehnik/znanstvena laboratorijska tehnica
+                                    [ga] => teicneoir saotharlainne eolaíochta
+                                    [sv] => forskningslaborant
+                                    [el] => τεχνικός εργαστηρίου
+                                    [mt] => tekniku tal-laboratorju xjentifiku
+                                    [en] => scientific laboratory technician
+                                    [is] => vísindarannsóknarstofutæknir
+                                    [it] => tecnico di laboratorio scientifico
+                                    [es] => técnico de laboratorio en ciencias de la vida/técnica de laboratorio en ciencias de la vida
+                                    [et] => teaduslabori tehnik
+                                    [cs] => laboratorní technik/laboratorní technička
+                                    [ar] => فني المختبر العلمي
+                                    [pl] => technik analityki laboratoryjnej
+                                    [da] => videnskabelig laboratorietekniker
+                                    [ro] => tehnician laborant analize fizico-chimice
+                                    [nl] => technicus wetenschappelijk laboratorium
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 3141.2
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C3141
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4fef1907-cf82-413b-841a-02ef57e299a6&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/4fef1907-cf82-413b-841a-02ef57e299a6
+                                            [title] => Labortechniker Biowissenschaften/Labortechnikerin Biowissenschaften
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/61e278a3-2c27-4c18-a827-11e2326b33ae
+                            [searchHit] => Straßenkünstler führen künstlerische Darbietungen auf der Straße im Freien auf. Dabei dienen ihnen der Ort und das Publikum als kreative Ressourcen. Ihre Aufführungen zeichnen sich durch spielerische Experimentierfreude aus und sollen das Publikum unterhalten oder ihm bisweilen auch kritische Einschätzungen zu gesellschaftlichen Fragen vermitteln. Straßenkünstler bemühen sich um die Einbeziehung des Publikums, achten jedoch stets darauf, dass dessen Sicherheit und Unversehrtheit gewahrt bleibt.
+                            [title] => Straßenkünstler/Straßenkünstlerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Straßenkünstler/Straßenkünstlerin
+                                    [no] => gatekunstner
+                                    [fi] => performanssitaiteilija, katutaide
+                                    [en-us] => street performer
+                                    [pt] => Artista de rua
+                                    [bg] => уличен изпълнител
+                                    [lt] => gatvės atlikėjas
+                                    [hr] => ulični zabavljač / ulična zabavljačica
+                                    [lv] => ielu izrāžu mākslinieks
+                                    [fr] => artiste de rue
+                                    [hu] => utcai előadóművész
+                                    [sk] => pouličný performer/pouličná performerka
+                                    [sl] => ulični performer/ulična performerka
+                                    [ga] => taibheoir sráide
+                                    [sv] => gatuartist
+                                    [el] => πλανόδιος καλλιτέχνης/πλανόδια καλλιτέχνης
+                                    [mt] => artist tal-ispettakli fit-triq/artista tal-ispettakli fit-triq
+                                    [en] => street performer
+                                    [is] => götulistamaður
+                                    [it] => artista di strada
+                                    [es] => intérprete callejero/intérprete callejera
+                                    [et] => tänavaesineja
+                                    [cs] => pouliční performer/pouliční performerka
+                                    [ar] => لاعب شارع / لاعبة شارع
+                                    [pl] => artysta uliczny / artystka uliczna
+                                    [da] => gadekunstner
+                                    [ro] => artist de stradă/artistă de stradă
+                                    [nl] => straatartiest
+                                )
+
+                            [code] => 2659.2.5
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a655aff1-e5e9-4c64-bc85-b902568a3dfb
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/61e278a3-2c27-4c18-a827-11e2326b33ae&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/61e278a3-2c27-4c18-a827-11e2326b33ae
+                                            [title] => Straßenkünstler/Straßenkünstlerin
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/05a55bb3-68d6-4ff0-83fd-46a68a45a598
+                            [searchHit] => Flugzeugbautechniker arbeiten mit Ingenieuren für Luft- und Raumfahrt zusammen, um Ausrüstungen für Luft- und Raumfahrzeuge zu betreiben, instand zu halten und zu testen. Sie werten Blaupausen und Anweisungen aus, um Prüfspezifikationen und -verfahren festzulegen. Mithilfe von Software stellen sie sicher, dass alle Teile von Raum- oder Luftfahrzeugen ordnungsgemäß funktionieren. Sie zeichnen die Prüfverfahren und -ergebnisse auf und geben Empfehlungen für Änderungen ab.
+                            [title] => Flugzeugbautechniker/Flugzeugbautechnikerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Flugzeugbautechniker/Flugzeugbautechnikerin
+                                    [no] => tekniker, romfartsteknikk
+                                    [fi] => asiantuntija, ilmailu- ja avaruustekniikka
+                                    [en-us] => aerospace engineering technician
+                                    [pt] => Técnico aeroespacial/Técnica aeroespacial
+                                    [bg] => техник-механик, аеронавтика
+                                    [lt] => aerokosminės inžinerijos technikas
+                                    [hr] => tehničar/tehničarka u zrakoplovstvu
+                                    [lv] => aerokosmisko iekārtu tehniķis
+                                    [fr] => technicien en ingénierie aérospatiale/technicienne en ingénierie aérospatiale
+                                    [hu] => légi- és űrjárműtechnikus
+                                    [sk] => technik/technička pre lietadlá a vesmírne zariadenia
+                                    [sl] => tehnik/tehnica za aeronavtični inženiring
+                                    [ga] => teicneoir innealtóireachta aeraspáis
+                                    [sv] => tekniker, rymdindustrin
+                                    [el] => τεχνολόγος αεροδιαστημικής
+                                    [mt] => tekniku tal-inġinerija tal-ispazju tal-ajru
+                                    [en] => aerospace engineering technician
+                                    [is] => geimverkfræðitæknir
+                                    [it] => tecnico aerospaziale
+                                    [es] => ingeniero técnico aeroespacial/ingeniera técnica aeroespacial
+                                    [et] => lennundustehnik
+                                    [cs] => technik v leteckém a kosmickém průmyslu/technička v leteckém a kosmickém průmyslu
+                                    [ar] => مهندس طيران الفضاء / مهندسة طيران الفضاء
+                                    [pl] => technik mechanik lotnictwa i kosmonautyki
+                                    [da] => luftfartstekniker
+                                    [ro] => tehnician proiectant în industria aeronautică
+                                    [nl] => technisch ingenieur lucht- en ruimtevaart
+                                )
+
+                            [code] => 3115.1.1
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/05a55bb3-68d6-4ff0-83fd-46a68a45a598&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/05a55bb3-68d6-4ff0-83fd-46a68a45a598
+                                            [title] => Flugzeugbautechniker/Flugzeugbautechnikerin
+                                        )
+
+                                )
+
+                        )
+
+                    [11] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/13d8b1be-d711-4bbc-a45e-cad605162f41
+                            [searchHit] => Musikdirektoren verantworten die musikalischen Aspekte der Live-Aufführungen oder Aufzeichnungen von Orchestern, Musikkapellen und Bands. Sie ordnen Musik und Komposition, stimmen die Musiker aufeinander ein und zeichnen Aufführungen auf. Musikdirektoren sind Fachleute, die in ganz unterschiedlichen Bereichen tätig sind, z. B. in der Filmindustrie, bei der Erstellung von Musikvideos, beim Rundfunk, bei Musikensembles oder in Schulen.
+                            [title] => Musikdirektor/Musikdirektorin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Musikdirektor/Musikdirektorin
+                                    [no] => sjefsdirigent
+                                    [fi] => musiikillinen ohjaaja
+                                    [en-us] => music director
+                                    [pt] => Diretor musical/Diretora musical
+                                    [bg] => музикален директор
+                                    [lt] => muzikos direktorius
+                                    [hr] => glazbeni direktor / glazbena direktorica
+                                    [lv] => mūzikas režisors
+                                    [fr] => directeur musical/directrice musicale
+                                    [hu] => zenei igazgató
+                                    [sk] => hudobný režisér/hudobná režisérka
+                                    [sl] => glasbeni direktor/glasbena direktorica
+                                    [ga] => stiúrthóir ceolfhoirne
+                                    [sv] => musikalisk ledare
+                                    [el] => μουσικός διευθυντής/μουσική διευθύντρια
+                                    [mt] => direttur tal-mużika/direttriċi tal-mużika
+                                    [en] => music director
+                                    [is] => tónlistarstjórnandi
+                                    [it] => direttore musicale/direttrice musicale
+                                    [es] => director musical/directora musical
+                                    [et] => muusikajuht
+                                    [cs] => hudební ředitel/hudební ředitelka
+                                    [ar] => مخرج موسيقي / مخرجة موسيقية
+                                    [pl] => reżyser muzyczny
+                                    [da] => orkesterleder
+                                    [ro] => regizor muzical
+                                    [nl] => muziekdirecteur
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 2652.2
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C2652
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/13d8b1be-d711-4bbc-a45e-cad605162f41&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/13d8b1be-d711-4bbc-a45e-cad605162f41
+                                            [title] => Musikdirektor/Musikdirektorin
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/444c9aa9-578d-4a9a-9949-99ef1bacb20e
+                            [searchHit] => Kraftfahrzeugbautechniker arbeiten gemeinsam mit Ingenieuren für Kraftfahrzeugbau an der Bedienung, Reparatur, Wartung und Überprüfung von Geräten, die in Kraftfahrzeugen eingesetzt werden. In einigen Umgebungen, beispielsweise an Flughäfen, sind sie für die Betriebsbereitschaft von Geräten und Fahrzeugen verantwortlich. Sie werten Blaupausen und Konstruktionspläne aus, um Prüfspezifikationen und -verfahren festzulegen. Mithilfe von Software stellen Kraftfahrzeugbautechniker sicher, dass alle Teile von Kraftfahrzeugen ordnungsgemäß funktionieren. Sie zeichnen die Prüfverfahren und -ergebnisse auf und geben Empfehlungen für Änderungen ab.
+                            [title] => Kraftfahrzeugbautechniker/Kraftfahrzeugbautechnikerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Kraftfahrzeugbautechniker/Kraftfahrzeugbautechnikerin
+                                    [no] => tekniker, bilteknikk
+                                    [fi] => asiantuntija, autotekniikka
+                                    [en-us] => automotive engineering technician
+                                    [pt] => Técnico de mecânica automóvel/Técnica de mecânica automóvel
+                                    [bg] => техник-механик, експлоатация на автомобилния транспорт
+                                    [lt] => transporto priemonių inžinerijos technikas
+                                    [hr] => strojarski tehničar / strojarska tehničarka za vozila i vozna sredstva
+                                    [lv] => mašīnbūves tehniķis
+                                    [fr] => technicien en ingénierie automobile/technicienne en ingénierie automobile
+                                    [hu] => gépjárműtechnikus
+                                    [sk] => automobilový technik/automobilová technička
+                                    [sl] => tehnik/tehnica za motorna vozila
+                                    [ga] => teicneoir innealtóireachta gluaisteán
+                                    [sv] => tekniker, fordonsindustrin
+                                    [el] => τεχνικός οχημάτων
+                                    [mt] => tekniku tal-inġinerija tal-karozzi
+                                    [en] => automotive engineering technician
+                                    [is] => bifvélaverkfræðitæknir
+                                    [it] => tecnico di ingegneria automobilistica
+                                    [es] => ingeniero técnico de automoción/ingeniera técnica de automoción
+                                    [et] => mootorsõidukiehitustehnik
+                                    [cs] => automobilový technik/automobilová technička
+                                    [ar] => فني هندسة السيارات
+                                    [pl] => technik pojazdów samochodowych
+                                    [da] => tekniker inden for motorkøretøjsindustrien
+                                    [ro] => tehnician mecanic auto
+                                    [nl] => technisch ingenieur motorvoertuigen
+                                )
+
+                            [code] => 3115.1.4
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/444c9aa9-578d-4a9a-9949-99ef1bacb20e&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/444c9aa9-578d-4a9a-9949-99ef1bacb20e
+                                            [title] => Kraftfahrzeugbautechniker/Kraftfahrzeugbautechnikerin
+                                        )
+
+                                )
+
+                        )
+
+                    [13] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/72bcb223-da77-4ed5-a03a-796fd5ece728
+                            [searchHit] => Lehrkräfte für Bildende Kunst unterrichten Schülerinnen und Schüler in lockerer Atmosphäre in verschiedenen Stilen der bildenden Kunst, z. B. Zeichnen, Malen und Bildhauerei. Sie vermitteln den Schülerinnen und Schülern einen Überblick über die Kunstgeschichte, verfolgen jedoch in erster Linie einen praxisorientierten Kursansatz. Dabei unterstützen sie die Schülerinnen und Schüler bei der Erprobung und Beherrschung verschiedener künstlerischer Techniken und ermutigen sie, ihren eigenen Stil zu entwickeln.
+                            [title] => Lehrkraft für Bildende Kunst
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Lehrkraft für Bildende Kunst
+                                    [no] => lærer i billedkunst
+                                    [fi] => visuaalisen taiteen opettaja
+                                    [en-us] => visual arts teacher
+                                    [pt] => Professor de artes visuais/Professora de artes visuais
+                                    [bg] => преподавател, изобразително и/или приложно изкуство в занимания по интереси
+                                    [lt] => dailės mokytojas
+                                    [hr] => nastavnik/nastavnica vizualnih umjetnosti
+                                    [lv] => vizuālās mākslas skolotājs
+                                    [fr] => intervenant en arts visuels/intervenante en arts visuels
+                                    [hu] => vizuálisművészet-tanár
+                                    [sk] => učiteľ/učiteľka výtvarných umení
+                                    [sl] => učitelj/učiteljica vizualnih umetnosti
+                                    [ga] => múinteoir amharc-ealaíon
+                                    [sv] => bildlärare
+                                    [el] => καθηγητής εικαστικών τεχνών/καθηγήτρια εικαστικών τεχνών
+                                    [mt] => għalliem tal-arti viżiva/għalliema tal-arti viżiva
+                                    [en] => visual arts teacher
+                                    [is] => kennari í sjónlistum
+                                    [it] => insegnante di arti figurative
+                                    [es] => profesor de artes visuales/profesora de artes visuales
+                                    [et] => visuaalkunsti õpetaja
+                                    [cs] => učitel výtvarných umění/učitelka výtvarných umění
+                                    [ar] => مدرس الفنون البصرية / مدرسة الفنون البصرية
+                                    [pl] => nauczyciel sztuk wizualnych/nauczycielka sztuk wizualnych
+                                    [da] => billedkunstlærer
+                                    [ro] => profesor de arte vizuale/profesoară de arte vizuale
+                                    [nl] => leraar beeldende kunsten
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 2355.5
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C2355
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/72bcb223-da77-4ed5-a03a-796fd5ece728&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/72bcb223-da77-4ed5-a03a-796fd5ece728
+                                            [title] => Lehrkraft für Bildende Kunst
+                                        )
+
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/54361270-bc5e-40fb-8f84-a0023a85cdf7
+                            [searchHit] => Hochschullehrkräfte für Bildende Kunst unterrichten Studierende an einer Schule für bildende Kunst in spezialisierten Theoriekursen und vor allem in praxisnahen Kursen auf einer höheren Bildungsstufe, u. a. in Zeichnen, Malen und Bildhauerei. Sie vermitteln theoretische Kenntnisse, um die praktischen Fertigkeiten und Techniken zu fördern, die die angehenden bildenden Künstlerinnen und Künstler später beherrschen müssen. Hochschullehrkräfte für Bildende Kunst überwachen die Fortschritte der Schülerinnen und Schüler, helfen bei Bedarf individuell und bewerten ihr Wissen und ihre praktische Erfahrung mithilfe von (Praxis-)Aufgaben, Tests und Prüfungen.
+                            [title] => Hochschullehrkraft für Bildende Kunst
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Hochschullehrkraft für Bildende Kunst
+                                    [no] => instruktør i kunstvitenskap
+                                    [fi] => kuvataiteen opettaja
+                                    [en-us] => fine arts instructor
+                                    [pt] => Professor de Belas Artes/Professora de Belas Artes
+                                    [bg] => преподавател по изящни изкуства, висше училище
+                                    [lt] => vaizduojamojo meno dėstytojas
+                                    [hr] => predavač/predavačica likovnih umjetnosti
+                                    [lv] => tēlotājmākslas pasniedzējs
+                                    [fr] => professeur des beaux-arts/professeure des beaux-arts
+                                    [hu] => képzőművészet-tanár
+                                    [sk] => vysokoškolský učiteľ/vysokoškolská učiteľka v odbore výtvarné umenie
+                                    [sl] => predavatelj/predavateljica likovne umetnosti
+                                    [ga] => teagascóir mínealaíon
+                                    [sv] => instruktör, konstvetenskap
+                                    [el] => πανεπιστημιακός καθηγητής καλών τεχνών/πανεπιστημιακή καθηγήτρια καλών τεχνών
+                                    [mt] => għalliem tal-arti/għalliema tal-arti
+                                    [en] => fine arts instructor
+                                    [is] => leiðbeinandi klassískra lista
+                                    [it] => insegnante di accademia d’arte
+                                    [es] => profesor de bellas artes/profesora de bellas artes
+                                    [et] => kunstiõppeasutuse kunstiõpetaja
+                                    [cs] => učitel výtvarného umění/učitelka výtvarného umění
+                                    [ar] => مدرب فنون جميلة / محاضر فنون جميلة
+                                    [pl] => instruktor w dziedzinie sztuk pięknych
+                                    [da] => kunstlærer
+                                    [ro] => cadru didactic în învățământul superior în domeniul artelor plastice
+                                    [nl] => docent beeldende kunsten hoger onderwijs
+                                )
+
+                            [code] => 2310.1.17
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/684fd8d5-9b40-4b02-a680-438f0082d923
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/54361270-bc5e-40fb-8f84-a0023a85cdf7&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/54361270-bc5e-40fb-8f84-a0023a85cdf7
+                                            [title] => Hochschullehrkraft für Bildende Kunst
+                                        )
+
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                            [searchHit] => Technischer Zeichner
+                            [title] => Technischer Zeichner/Technische Zeichnerin
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Technischer Zeichner/Technische Zeichnerin
+                                    [no] => teknisk tegner
+                                    [fi] => suunnitteluavustaja
+                                    [en-us] => drafter
+                                    [pt] => Projetista
+                                    [bg] => чертожник
+                                    [lt] => projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica
+                                    [lv] => rasētājs
+                                    [fr] => dessinateur/dessinatrice
+                                    [hu] => műszaki rajzoló
+                                    [sk] => technický kreslič/technická kreslička
+                                    [sl] => tehnični risar/tehnična risarka
+                                    [ga] => línitheoir
+                                    [sv] => ritare
+                                    [el] => ειδικός ηλεκτρονικού σχεδίου/ειδική ηλεκτρονικού σχεδίου
+                                    [mt] => drafter
+                                    [en] => drafter
+                                    [is] => tækniteiknari
+                                    [it] => disegnatore/disegnatrice
+                                    [es] => dibujante técnico/dibujante técnica
+                                    [et] => joonestaja
+                                    [cs] => projektant/projektantka
+                                    [ar] => رسام / رسامة
+                                    [pl] => kreślarz
+                                    [da] => teknisk tegner
+                                    [ro] => desenator tehnic CAD/desenatoare tehnică CAD
+                                    [nl] => technisch tekenaar
+                                )
+
+                            [isTopConceptInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                )
+
+                            [code] => 3118.3
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderIscoGroup] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/isco/C3118
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                            [title] => Technischer Zeichner/Technische Zeichnerin
+                                        )
+
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/341b405b-12cd-4ece-9b4b-cbfae3551ea3
+                            [searchHit] => Zeichner Kraftfahrzeugbau
+                            [title] => Zeichner Kraftfahrzeugbau/Zeichnerin Kraftfahrzeugbau
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Kraftfahrzeugbau/Zeichnerin Kraftfahrzeugbau
+                                    [no] => teknisk tegner innen bilteknikk
+                                    [fi] => suunnitteluavustaja, autotekniikka
+                                    [en-us] => automotive engineering drafter
+                                    [pt] => Projetista de automóveis
+                                    [bg] => чертожник, автомобилостроене
+                                    [lt] => transporto priemonių inžinierius projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za vozila
+                                    [lv] => mašīnbūves rasētājs
+                                    [fr] => dessinateur en ingénierie automobile/dessinatrice en ingénierie automobile
+                                    [hu] => gépjárműgyártási műszaki rajzoló
+                                    [sk] => kreslič/kreslička v automobilovom inžinierstve
+                                    [sl] => tehnični risar/tehnična risarka za motorna vozila
+                                    [ga] => línitheoir innealtóireachta gluaisteán
+                                    [sv] => ritare, fordonsindustrin
+                                    [el] => σχεδιαστής οχημάτων/σχεδιάστρια οχημάτων
+                                    [mt] => disinjatur tekniku tal-inġinerija tal-karozzi/disinjatriċi teknika tal-inġinerija tal-karozzi
+                                    [en] => automotive engineering drafter
+                                    [is] => tækniteiknari í bifvélaverkfræði
+                                    [it] => disegnatore automobilistico/disegnatrice automobilistica
+                                    [es] => ingeniero técnico de automoción especializado en diseño técnico/ingeniera técnica de automoción especializada en diseño técnico
+                                    [et] => mootorsõidukiehitusjoonestaja
+                                    [cs] => technik konstruktér v automobilovém průmyslu/technička konstruktérka v automobilovém průmyslu
+                                    [ar] => رسام هندسة السيارات / رسامة هندسة السيارات
+                                    [pl] => kreślarz - motoryzacja
+                                    [da] => teknisk tegner inden for motorkøretøjsindustrien
+                                    [ro] => desenator tehnic pentru construcții de mașini
+                                    [nl] => technisch tekenaar voertuigbouw
+                                )
+
+                            [code] => 3118.3.3
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/341b405b-12cd-4ece-9b4b-cbfae3551ea3&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/341b405b-12cd-4ece-9b4b-cbfae3551ea3
+                                            [title] => Zeichner Kraftfahrzeugbau/Zeichnerin Kraftfahrzeugbau
+                                        )
+
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/3f73120d-cece-4848-9fb4-61fdbaa7eba5
+                            [searchHit] => Zeichner Schienenfahrzeuge
+                            [title] => Zeichner Schienenfahrzeuge/Zeichnerin Schienenfahrzeuge
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Schienenfahrzeuge/Zeichnerin Schienenfahrzeuge
+                                    [no] => teknisk tegner, rullende materiell
+                                    [fi] => suunnitteluavustaja, kiskokalusto
+                                    [en-us] => rolling stock engineering drafter
+                                    [pt] => Projetista de material circulante
+                                    [bg] => чертожник, железопътен подвижен състав
+                                    [lt] => riedmenų inžinierius projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za vučna i vučena vozila
+                                    [lv] => ritošā sastāva rasētājs
+                                    [fr] => dessinateur technique matériel roulant/dessinatrice technique matériel roulant
+                                    [hu] => vasútijármű-gyártási műszaki rajzoló
+                                    [sk] => technický kreslič/technická kreslička železničných koľajových vozidiel
+                                    [sl] => tehnični risar/tehnična risarka za tirnična vozila
+                                    [ga] => línitheoir innealtóireachta rothstoic
+                                    [sv] => ritare, rullande materiel
+                                    [el] => σχεδιαστής τροχαίου υλικού/σχεδιάστρια τροχαίου υλικού
+                                    [mt] => disinjatur tekniku tal-inġinerija tal-vetturi ferrovjarji/disinjatriċi teknika tal-inġinerija tal-vetturi ferrovjarji
+                                    [en] => rolling stock engineering drafter
+                                    [is] => tækniteiknari í járnbrautarvagnaverkfræði
+                                    [it] => disegnatore di materiale rotabile/disegnatrice di materiale rotabile
+                                    [es] => ingeniero técnico de material rodante especializado en diseño técnico/ingeniera técnica de material rodante especializada en diseño técnico
+                                    [et] => veeremijoonestaja
+                                    [cs] => projektant kolejových vozidel/projektantka kolejových vozidel
+                                    [ar] => رسام هندسة القاطرات / رسامة هندسة القاطرات
+                                    [pl] => kreślarz taboru kolejowego
+                                    [da] => teknisk tegner inden for rullende materiel
+                                    [ro] => desenator tehnic material rulant
+                                    [nl] => technisch tekenaar rollend materieel
+                                )
+
+                            [code] => 3118.3.13
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3f73120d-cece-4848-9fb4-61fdbaa7eba5&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/3f73120d-cece-4848-9fb4-61fdbaa7eba5
+                                            [title] => Zeichner Schienenfahrzeuge/Zeichnerin Schienenfahrzeuge
+                                        )
+
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/2ac509e8-2850-42c3-b11d-d24077a7921b
+                            [searchHit] => Zeichner Seefahrzeuge
+                            [title] => Zeichner Seefahrzeuge/Zeichnerin Seefahrzeuge
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Seefahrzeuge/Zeichnerin Seefahrzeuge
+                                    [no] => teknisk tegner, marinteknikk
+                                    [fi] => suunnitteluavustaja, laivanrakennus
+                                    [en-us] => marine engineering drafter
+                                    [pt] => Projetista de engenharia naval
+                                    [bg] => чертожник, корабостроене
+                                    [lt] => jūrų transporto inžinierius projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za brodogradnju
+                                    [lv] => kuģu tehnikas rasētājs
+                                    [fr] => dessinateur en génie maritime/dessinatrice en génie maritime
+                                    [hu] => hajóépítési műszaki rajzoló
+                                    [sk] => technický kreslič plavidiel/technická kreslička plavidiel
+                                    [sl] => tehnični risar/tehnična risarka za ladijsko strojništvo
+                                    [ga] => línitheoir innealtóireachta muirí
+                                    [sv] => ritare, fartyg och båtar
+                                    [el] => ειδικός ναυπηγικού σχεδίου/ειδική ναυπηγικού σχεδίου
+                                    [mt] => disinjatur tekniku tal-inġinerija marittima/disinjatriċi teknika tal-inġinerija marittima
+                                    [en] => marine engineering drafter
+                                    [is] => tækniteiknari í skipaverkfræði
+                                    [it] => disegnatore navale/disegnatrice navale
+                                    [es] => ingeniero técnico naval especializado en diseño técnico/ingeniera técnica naval especializada en diseño técnico
+                                    [et] => laevaehitusjoonestaja
+                                    [cs] => technik konstruktér v lodním stavitelství/technička konstruktérka v lodním stavitelství
+                                    [ar] => رسام الهندسة البحرية / رسامة الهندسة البحرية
+                                    [pl] => kreślarz w stoczni
+                                    [da] => teknisk tegner inden for skibsindustrien
+                                    [ro] => desenator tehnic în construcții și instalații navale
+                                    [nl] => technisch tekenaar scheepsbouw
+                                )
+
+                            [code] => 3118.3.10
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ac509e8-2850-42c3-b11d-d24077a7921b&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/2ac509e8-2850-42c3-b11d-d24077a7921b
+                                            [title] => Zeichner Seefahrzeuge/Zeichnerin Seefahrzeuge
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => Array
+                        (
+                            [className] => Occupation
+                            [classId] => http://data.europa.eu/esco/model#Occupation
+                            [uri] => http://data.europa.eu/esco/occupation/1c9937fe-5eaa-4f7e-ba31-77e6e7db022c
+                            [searchHit] => CAD-Zeichner Luft- und Raumfahrzeuge
+                            [title] => Zeichner Luft- und Raumfahrttechnik/Zeichnerin Luft- und Raumfahrttechnik
+                            [preferredLabel] => Array
+                                (
+                                    [de] => Zeichner Luft- und Raumfahrttechnik/Zeichnerin Luft- und Raumfahrttechnik
+                                    [no] => teknisk tegner, romfartsteknikk
+                                    [fi] => suunnitteluavustaja, ilmailu- ja avaruustekniikka
+                                    [en-us] => aerospace engineering drafter
+                                    [pt] => Projetista aeroespacial
+                                    [bg] => чертожник, въздухоплаване
+                                    [lt] => aerokosmoso technologijų inžinierius projektuotojas
+                                    [hr] => tehnički crtač / tehnička crtačica za zrakoplovstvo
+                                    [lv] => aeronautikas rasētājs
+                                    [fr] => dessinateur en ingénierie aérospatiale/dessinatrice en ingénierie aérospatiale
+                                    [hu] => légi-és űrjárműtervező rajzoló
+                                    [sk] => kreslič/kreslička v leteckom a vesmírnom inžinierstve
+                                    [sl] => tehnični risar/tehnična risarka za letalstvo
+                                    [ga] => línitheoir innealtóireachta aeraspáis
+                                    [sv] => ritare, rymdindustrin
+                                    [el] => σχεδιαστής συστημάτων αεροδιαστημικής/σχεδιάστρια συστημάτων αεροδιαστημικής
+                                    [mt] => disinjatur tekniku tal-inġinerija ajruspazjali/disinjatriċi teknika tal-inġinerija ajruspazjali
+                                    [en] => aerospace engineering drafter
+                                    [is] => tækniteiknari í geimverkfræði
+                                    [it] => disegnatore aerospaziale/disegnatrice aerospaziale
+                                    [es] => ingeniero técnico aeroespacial especializado en diseño técnico/ingeniera técnica aeroespacial especializada en diseño técnico
+                                    [et] => aeronautikajoonestaja
+                                    [cs] => technik konstruktér v leteckém a kosmickém průmyslu/technička konstruktérka v leteckém a kosmickém průmyslu
+                                    [ar] => رسام هندسة الفضاء / رسامة هندسة الفضاء
+                                    [pl] => kreślarz - lotnictwo i kosmonautyka
+                                    [da] => teknisk tegner inden for luftfartsindustrien
+                                    [ro] => desenator tehnic pentru industria aeronautică
+                                    [nl] => tekenaar-ontwerper vliegtuigbouw
+                                )
+
+                            [code] => 3118.3.1
+                            [isInScheme] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/concept-scheme/member-occupations
+                                    [1] => http://data.europa.eu/esco/concept-scheme/occupations
+                                )
+
+                            [broaderOccupation] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407
+                                )
+
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1c9937fe-5eaa-4f7e-ba31-77e6e7db022c&language=de
+                                            [uri] => http://data.europa.eu/esco/occupation/1c9937fe-5eaa-4f7e-ba31-77e6e7db022c
+                                            [title] => Zeichner Luft- und Raumfahrttechnik/Zeichnerin Luft- und Raumfahrttechnik
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

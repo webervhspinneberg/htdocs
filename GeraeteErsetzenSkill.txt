@@ -1,0 +1,460 @@
+Array
+(
+    [className] => Skill
+    [classId] => http://data.europa.eu/esco/model#Skill
+    [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+    [title] => schadhafte Geräte ersetzen
+    [referenceLanguage] => Array
+        (
+            [0] => en
+        )
+
+    [preferredLabel] => Array
+        (
+            [no] => erstatte defekte enheter
+            [de] => schadhafte Geräte ersetzen
+            [fi] => korvata vialliset laitteet
+            [en-us] => replace defective devices
+            [pt] => substituir dispositivos com defeito
+            [bg] => подменяне на дефектни устройства
+            [lt] => pakeisti sugedusius prietaisus
+            [lv] => aizstāt bojātas iekārtas
+            [hr] => zamjenjivati pokvarene uređaje
+            [fr] => remplacer un équipement défectueux
+            [hu] => kicseréli a meghibásodott készülékeket
+            [sk] => opravovať chybné zariadenia
+            [sl] => popravljati pokvarjene naprave
+            [ga] => gléasanna lochtacha a athsholáthar
+            [sv] => byta ut defekt utrustning
+            [mt] => sostituzzjoni tal-apparati difettużi
+            [el] => αντικατάσταση ελαττωματικών συσκευών
+            [en] => replace defective devices
+            [is] => skiptir út gölluðum búnaði
+            [it] => sostituire i dispositivi difettosi
+            [es] => remplazar aparatos defectuosos
+            [et] => rikkis seadmeid välja vahetama
+            [cs] => vyměnit vadná zařízení
+            [ar] => استبدال الأجهزة المعيبة
+            [pl] => wymieniać wadliwe urządzenia
+            [da] => udskifte defekte enheder
+            [ro] => înlocuiește dispozitive defecte
+            [nl] => defecte apparaten vervangen of repareren
+        )
+
+    [alternativeLabel] => Array
+        (
+            [en] => Array
+                (
+                    [0] => replacing defective devices
+                    [1] => replace defective device
+                    [2] => replace devices which are defective
+                    [3] => replace non-working devices
+                    [4] => replace inoperative devices
+                )
+
+            [nl] => Array
+                (
+                    [0] => defecte toestellen vervangen of herstellen
+                    [1] => defecte toestellen vervangen
+                    [2] => defecte apparaten vervangen of herstellen
+                    [3] => defecte toestellen vervangen of repareren
+                    [4] => defecte apparaten vervangen
+                )
+
+        )
+
+    [description] => Array
+        (
+            [de] => Array
+                (
+                    [literal] => Ersetzen oder Reparieren defekter Geräte.
+                    [mimetype] => plain/text
+                )
+
+            [no] => Array
+                (
+                    [literal] => Erstatte eller reparere defekt utstyr.
+                    [mimetype] => plain/text
+                )
+
+            [en-us] => Array
+                (
+                    [literal] => Replace or repair defective equipment.
+                    [mimetype] => plain/text
+                )
+
+            [fi] => Array
+                (
+                    [literal] => Korjata tai vaihtaa vialliset laitteet.
+                    [mimetype] => plain/text
+                )
+
+            [pt] => Array
+                (
+                    [literal] => Substituir ou reparar equipamentos com defeito.
+                    [mimetype] => plain/text
+                )
+
+            [bg] => Array
+                (
+                    [literal] => Подменя или поправя дефектно оборудване.
+                    [mimetype] => plain/text
+                )
+
+            [lt] => Array
+                (
+                    [literal] => Pakeisti arba taisyti sugedusią įrangą.
+                    [mimetype] => plain/text
+                )
+
+            [hr] => Array
+                (
+                    [literal] => Zamjenjivati ili popravljati pokvarenu opremu.
+                    [mimetype] => plain/text
+                )
+
+            [lv] => Array
+                (
+                    [literal] => Aizstāt vai salabot bojāto aparatūru.
+                    [mimetype] => plain/text
+                )
+
+            [fr] => Array
+                (
+                    [literal] => Remplacer ou réparer les équipements défectueux.
+                    [mimetype] => plain/text
+                )
+
+            [hu] => Array
+                (
+                    [literal] => Kicseréli vagy kijavítja a hibás berendezéseket.
+                    [mimetype] => plain/text
+                )
+
+            [sk] => Array
+                (
+                    [literal] => Vymeniť alebo opraviť chybné zariadenia.
+                    [mimetype] => plain/text
+                )
+
+            [sl] => Array
+                (
+                    [literal] => Zamenjati ali popravljati pokvarjeno opremo.
+                    [mimetype] => plain/text
+                )
+
+            [ga] => Array
+                (
+                    [literal] => Trealamh lochtach a athsholáthar nó a dheisiú.
+                    [mimetype] => plain/text
+                )
+
+            [sv] => Array
+                (
+                    [literal] => Byta ut eller reparera defekt utrustning.
+                    [mimetype] => plain/text
+                )
+
+            [mt] => Array
+                (
+                    [literal] => Issostitwixxi jew sewwi tagħmir difettuż.
+                    [mimetype] => plain/text
+                )
+
+            [el] => Array
+                (
+                    [literal] => Αντικατάσταση ή επισκευή ελαττωματικού εξοπλισμού.
+                    [mimetype] => plain/text
+                )
+
+            [en] => Array
+                (
+                    [literal] => Replace or repair defective equipment.
+                    [mimetype] => plain/text
+                )
+
+            [is] => Array
+                (
+                    [literal] => Skiptir út eða gerir við búnað sem er bilaður eða er viðgerðarhæfur.
+                    [mimetype] => plain/text
+                )
+
+            [it] => Array
+                (
+                    [literal] => Sostituire o riparare attrezzature difettose.
+                    [mimetype] => plain/text
+                )
+
+            [es] => Array
+                (
+                    [literal] => Sustituir o reparar los equipos defectuosos.
+                    [mimetype] => plain/text
+                )
+
+            [et] => Array
+                (
+                    [literal] => Defektsete seadmete väljavahetamine või remont.
+                    [mimetype] => plain/text
+                )
+
+            [cs] => Array
+                (
+                    [literal] => Vyměnit nebo opravit vadné zařízení.
+                    [mimetype] => plain/text
+                )
+
+            [ar] => Array
+                (
+                    [literal] => استبدال أو إصلاح الأجهزة المعيبة.
+                    [mimetype] => plain/text
+                )
+
+            [pl] => Array
+                (
+                    [literal] => Wymiana lub naprawa wadliwego wyposażenia.
+                    [mimetype] => plain/text
+                )
+
+            [da] => Array
+                (
+                    [literal] => Udskiftning eller reparation af defekt udstyr.
+                    [mimetype] => plain/text
+                )
+
+            [ro] => Array
+                (
+                    [literal] => Înlocuiește sau repară echipamente defecte.
+                    [mimetype] => plain/text
+                )
+
+            [nl] => Array
+                (
+                    [literal] => Vervangen of repareren van defecte apparatuur.
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [status] => released
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4&language=de
+                    [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                    [title] => schadhafte Geräte ersetzen
+                )
+
+            [isTopConceptInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/member-skills
+                            [title] => Fähigkeiten auf der ESCO-Ebene
+                        )
+
+                )
+
+            [isInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills
+                            [title] => ESCO-Fähigkeiten
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/member-skills
+                            [title] => Fähigkeiten auf der ESCO-Ebene
+                        )
+
+                )
+
+            [hasSkillType] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=de
+                            [uri] => http://data.europa.eu/esco/skill-type/skill
+                            [title] => Fähigkeit
+                        )
+
+                )
+
+            [hasReuseLevel] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/occupation-specific&language=de
+                            [uri] => http://data.europa.eu/esco/skill-reuse-level/occupation-specific
+                            [title] => berufsspezifische Fähigkeiten und Kompetenzen
+                            [code] => Level 4
+                        )
+
+                )
+
+            [broaderHierarchyConcept] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S8.8.1&language=de
+                            [uri] => http://data.europa.eu/esco/skill/S8.8.1
+                            [title] => Installation und Reparatur von elektrischen, elektronischen und Präzisionsgeräten
+                            [code] => S8.8.1
+                        )
+
+                )
+
+            [narrowerSkill] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fcf70854-8541-4a94-aeaf-c50148649286&language=de
+                            [uri] => http://data.europa.eu/esco/skill/fcf70854-8541-4a94-aeaf-c50148649286
+                            [title] => Defekte an Kokillen reparieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f&language=de
+                            [uri] => http://data.europa.eu/esco/skill/216e5ea6-c683-4945-9f96-03483dc56d9f
+                            [title] => verschließbare Vorrichtungen instand setzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [2] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589&language=de
+                            [uri] => http://data.europa.eu/esco/skill/87af00b5-30fa-41c8-bfa5-357f22c8d589
+                            [title] => defekte Komponenten ersetzen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                )
+
+            [isOptionalForOccupation] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f346896-a4fb-47a1-9572-13398bc297a6&language=de
+                            [uri] => http://data.europa.eu/esco/occupation/7f346896-a4fb-47a1-9572-13398bc297a6
+                            [title] => Platzanweiser/Platzanweiserin
+                        )
+
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [ancestors] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => schadhafte Geräte ersetzen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/ade18380-76dc-4263-8c95-f61c0a887fc4
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8.1
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Installation und Reparatur von elektrischen, elektronischen und Präzisionsgeräten
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.8.1&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8.8.1
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8.8
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => Installation, Wartung und Reparatur von elektrischen, elektronischen und Präzisionsausrüstungen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.8&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8.8
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S8
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => Arbeiten mit Maschinen und Spezialausrüstungen
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S8
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                    [0] => http://data.europa.eu/esco/skill/S
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => Fähigkeiten
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=de
+                                            [uri] => http://data.europa.eu/esco/skill/S
+                                        )
+
+                                )
+
+                            [parents] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

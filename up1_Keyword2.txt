@@ -1,0 +1,500 @@
+Array
+(
+    [className] => Concept
+    [classId] => http://www.w3.org/2004/02/skos/core#Concept
+    [uri] => http://data.europa.eu/esco/skill/S8.3.0
+    [title] => Bedienen von Wasserfahrzeugen
+    [preferredLabel] => Array
+        (
+            [no] => drift av vannfarkost
+            [de] => Bedienen von Wasserfahrzeugen
+            [fi] => käyttää vesikulkuneuvoja
+            [pt] => operar embarcações
+            [bg] => експлоатация на плавателни съдове
+            [lt] => eksploatuoti laivus
+            [hr] => upravljanje plovilima na vodomlazni pogon
+            [lv] => peldlīdzekļa ekspluatācija
+            [fr] => exploiter des véhicules nautiques à moteur
+            [hu] => vízi járműveket üzemeltet
+            [sk] => viesť plavidlá
+            [sl] => upravljati plovila
+            [ga] => dobharárthacha a oibriú
+            [sv] => manövrera vattenfarkoster
+            [el] => λειτουργία σκαφών
+            [mt] => it-tħaddim tal-opra tal-baħar
+            [en] => operating watercraft
+            [is] => stjórna faratækja á vatni
+            [it] => guidare imbarcazioni
+            [es] => operar vehículos acuáticos
+            [et] => veesõidukite käitamine
+            [cs] => řídit plavidla
+            [ar] => تشغيل مركبة مائية
+            [pl] => obsługa jednostek pływających
+            [da] => betjene vandfartøjer
+            [ro] => exploatează nave
+            [nl] => bedienen van watervaartuigen
+        )
+
+    [alternativeLabel] => Array
+        (
+            [en] => Array
+                (
+                    [0] => operating ships and boats
+                )
+
+        )
+
+    [code] => S8.3.0
+    [codes] => Array
+        (
+            [0] => Array
+                (
+                    [datatype] => 
+                    [value] => S8.3.0
+                )
+
+        )
+
+    [description] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Operating and controlling the movement of watercraft and underwater vessels, including ships, boats and other types of vessel.
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [scopeNote] => Array
+        (
+            [en] => Array
+                (
+                    [literal] => Examples:
+- Operate mechanical equipment of ships
+- Operate small craft
+- Use fishing vessel equipment
+- Navigate European inland waterways
+- Steer vessels
+                    [mimetype] => plain/text
+                )
+
+        )
+
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S8.3.0&language=de
+                    [uri] => http://data.europa.eu/esco/skill/S8.3.0
+                    [title] => Bedienen von Wasserfahrzeugen
+                )
+
+            [isInScheme] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills-hierarchy&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills-hierarchy
+                            [title] => ESCO skills hierarchy
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=de
+                            [uri] => http://data.europa.eu/esco/concept-scheme/skills
+                            [title] => ESCO-Fähigkeiten
+                        )
+
+                )
+
+            [broaderConcept] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S8.3&language=de
+                            [uri] => http://data.europa.eu/esco/skill/S8.3
+                            [title] => Bedienen von Wasserfahrzeugen
+                            [code] => S8.3
+                        )
+
+                )
+
+            [narrowerSkill] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/59cbf495-4939-4871-93de-a44fc3f33ce3&language=de
+                            [uri] => http://data.europa.eu/esco/skill/59cbf495-4939-4871-93de-a44fc3f33ce3
+                            [title] => Kleinschiffe navigieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [1] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2a422611-4172-421b-a5f1-6ec9eb8f9f28&language=de
+                            [uri] => http://data.europa.eu/esco/skill/2a422611-4172-421b-a5f1-6ec9eb8f9f28
+                            [title] => Schiffmaschinen bedienen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [2] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f040111a-4d15-4dec-b343-fc4259318ee6&language=de
+                            [uri] => http://data.europa.eu/esco/skill/f040111a-4d15-4dec-b343-fc4259318ee6
+                            [title] => Schiffe in Häfen lotsen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [3] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a6c7635f-c042-45ac-ab10-a740c7582a85&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a6c7635f-c042-45ac-ab10-a740c7582a85
+                            [title] => Schiffe mit Tauen sichern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [4] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e4b9a090-de87-4569-a927-d907b753750a&language=de
+                            [uri] => http://data.europa.eu/esco/skill/e4b9a090-de87-4569-a927-d907b753750a
+                            [title] => Schiffsmanöver unterstützen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [5] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a833fceb-c552-4a5c-a5cf-4163313995c9&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a833fceb-c552-4a5c-a5cf-4163313995c9
+                            [title] => Geräte für Navigationsoperationen vorbereiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [6] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a723adc4-3eaa-4c28-ae75-8f6282655883&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a723adc4-3eaa-4c28-ae75-8f6282655883
+                            [title] => Kleinschiffe betreiben
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [7] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/74e0053d-7fb0-43da-99dc-6bae87143ff7&language=de
+                            [uri] => http://data.europa.eu/esco/skill/74e0053d-7fb0-43da-99dc-6bae87143ff7
+                            [title] => Hilfestellung bei Vertäuungsarbeiten leisten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [8] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab7260bb-457b-472f-84e2-2527c607b81b&language=de
+                            [uri] => http://data.europa.eu/esco/skill/ab7260bb-457b-472f-84e2-2527c607b81b
+                            [title] => in Unterwasserkammer arbeiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [9] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2d1af56f-9771-4b80-a0e5-0f004cd15aa3&language=de
+                            [uri] => http://data.europa.eu/esco/skill/2d1af56f-9771-4b80-a0e5-0f004cd15aa3
+                            [title] => Boote für medizinische Notfalldienste steuern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [10] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0e89c75a-0f10-4d4c-b85c-ca7cfbeb9352&language=de
+                            [uri] => http://data.europa.eu/esco/skill/0e89c75a-0f10-4d4c-b85c-ca7cfbeb9352
+                            [title] => Trimmung von Schiffen beurteilen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [11] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c8c626b9-b333-46da-8532-8ca54bef5c7e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/c8c626b9-b333-46da-8532-8ca54bef5c7e
+                            [title] => bei der Vorbereitung von Rettungsbooten helfen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [12] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/88dd8cc4-6447-4c83-9938-308c6d71df1e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/88dd8cc4-6447-4c83-9938-308c6d71df1e
+                            [title] => kritische Systeme von Schiffen bedienen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [13] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0b832182-5fc8-49f8-8fb8-8ddc225f5580&language=de
+                            [uri] => http://data.europa.eu/esco/skill/0b832182-5fc8-49f8-8fb8-8ddc225f5580
+                            [title] => Rettungsboote zu Wasser lassen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [14] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75150280-c239-47a2-98b1-e43c1c88e36e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/75150280-c239-47a2-98b1-e43c1c88e36e
+                            [title] => Maschinenraum auf den Betrieb vorbereiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [15] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/938973e2-c084-4c34-9dd4-382128caee6d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/938973e2-c084-4c34-9dd4-382128caee6d
+                            [title] => Schiffe steuern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [16] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/934226ed-71a3-4970-9f78-abb6a7b4d30d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/934226ed-71a3-4970-9f78-abb6a7b4d30d
+                            [title] => europäische Binnenwasserstraßen befahren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [17] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e842ed4c-23c1-4c29-b1b1-b490889db735&language=de
+                            [uri] => http://data.europa.eu/esco/skill/e842ed4c-23c1-4c29-b1b1-b490889db735
+                            [title] => Navigationsrouten zeichnen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [18] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2d78d7e4-767a-436d-90cb-e0775ed613ee&language=de
+                            [uri] => http://data.europa.eu/esco/skill/2d78d7e4-767a-436d-90cb-e0775ed613ee
+                            [title] => Wache stehen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [19] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c7b4fa0d-0095-4e28-9601-d96904f0955e&language=de
+                            [uri] => http://data.europa.eu/esco/skill/c7b4fa0d-0095-4e28-9601-d96904f0955e
+                            [title] => sich auf den Betrieb kleiner Handwerksbetriebe vorbereiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [20] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d461d450-14bb-495a-abf6-eb8c662f5e68&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d461d450-14bb-495a-abf6-eb8c662f5e68
+                            [title] => sichere Navigationswachen halten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [21] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f2b589bb-eec2-419d-a3ab-e28ad092a73f&language=de
+                            [uri] => http://data.europa.eu/esco/skill/f2b589bb-eec2-419d-a3ab-e28ad092a73f
+                            [title] => mechanische Geräte auf Schiffen bedienen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [22] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c77672f9-68e5-49fd-8131-2eb8ed87b889&language=de
+                            [uri] => http://data.europa.eu/esco/skill/c77672f9-68e5-49fd-8131-2eb8ed87b889
+                            [title] => die Verankerung dirigieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [23] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bcef602c-c9d7-4251-98ba-ae92ba619689&language=de
+                            [uri] => http://data.europa.eu/esco/skill/bcef602c-c9d7-4251-98ba-ae92ba619689
+                            [title] => unterschiedliche Arten von Schleusen und ihre Bedienung kennen und verstehen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [24] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6210f756-7d6a-4ae3-b326-b5504aae05a5&language=de
+                            [uri] => http://data.europa.eu/esco/skill/6210f756-7d6a-4ae3-b326-b5504aae05a5
+                            [title] => Unterstützung bei der Navigation auf dem Wasser leisten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [25] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/690a0cce-ed94-4d20-a739-4a4d3aea9e38&language=de
+                            [uri] => http://data.europa.eu/esco/skill/690a0cce-ed94-4d20-a739-4a4d3aea9e38
+                            [title] => Inbetriebnahmeprozeduren von Kleinschiffen leiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [26] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/334da06a-c45c-47eb-86c9-222267135e94&language=de
+                            [uri] => http://data.europa.eu/esco/skill/334da06a-c45c-47eb-86c9-222267135e94
+                            [title] => Segel auf Schiffen betätigen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [27] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d30dac77-a21f-45e7-a9a1-36cc1529d287&language=de
+                            [uri] => http://data.europa.eu/esco/skill/d30dac77-a21f-45e7-a9a1-36cc1529d287
+                            [title] => Schiffe losmachen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [28] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/49026711-0f2d-42b3-8912-2b897ad05117&language=de
+                            [uri] => http://data.europa.eu/esco/skill/49026711-0f2d-42b3-8912-2b897ad05117
+                            [title] => Schiffe festmachen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [29] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1eaeb185-4f9e-4e8a-8b64-db3adc11b9b0&language=de
+                            [uri] => http://data.europa.eu/esco/skill/1eaeb185-4f9e-4e8a-8b64-db3adc11b9b0
+                            [title] => Stabilität des Schiffs im Verhältnis zum Gewicht der Fahrgäste aufrechterhalten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [30] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/40ccfa88-7bf9-484f-8a45-18e2cad33a9b&language=de
+                            [uri] => http://data.europa.eu/esco/skill/40ccfa88-7bf9-484f-8a45-18e2cad33a9b
+                            [title] => Rettungsboote vorbereiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [31] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cf7fa26e-1cad-4a4c-8f3f-58f433d835ee&language=de
+                            [uri] => http://data.europa.eu/esco/skill/cf7fa26e-1cad-4a4c-8f3f-58f433d835ee
+                            [title] => Wache auf einem Schiff stehen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [32] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aac5a97b-4062-4aad-9ee3-4ea54047aa08&language=de
+                            [uri] => http://data.europa.eu/esco/skill/aac5a97b-4062-4aad-9ee3-4ea54047aa08
+                            [title] => Auffälligkeiten an Bord erkennen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [33] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/648d0fbf-45f6-45bd-ab00-dabb118f7574&language=de
+                            [uri] => http://data.europa.eu/esco/skill/648d0fbf-45f6-45bd-ab00-dabb118f7574
+                            [title] => Unterstützung in Bezug auf Maschinenanlagen auf Schiffen leisten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [34] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/79234b29-5ed0-45f4-8aae-78e4013b3920&language=de
+                            [uri] => http://data.europa.eu/esco/skill/79234b29-5ed0-45f4-8aae-78e4013b3920
+                            [title] => Schiffsausrüstung bedienen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [35] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a9728d44-4f93-489e-a517-b8b11b7ad0f8&language=de
+                            [uri] => http://data.europa.eu/esco/skill/a9728d44-4f93-489e-a517-b8b11b7ad0f8
+                            [title] => Schiffe in Häfen steuern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [36] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b801335-15e6-47d4-8863-9a5844949106&language=de
+                            [uri] => http://data.europa.eu/esco/skill/6b801335-15e6-47d4-8863-9a5844949106
+                            [title] => Ausrüstung von Fischereifahrzeugen verwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [37] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e8c81e5f-bd2c-494a-9c71-b725c3a600e2&language=de
+                            [uri] => http://data.europa.eu/esco/skill/e8c81e5f-bd2c-494a-9c71-b725c3a600e2
+                            [title] => die Geschwindigkeit von Schiffen in Häfen regeln
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [38] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4ccf6ece-47e3-45c4-bd7c-68ec24580b14&language=de
+                            [uri] => http://data.europa.eu/esco/skill/4ccf6ece-47e3-45c4-bd7c-68ec24580b14
+                            [title] => Ankerpfähle positionieren
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [39] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b4a3217-c06c-456c-905b-58350ab2c32d&language=de
+                            [uri] => http://data.europa.eu/esco/skill/2b4a3217-c06c-456c-905b-58350ab2c32d
+                            [title] => Schiffe im Hafen vor Anker legen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [40] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8e76cd71-fb0c-404b-957a-3044ec12d37c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/8e76cd71-fb0c-404b-957a-3044ec12d37c
+                            [title] => Manöver des Fischfangs anwenden
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [41] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fc651e3f-c163-4bdb-bb79-8061fbe780db&language=de
+                            [uri] => http://data.europa.eu/esco/skill/fc651e3f-c163-4bdb-bb79-8061fbe780db
+                            [title] => Rettungsausrüstung auf Schiffen bedienen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [42] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/03d988af-2e63-4151-bb5e-950f366e2c64&language=de
+                            [uri] => http://data.europa.eu/esco/skill/03d988af-2e63-4151-bb5e-950f366e2c64
+                            [title] => Schiffe in Hafenbecken leiten
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [43] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9b696239-fbf2-4031-84b7-eccdeaa2f11c&language=de
+                            [uri] => http://data.europa.eu/esco/skill/9b696239-fbf2-4031-84b7-eccdeaa2f11c
+                            [title] => Navigation auf dem Wasser durchführen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [44] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7570fb73-bfd1-4fd1-8a3b-1e2344dd71a7&language=de
+                            [uri] => http://data.europa.eu/esco/skill/7570fb73-bfd1-4fd1-8a3b-1e2344dd71a7
+                            [title] => Schiff den Ruderkommandos entsprechend steuern
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                    [45] => Array
+                        (
+                            [href] => https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bbdfdc78-3297-48d0-a03f-f7d18fe6f5d3&language=de
+                            [uri] => http://data.europa.eu/esco/skill/bbdfdc78-3297-48d0-a03f-f7d18fe6f5d3
+                            [title] => störungsfreie Durchführung von Fahrten sicherstellen
+                            [skillType] => http://data.europa.eu/esco/skill-type/skill
+                        )
+
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+        )
+
+)

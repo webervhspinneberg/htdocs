@@ -1,0 +1,23 @@
+# ignore configuration file as this may contain passwords
+config.inc.php
+
+# ignore directories not belonging to the core
+/files/
+/iwwb/
+/skprint/
+/skww*/
+/temp/
+
+# ignore private scripts and directories, eg. local2github.prv.sh
+*.prv*
+
+# ignore OS X files
+*.DS_Store
+
+# ignore Eclipse files
+.buildpath
+.project
+.settings
+.settings/*
+responsive_files
+weiterbildungsportal_files
